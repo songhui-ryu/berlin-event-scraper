@@ -11,7 +11,7 @@ interface Entry {
     href?: string;
 }
 
-async function sleep(milliseconds: number) {
+function sleep(milliseconds: number) {
     return new Promise((resolve) => {
         setTimeout(resolve, milliseconds);
     });
