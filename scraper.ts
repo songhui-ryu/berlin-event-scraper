@@ -4,7 +4,7 @@
 import { DOMParser } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
 import { DateRange, parseEnglishDate, parseGermanDate } from "./dateParser.ts";
 
-interface Entry {
+export interface Entry {
     name?: string;
     date?: DateRange;
     description?: string;
@@ -66,9 +66,5 @@ export async function getEvents(lang: string, path: string) {
         }
     }
 
-    const filename = lang == "en" ? "events_en.json" : "events_de.json";
-    await Deno.writeTextFile(
-        filename,
-        JSON.stringify(entries, null, 2),
-    );
+    return entries;
 }
