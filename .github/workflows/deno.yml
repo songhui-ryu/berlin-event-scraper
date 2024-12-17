@@ -24,6 +24,9 @@ jobs:
         uses: denoland/setup-deno@v2
         with:
           deno-version: v2.x
+      
+      - name: Test the scraper script
+        run: deno run test
 
       - name: Run the scraper script
         run: deno run start

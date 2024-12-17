@@ -130,6 +130,17 @@
     "href": "https://www.berlin.de/tickets/comedy/crazy-christmas-market-tour-in-berlin-81f42fa4-983a-4183-bef0-12cee5b52455/"
   },
   {
+    "name": "Kurzfilmtag",
+    "date": {
+      "start": "2024-12-20T23:00:00.000Z",
+      "end": "2024-12-20T23:00:00.000Z",
+      "locale": "de",
+      "originalString": "21. Dezember 2024"
+    },
+    "description": "Am 21. Dezember, dem kürzesten Tag des Jahres, findet zum 13. Mal der Kurzfilmtag statt. Die unterschiedlichsten Orte in Berlin verwandeln sich wieder für einen Tag in ein Kino und zeigen ein abwechslungsreiches Programm.",
+    "href": "https://www.berlin.de/tickets/filmfestivals/9356482-5595857-kurzfilmtag.html"
+  },
+  {
     "name": "Weihnachtsfilmfestival",
     "date": {
       "start": "2024-11-30T23:00:00.000Z",
@@ -150,17 +161,6 @@
     },
     "description": "Feuerzangenbowle mit Heinz Rühmann: Der Nikolaikirchplatz lädt mit dem Filmklassiker «Die Feuerzangenbowle» zum kostenlosen Kino-Vergnügen.",
     "href": "https://www.berlin.de/kino/filmfestivals/5075128-2020379-winter-film-fest.html"
-  },
-  {
-    "name": "SloVision - Slowenische Filmtage",
-    "date": {
-      "start": "2024-12-11T23:00:00.000Z",
-      "end": "2024-12-14T23:00:00.000Z",
-      "locale": "de",
-      "originalString": "12. bis 15. Dezember 2024"
-    },
-    "description": "Vom 12. bis 15. Dezember 2024 finden im Sputnik Kino die slowenischen Filmtage SloVision statt. Die Veranstaltung bietet einen Einblick in die Welt des zeitgenössischen slowenischen Films.",
-    "href": "https://www.berlin.de/kino/filmfestivals/9272304-2020379-slovision.html"
   },
   {
     "name": "Semiha Berksoy: Retrospektive",
@@ -197,26 +197,26 @@
     "href": "https://www.berlin.de/weihnachtsmarkt/3235772-3496862-weihnachtsmarkt-am-gendarmenmarkt-bebelp.html"
   },
   {
-    "name": "Alt-Rixdorfer Weihnachtsmarkt",
+    "name": "Lucia Weihnachtsmarkt in der Kulturbrauerei",
     "date": {
-      "start": "2024-12-05T23:00:00.000Z",
-      "end": "2024-12-07T23:00:00.000Z",
+      "start": "2024-11-24T23:00:00.000Z",
+      "end": "2024-12-21T23:00:00.000Z",
       "locale": "de",
-      "originalString": "06. bis 08. Dezember 2024"
+      "originalString": "25. November bis 22. Dezember 2024"
     },
-    "description": "Kopfsteinpflaster, warmes Licht aus Öllampen und historische Kulisse: Der Alt-Rixdorfer Weihnachtsmarkt am Richardplatz lockt mit einem einzigartigen Ambiente und karitativem Engagement.",
-    "href": "https://www.berlin.de/weihnachtsmarkt/3240343-3496862-alt-rixdorfer-weihnachtsmarkt.html"
+    "description": "Der Lucia Weihnachtsmarkt in der Kulturbrauerei lockt mit seiner besinnlichen Atmosphäre, einem warmen behaglichen Ambiente und einem täglichen kulturellen Programm.",
+    "href": "https://www.berlin.de/weihnachtsmarkt/3240367-3496862-lucia-weihnachtsmarkt-in-der-kulturbraue.html"
   },
   {
-    "name": "Englischer Weihnachtsmarkt",
+    "name": "Weihnachtsmarkt am Schloss Charlottenburg",
     "date": {
-      "start": "2024-12-06T23:00:00.000Z",
-      "end": "2024-12-06T23:00:00.000Z",
+      "start": "2024-11-24T23:00:00.000Z",
+      "end": "2024-12-28T23:00:00.000Z",
       "locale": "de",
-      "originalString": "07. Dezember 2024"
+      "originalString": "25. November bis 29. Dezember 2024"
     },
-    "description": "Unter dem Motto «The Very British Christmas Market» lädt die Charlottenburger Kirche St George's jedes Jahr zum englischen Weihnachtsmarkt.",
-    "href": "https://www.berlin.de/weihnachtsmarkt/7689300-3496862-englischer-weihnachtsmarkt.html"
+    "description": "Aufgrund seiner romantischen Kulisse und prächtiger Illuminationen ist der Weihnachtsmarkt am Schloss Charlottenburg nicht ohne Grund bei Berlinern und Besuchern zugleich beliebt.",
+    "href": "https://www.berlin.de/weihnachtsmarkt/3240314-3496862-weihnachtsmarkt-am-schloss-charlottenbur.html"
   },
   {
     "name": "Raw Wine Berlin",

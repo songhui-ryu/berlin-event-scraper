@@ -29,6 +29,25 @@ Deno.test("Parse dates in English", async (t) => {
       expect(parsed.start?.toString()).not.toBe("Invalid Date");
     }
   });
+
+  await t.step("parse exceptions", () => {
+    const dates = [
+      "November 22, 2024 - January 12, 2025",
+    ];
+
+    const correct = [
+      {
+        start: new Date("2024-11-21T23:00:00.000Z"),
+        end: new Date("2025-01-11T23:00:00.000Z"),
+        locale: "en",
+        originalString: "November 22, 2024 - January 12, 2025",
+      },
+    ];
+
+    for (let i = 0; i < dates.length; i++) {
+      expect(parseEnglishDate(dates[i])).toMatchObject(correct[i]);
+    }
+  });
 });
 
 Deno.test("Parse dates in German", async (t) => {
@@ -54,6 +73,25 @@ Deno.test("Parse dates in German", async (t) => {
       const parsed = parseGermanDate(date);
       expect(parsed).toHaveProperty("start");
       expect(parsed.start?.toString()).not.toBe("Invalid Date");
+    }
+  });
+
+  await t.step("parse exceptions", () => {
+    const dates = [
+      "22. November 2024 bis 12. Januar 2025",
+    ];
+
+    const correct = [
+      {
+        start: new Date("2024-11-21T23:00:00.000Z"),
+        end: new Date("2025-01-11T23:00:00.000Z"),
+        locale: "de",
+        originalString: "22. November 2024 bis 12. Januar 2025",
+      },
+    ];
+
+    for (let i = 0; i < dates.length; i++) {
+      expect(parseGermanDate(dates[i])).toMatchObject(correct[i]);
     }
   });
 });

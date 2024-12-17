@@ -22,22 +22,24 @@ export function parseEnglishDate(date: string): DateRange {
     // Regex for English dates
     const englishSingleDateRegex = /([a-zA-Z]+)\s*(\d{1,2}),?\s*(\d{4})/;
     const englishRangeRegex =
-        /([a-zA-Z]+)\s*(\d{1,2})\s*(?:to|and|-)\s*([a-zA-Z]*)\s*(\d{1,2}),?\s*(\d{4})/;
+        /([a-zA-Z]+)\s*(\d{1,2}),?\s*(\d{4})?\s*(?:to|and|-)\s*([a-zA-Z]*)\s*(\d{1,2}),?\s*(\d{4})/;
 
     // Check for English range
     if (englishRangeRegex.test(date)) {
         const match = date.match(englishRangeRegex);
         if (match) {
+            const startYear = match[3] ? match[3] : match[6];
+
             startDate = new Date(
-                `${match[5]}-${getMonthIndex(match[1])}-${match[2]}T00:00:00`,
+                `${startYear}-${getMonthIndex(match[1])}-${match[2]}T00:00:00`,
             );
 
-            const endMonthString = match[3]
-                ? getMonthIndex(match[3])
+            const endMonthString = match[4]
+                ? getMonthIndex(match[4])
                 : getMonthIndex(match[1]);
 
             endDate = new Date(
-                `${match[5]}-${endMonthString}-${match[4]}T00:00:00`,
+                `${match[6]}-${endMonthString}-${match[5]}T00:00:00`,
             );
 
             return {
@@ -93,22 +95,23 @@ export function parseGermanDate(date: string): DateRange {
     // Regex for German dates
     const germanSingleDateRegex = /(\d{1,2})\.\s*(\w+)\s*(\d{4})/;
     const germanRangeRegex =
-        /(\d{1,2})\.\s*([a-zA-Z]+)?\s*bis\s*(\d{1,2})\.\s*(\w+)\s*(\d{4})/;
+        /(\d{1,2})\.\s*([a-zA-Z]+)?\s*(\d{4})?\s*bis\s*(\d{1,2})\.\s*(\w+)\s*(\d{4})/;
 
     // Check for German range
     if (germanRangeRegex.test(date)) {
         const match = date.match(germanRangeRegex);
         if (match) {
+            const startYear = match[3] ? match[3] : match[6];
             const startMonthString = match[2]
                 ? getMonthIndex(match[2])
-                : getMonthIndex(match[4]);
+                : getMonthIndex(match[5]);
 
             startDate = new Date(
-                `${match[5]}-${startMonthString}-${match[1]}T00:00:00`,
+                `${startYear}-${startMonthString}-${match[1]}T00:00:00`,
             );
 
             endDate = new Date(
-                `${match[5]}-${getMonthIndex(match[4])}-${match[3]}T00:00:00`,
+                `${match[6]}-${getMonthIndex(match[5])}-${match[4]}T00:00:00`,
             );
 
             return {

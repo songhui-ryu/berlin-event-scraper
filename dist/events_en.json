@@ -113,17 +113,6 @@
     "href": "https://www.berlin.de/en/events/film-festivals/4690721-7812887-christmas-film-festival.en.html"
   },
   {
-    "name": "Doc.Berlin",
-    "date": {
-      "start": "2024-12-08T23:00:00.000Z",
-      "end": "2024-12-11T23:00:00.000Z",
-      "locale": "en",
-      "originalString": "December 09-12, 2024"
-    },
-    "description": "The documentary film festival Doc.Berlin invites fans of informative cinema to four days of movies at the Babylon cinema.",
-    "href": "https://www.berlin.de/en/events/film-festivals/7155259-7812887-docberlin.en.html"
-  },
-  {
     "name": "Around the World in 14 Films",
     "date": {
       "start": "2024-11-28T23:00:00.000Z",
@@ -133,6 +122,17 @@
     },
     "description": "In 2024, the independent festival \"Around the World in 14 Films\" is going on a cinematic journey across the globe for the 19th time.",
     "href": "https://www.berlin.de/en/events/film-festivals/2080036-7812887-around-the-world-in-14-days-festival.en.html"
+  },
+  {
+    "name": "Doc.Berlin",
+    "date": {
+      "start": "2024-12-08T23:00:00.000Z",
+      "end": "2024-12-11T23:00:00.000Z",
+      "locale": "en",
+      "originalString": "December 09 - 12, 2024"
+    },
+    "description": "The documentary film festival Doc.Berlin invites fans of informative cinema to four days of movies at the Babylon cinema.",
+    "href": "https://www.berlin.de/en/events/film-festivals/7155259-7812887-docberlin.en.html"
   },
   {
     "name": "Semiha Berksoy: Retrospective",
@@ -226,7 +226,7 @@
   {
     "name": "Weekend Tips: What to Do This Weekend in Berlin",
     "date": {},
-    "description": "December 13 - 15, 2024: Events, concerts, exhibitions and more things to do for your perfect weekend in Berlin.",
+    "description": "December 20 - 22, 2024: Events, concerts, exhibitions and more things to do for your perfect weekend in Berlin.",
     "href": "https://www.berlin.de/en/weekend-tips/"
   },
   {
@@ -236,21 +236,9 @@
     "href": "https://www.berlin.de/en/events/winter/"
   },
   {
-    "name": "Exhibitions in Berlin",
-    "date": {},
-    "description": "See the best museum, art and photography exhibitions at Berlin's top museums, galleries and event venues.",
-    "href": "https://www.berlin.de/en/exhibitions/"
-  },
-  {
-    "name": "Flea Markets",
-    "date": {},
-    "description": "Berlin's most popular flea markets and antique markets with adresses, opening hours, public transport and map.",
-    "href": "https://www.berlin.de/en/shopping/markets/flea-markets/"
-  },
-  {
     "name": "Weekend Tips",
     "date": {},
-    "description": "December 13 - 15, 2024: Events, concerts, exhibitions and more things to do for your perfect weekend in Berlin.",
+    "description": "December 20 - 22, 2024: Events, concerts, exhibitions and more things to do for your perfect weekend in Berlin.",
     "href": "https://www.berlin.de/en/weekend-tips/"
   },
   {
@@ -264,5 +252,17 @@
     "date": {},
     "description": "Information on residential areas, infrastructure, events, local authorities and leisure activities.",
     "href": "https://www.berlin.de/en/districts/"
+  },
+  {
+    "name": "Attractions & Sights",
+    "date": {},
+    "description": "Berlin’s top attractions, palaces and monuments with address, photos, public transport details and",
+    "href": "https://www.berlin.de/en/attractions-and-sights/"
+  },
+  {
+    "name": "Events & Culture in Berlin",
+    "date": {},
+    "description": "Highlights of the Berlin culture program including tips for the best concerts, exhibitions, trade fairs, seasonal events and specials.",
+    "href": "https://www.berlin.de/en/events/"
   }
 ]

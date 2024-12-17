@@ -4,6 +4,8 @@
 import { DOMParser } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
 import { DateRange, parseEnglishDate, parseGermanDate } from "./dateParser.ts";
 
+const BASE_URL = "https://www.berlin.de";
+
 export interface Entry {
     name?: string;
     date?: DateRange;
@@ -18,7 +20,6 @@ function sleep(milliseconds: number) {
 }
 
 export async function getEvents(lang: string, path: string) {
-    const BASE_URL = "https://www.berlin.de";
     const url = `${BASE_URL}${path}`;
 
     const entries: Entry[] = [];
@@ -63,6 +64,11 @@ export async function getEvents(lang: string, path: string) {
                 : `https://www.berlin.de${path}`;
 
             entries.push(entry);
+
+            // log events parsed incorrectly
+            if (!entry.date.start && entry.date.originalString) {
+                console.log(entry);
+            }
         }
     }
 
