@@ -1,7 +1,5 @@
 # Berlin Event Scraper
 
-### status: ongoing
-
 Written in Typescript with Deno
 
 ## Purpose
@@ -9,6 +7,8 @@ Written in Typescript with Deno
 This scraper fetch events from _berlin.de_ to build json files so that it can be
 consumed in the sibling project,
 [berlin-event-calendar](https://github.com/songhui-ryu/berlin-event-calendar)
+
+The scapping is triggered weekly by Github Actions.
 
 ## Event file format
 
@@ -40,7 +40,8 @@ separately.
     - https://www.berlin.de/en/events/
     - https://www.berlin.de/events/jahresuebersicht/
 
-Sadly, most of the time the event items are not the same with each other.
+Sadly, in most cases the event items in English and are not the same with each
+other.
 
 TODO: Two events will be compared to build a complete list both in English and
 German.
