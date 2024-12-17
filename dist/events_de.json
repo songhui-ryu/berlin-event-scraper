@@ -2,8 +2,8 @@
   {
     "name": "Tanztage Berlin",
     "date": {
-      "start": "2025-01-08T23:00:00.000Z",
-      "end": "2025-01-24T23:00:00.000Z",
+      "start": "2025-01-09T05:00:00.000Z",
+      "end": "2025-01-25T05:00:00.000Z",
       "locale": "de",
       "originalString": "09. bis 25 Januar 2025"
     },
@@ -13,8 +13,8 @@
   {
     "name": "Internationale Grüne Woche Berlin",
     "date": {
-      "start": "2025-01-16T23:00:00.000Z",
-      "end": "2025-01-25T23:00:00.000Z",
+      "start": "2025-01-17T05:00:00.000Z",
+      "end": "2025-01-26T05:00:00.000Z",
       "locale": "de",
       "originalString": "17. bis 26. Januar 2025"
     },
@@ -24,8 +24,8 @@
   {
     "name": "CTM Festival",
     "date": {
-      "start": "2025-01-23T23:00:00.000Z",
-      "end": "2025-02-01T23:00:00.000Z",
+      "start": "2025-01-24T05:00:00.000Z",
+      "end": "2025-02-02T05:00:00.000Z",
       "locale": "de",
       "originalString": "24. Januar bis 02. Februar 2025"
     },
@@ -35,8 +35,8 @@
   {
     "name": "Ultraschall Berlin: Festival für neue Musik",
     "date": {
-      "start": "2025-01-14T23:00:00.000Z",
-      "end": "2025-01-18T23:00:00.000Z",
+      "start": "2025-01-15T05:00:00.000Z",
+      "end": "2025-01-19T05:00:00.000Z",
       "locale": "de",
       "originalString": "15. bis 19. Januar 2025"
     },
@@ -46,8 +46,8 @@
   {
     "name": "Berliner Neujahrslauf",
     "date": {
-      "start": "2024-12-31T23:00:00.000Z",
-      "end": "2024-12-31T23:00:00.000Z",
+      "start": "2025-01-01T05:00:00.000Z",
+      "end": "2025-01-01T05:00:00.000Z",
       "locale": "de",
       "originalString": "01. Januar 2025"
     },
@@ -57,8 +57,8 @@
   {
     "name": "Berliner Sechstagerennen",
     "date": {
-      "start": "2025-01-30T23:00:00.000Z",
-      "end": "2025-01-31T23:00:00.000Z",
+      "start": "2025-01-31T05:00:00.000Z",
+      "end": "2025-02-01T05:00:00.000Z",
       "locale": "de",
       "originalString": "31. Januar bis 01. Februar 2025"
     },
@@ -104,8 +104,8 @@
   {
     "name": "British Shorts",
     "date": {
-      "start": "2025-01-22T23:00:00.000Z",
-      "end": "2025-01-28T23:00:00.000Z",
+      "start": "2025-01-23T05:00:00.000Z",
+      "end": "2025-01-29T05:00:00.000Z",
       "locale": "de",
       "originalString": "23. bis 29. Januar 2025"
     },
@@ -115,8 +115,8 @@
   {
     "name": "Stummfilmfestival",
     "date": {
-      "start": "2025-01-16T23:00:00.000Z",
-      "end": "2025-03-21T23:00:00.000Z",
+      "start": "2025-01-17T05:00:00.000Z",
+      "end": "2025-03-22T05:00:00.000Z",
       "locale": "de",
       "originalString": "17. Januar bis 22. März 2025"
     },
@@ -134,8 +134,8 @@
   {
     "name": "JuBi Berlin",
     "date": {
-      "start": "2025-01-10T23:00:00.000Z",
-      "end": "2025-01-10T23:00:00.000Z",
+      "start": "2025-01-11T05:00:00.000Z",
+      "end": "2025-01-11T05:00:00.000Z",
       "locale": "de",
       "originalString": "11. Januar 2025"
     },
@@ -145,8 +145,8 @@
   {
     "name": "Europäische Kamerabörse Berlin",
     "date": {
-      "start": "2025-01-17T23:00:00.000Z",
-      "end": "2025-01-17T23:00:00.000Z",
+      "start": "2025-01-18T05:00:00.000Z",
+      "end": "2025-01-18T05:00:00.000Z",
       "locale": "de",
       "originalString": "18. Januar 2025"
     },
@@ -156,8 +156,8 @@
   {
     "name": "Hippologica Berlin",
     "date": {
-      "start": "2025-01-23T23:00:00.000Z",
-      "end": "2025-01-25T23:00:00.000Z",
+      "start": "2025-01-24T05:00:00.000Z",
+      "end": "2025-01-26T05:00:00.000Z",
       "locale": "de",
       "originalString": "24. bis 26. Januar 2025"
     },
@@ -181,18 +181,6 @@
     "date": {},
     "description": "Die Berlin-Eventvorschau für März 2025. Maerzmusik, Frühlingsfest, Frauentag, Osterfeste und vieles",
     "href": "https://www.berlin.de/events/jahresuebersicht/maerz/"
-  },
-  {
-    "name": "Ab nach draußen!",
-    "date": {},
-    "description": "Die besten Events und Tipps für eine tolle Zeit an der frischen Berliner Luft.",
-    "href": "https://www.berlin.de/kultur-und-tickets/tipps/draussen/"
-  },
-  {
-    "name": "Berlin für Kinder",
-    "date": {},
-    "description": "Tipps für die kleinen Entdecker, Leseratten und Spielkinder der Stadt.",
-    "href": "https://www.berlin.de/kultur-und-tickets/tipps/kinder/"
   },
   {
     "name": "Volksfeste und Straßenfeste",
@@ -219,10 +207,22 @@
     "href": "https://www.berlin.de/special/winter/"
   },
   {
+    "name": "Ab nach draußen!",
+    "date": {},
+    "description": "Die besten Events und Tipps für eine tolle Zeit an der frischen Berliner Luft.",
+    "href": "https://www.berlin.de/kultur-und-tickets/tipps/draussen/"
+  },
+  {
+    "name": "Berlin für Kinder",
+    "date": {},
+    "description": "Tipps für die kleinen Entdecker, Leseratten und Spielkinder der Stadt.",
+    "href": "https://www.berlin.de/kultur-und-tickets/tipps/kinder/"
+  },
+  {
     "name": "Berlinale - Internationale Filmfestspiele Berlin",
     "date": {
-      "start": "2025-02-12T23:00:00.000Z",
-      "end": "2025-02-22T23:00:00.000Z",
+      "start": "2025-02-13T05:00:00.000Z",
+      "end": "2025-02-23T05:00:00.000Z",
       "locale": "de",
       "originalString": "13. bis 23. Februar 2025"
     },
@@ -232,8 +232,8 @@
   {
     "name": "CTM Festival",
     "date": {
-      "start": "2025-01-23T23:00:00.000Z",
-      "end": "2025-02-01T23:00:00.000Z",
+      "start": "2025-01-24T05:00:00.000Z",
+      "end": "2025-02-02T05:00:00.000Z",
       "locale": "de",
       "originalString": "24. Januar bis 02. Februar 2025"
     },
@@ -243,8 +243,8 @@
   {
     "name": "Brecht-Tage",
     "date": {
-      "start": "2025-02-09T23:00:00.000Z",
-      "end": "2025-02-13T23:00:00.000Z",
+      "start": "2025-02-10T05:00:00.000Z",
+      "end": "2025-02-14T05:00:00.000Z",
       "locale": "de",
       "originalString": "10. bis 14. Februar 2025"
     },
@@ -254,8 +254,8 @@
   {
     "name": "Biennale der Berliner Philharmoniker",
     "date": {
-      "start": "2025-02-12T23:00:00.000Z",
-      "end": "2025-02-28T23:00:00.000Z",
+      "start": "2025-02-13T05:00:00.000Z",
+      "end": "2025-03-01T05:00:00.000Z",
       "locale": "de",
       "originalString": "13. Februar bis 01. März 2025"
     },
@@ -273,8 +273,8 @@
   {
     "name": "Transmediale",
     "date": {
-      "start": "2025-01-28T23:00:00.000Z",
-      "end": "2025-02-01T23:00:00.000Z",
+      "start": "2025-01-29T05:00:00.000Z",
+      "end": "2025-02-02T05:00:00.000Z",
       "locale": "de",
       "originalString": "29. Januar bis 02. Februar 2025"
     },
@@ -284,8 +284,8 @@
   {
     "name": "Tanzolymp - Internationales Jugendtanzfestival",
     "date": {
-      "start": "2025-02-19T23:00:00.000Z",
-      "end": "2025-02-24T23:00:00.000Z",
+      "start": "2025-02-20T05:00:00.000Z",
+      "end": "2025-02-25T05:00:00.000Z",
       "locale": "de",
       "originalString": "20. bis 25. Februar 2025"
     },
@@ -295,8 +295,8 @@
   {
     "name": "Japanmarkt Berlin",
     "date": {
-      "start": "2025-02-08T23:00:00.000Z",
-      "end": "2025-02-08T23:00:00.000Z",
+      "start": "2025-02-09T05:00:00.000Z",
+      "end": "2025-02-09T05:00:00.000Z",
       "locale": "de",
       "originalString": "09. Februar 2025"
     },
@@ -306,8 +306,8 @@
   {
     "name": "Schall & Rausch",
     "date": {
-      "start": "2025-02-06T23:00:00.000Z",
-      "end": "2025-02-15T23:00:00.000Z",
+      "start": "2025-02-07T05:00:00.000Z",
+      "end": "2025-02-16T05:00:00.000Z",
       "locale": "de",
       "originalString": "07. bis 16. Februar 2025"
     },
@@ -317,8 +317,8 @@
   {
     "name": "Berlin Fashion Week 2025",
     "date": {
-      "start": "2025-02-02T23:00:00.000Z",
-      "end": "2025-02-05T23:00:00.000Z",
+      "start": "2025-02-03T05:00:00.000Z",
+      "end": "2025-02-06T05:00:00.000Z",
       "locale": "de",
       "originalString": "03. bis 06. Februar 2025"
     },
@@ -340,8 +340,8 @@
   {
     "name": "Premier League Darts",
     "date": {
-      "start": "2025-04-02T22:00:00.000Z",
-      "end": "2025-04-02T22:00:00.000Z",
+      "start": "2025-04-03T05:00:00.000Z",
+      "end": "2025-04-03T05:00:00.000Z",
       "locale": "de",
       "originalString": "03. April 2025"
     },
@@ -418,8 +418,8 @@
   {
     "name": "Auf in die Welt",
     "date": {
-      "start": "2025-02-28T23:00:00.000Z",
-      "end": "2025-02-28T23:00:00.000Z",
+      "start": "2025-03-01T05:00:00.000Z",
+      "end": "2025-03-01T05:00:00.000Z",
       "locale": "de",
       "originalString": "01. März 2025"
     },
@@ -429,8 +429,8 @@
   {
     "name": "Singschwantage im Nationalpark Unteres Odertal",
     "date": {
-      "start": "2025-01-23T23:00:00.000Z",
-      "end": "2025-01-25T23:00:00.000Z",
+      "start": "2025-01-24T05:00:00.000Z",
+      "end": "2025-01-26T05:00:00.000Z",
       "locale": "de",
       "originalString": "24. bis 26. Januar 2025"
     },
@@ -448,8 +448,8 @@
   {
     "name": "Falkensee kreativ",
     "date": {
-      "start": "2025-02-08T23:00:00.000Z",
-      "end": "2025-02-08T23:00:00.000Z",
+      "start": "2025-02-09T05:00:00.000Z",
+      "end": "2025-02-09T05:00:00.000Z",
       "locale": "de",
       "originalString": "08. und 09. Februar 2025"
     },
@@ -473,18 +473,6 @@
     "date": {},
     "description": "Kulturprogramm für Berlin: Events, Feste, Festivals und große Open-Air-Veranstaltungen in Berlin.",
     "href": "https://www.berlin.de/events/"
-  },
-  {
-    "name": "Ab nach draußen!",
-    "date": {},
-    "description": "Die besten Events und Tipps für eine tolle Zeit an der frischen Berliner Luft.",
-    "href": "https://www.berlin.de/kultur-und-tickets/tipps/draussen/"
-  },
-  {
-    "name": "Berlin für Kinder",
-    "date": {},
-    "description": "Tipps für die kleinen Entdecker, Leseratten und Spielkinder der Stadt.",
-    "href": "https://www.berlin.de/kultur-und-tickets/tipps/kinder/"
   },
   {
     "name": "Volksfeste und Straßenfeste",
@@ -511,10 +499,22 @@
     "href": "https://www.berlin.de/special/winter/"
   },
   {
+    "name": "Ab nach draußen!",
+    "date": {},
+    "description": "Die besten Events und Tipps für eine tolle Zeit an der frischen Berliner Luft.",
+    "href": "https://www.berlin.de/kultur-und-tickets/tipps/draussen/"
+  },
+  {
+    "name": "Berlin für Kinder",
+    "date": {},
+    "description": "Tipps für die kleinen Entdecker, Leseratten und Spielkinder der Stadt.",
+    "href": "https://www.berlin.de/kultur-und-tickets/tipps/kinder/"
+  },
+  {
     "name": "MaerzMusik",
     "date": {
-      "start": "2025-03-20T23:00:00.000Z",
-      "end": "2025-03-29T23:00:00.000Z",
+      "start": "2025-03-21T05:00:00.000Z",
+      "end": "2025-03-30T05:00:00.000Z",
       "locale": "de",
       "originalString": "21. bis 30. März 2025"
     },
@@ -524,8 +524,8 @@
   {
     "name": "Festtage an der Staatsoper Berlin",
     "date": {
-      "start": "2025-04-10T22:00:00.000Z",
-      "end": "2025-04-20T22:00:00.000Z",
+      "start": "2025-04-11T05:00:00.000Z",
+      "end": "2025-04-21T05:00:00.000Z",
       "locale": "de",
       "originalString": "11. bis 21. April 2025"
     },
@@ -535,8 +535,8 @@
   {
     "name": "Europäischer Monat der Fotografie (EMOP)",
     "date": {
-      "start": "2025-02-28T23:00:00.000Z",
-      "end": "2025-03-30T22:00:00.000Z",
+      "start": "2025-03-01T05:00:00.000Z",
+      "end": "2025-03-31T05:00:00.000Z",
       "locale": "de",
       "originalString": "01. bis 31. März 2025"
     },
@@ -554,8 +554,8 @@
   {
     "name": "Charlottenwalk",
     "date": {
-      "start": "2024-11-29T23:00:00.000Z",
-      "end": "2024-11-29T23:00:00.000Z",
+      "start": "2024-11-30T05:00:00.000Z",
+      "end": "2024-11-30T05:00:00.000Z",
       "locale": "de",
       "originalString": "30. November 2024"
     },
@@ -565,8 +565,8 @@
   {
     "name": "Forecast Festival",
     "date": {
-      "start": "2025-03-13T23:00:00.000Z",
-      "end": "2025-03-14T23:00:00.000Z",
+      "start": "2025-03-14T05:00:00.000Z",
+      "end": "2025-03-15T05:00:00.000Z",
       "locale": "de",
       "originalString": "14. bis 15. März 2025"
     },
@@ -576,8 +576,8 @@
   {
     "name": "Berlin Chocolate Festival",
     "date": {
-      "start": "2025-03-15T23:00:00.000Z",
-      "end": "2025-03-15T23:00:00.000Z",
+      "start": "2025-03-16T05:00:00.000Z",
+      "end": "2025-03-16T05:00:00.000Z",
       "locale": "de",
       "originalString": "15. und 16. März 2025"
     },
@@ -603,8 +603,8 @@
   {
     "name": "Frühlingsfest am Kurt-Schumacher-Damm",
     "date": {
-      "start": "2025-03-28T23:00:00.000Z",
-      "end": "2025-05-03T22:00:00.000Z",
+      "start": "2025-03-29T05:00:00.000Z",
+      "end": "2025-05-04T05:00:00.000Z",
       "locale": "de",
       "originalString": "29. März bis 04. Mai 2025"
     },
@@ -614,8 +614,8 @@
   {
     "name": "Oster-Ritterfest",
     "date": {
-      "start": "2025-04-18T22:00:00.000Z",
-      "end": "2025-04-20T22:00:00.000Z",
+      "start": "2025-04-19T05:00:00.000Z",
+      "end": "2025-04-21T05:00:00.000Z",
       "locale": "de",
       "originalString": "19. bis 21. April 2025"
     },
@@ -651,8 +651,8 @@
   {
     "name": "Wartenberger Osterlauf",
     "date": {
-      "start": "2025-04-19T22:00:00.000Z",
-      "end": "2025-04-19T22:00:00.000Z",
+      "start": "2025-04-20T05:00:00.000Z",
+      "end": "2025-04-20T05:00:00.000Z",
       "locale": "de",
       "originalString": "20. April 2025"
     },
@@ -662,8 +662,8 @@
   {
     "name": "Rund um den Müggelturm",
     "date": {
-      "start": "2025-03-22T23:00:00.000Z",
-      "end": "2025-03-22T23:00:00.000Z",
+      "start": "2025-03-23T05:00:00.000Z",
+      "end": "2025-03-23T05:00:00.000Z",
       "locale": "de",
       "originalString": "23. März 2025"
     },
@@ -711,8 +711,8 @@
   {
     "name": "Stummfilmfestival",
     "date": {
-      "start": "2025-01-16T23:00:00.000Z",
-      "end": "2025-03-21T23:00:00.000Z",
+      "start": "2025-01-17T05:00:00.000Z",
+      "end": "2025-03-22T05:00:00.000Z",
       "locale": "de",
       "originalString": "17. Januar bis 22. März 2025"
     },
@@ -730,8 +730,8 @@
   {
     "name": "Kolektif Berlin",
     "date": {
-      "start": "2025-03-13T23:00:00.000Z",
-      "end": "2025-03-15T23:00:00.000Z",
+      "start": "2025-03-14T05:00:00.000Z",
+      "end": "2025-03-16T05:00:00.000Z",
       "locale": "de",
       "originalString": "14. bis 16. März 2025"
     },
@@ -741,8 +741,8 @@
   {
     "name": "Jobmesse Berlin",
     "date": {
-      "start": "2025-05-10T22:00:00.000Z",
-      "end": "2025-05-10T22:00:00.000Z",
+      "start": "2025-05-11T05:00:00.000Z",
+      "end": "2025-05-11T05:00:00.000Z",
       "locale": "de",
       "originalString": "10. und 11. Mai 2025"
     },
@@ -776,8 +776,8 @@
   {
     "name": "Tag der offenen Töpferei in Brandenburg",
     "date": {
-      "start": "2025-03-08T23:00:00.000Z",
-      "end": "2025-03-08T23:00:00.000Z",
+      "start": "2025-03-09T05:00:00.000Z",
+      "end": "2025-03-09T05:00:00.000Z",
       "locale": "de",
       "originalString": "08. und 09. März 2025"
     },
@@ -809,24 +809,6 @@
     "href": "https://www.berlin.de/tourismus/infos/nahverkehr/1895467-1721041-berlin-welcomecard.html#/"
   },
   {
-    "name": "Ab nach draußen!",
-    "date": {},
-    "description": "Die besten Events und Tipps für eine tolle Zeit an der frischen Berliner Luft.",
-    "href": "https://www.berlin.de/kultur-und-tickets/tipps/draussen/"
-  },
-  {
-    "name": "Berlin für Kinder",
-    "date": {},
-    "description": "Tipps für die kleinen Entdecker, Leseratten und Spielkinder der Stadt.",
-    "href": "https://www.berlin.de/kultur-und-tickets/tipps/kinder/"
-  },
-  {
-    "name": "Volksfeste und Straßenfeste",
-    "date": {},
-    "description": "Zuckerwatte, Karussells und Livemusik: Die beliebtesten Volksfeste Berlins.",
-    "href": "https://www.berlin.de/events/volksfeste/"
-  },
-  {
     "name": "Food-Events",
     "date": {},
     "description": "Köstlichkeiten aus aller Welt: Food-Festivals in Berlin.",
@@ -845,6 +827,24 @@
     "href": "https://www.berlin.de/special/winter/"
   },
   {
+    "name": "Ab nach draußen!",
+    "date": {},
+    "description": "Die besten Events und Tipps für eine tolle Zeit an der frischen Berliner Luft.",
+    "href": "https://www.berlin.de/kultur-und-tickets/tipps/draussen/"
+  },
+  {
+    "name": "Berlin für Kinder",
+    "date": {},
+    "description": "Tipps für die kleinen Entdecker, Leseratten und Spielkinder der Stadt.",
+    "href": "https://www.berlin.de/kultur-und-tickets/tipps/kinder/"
+  },
+  {
+    "name": "Volksfeste und Straßenfeste",
+    "date": {},
+    "description": "Zuckerwatte, Karussells und Livemusik: Die beliebtesten Volksfeste Berlins.",
+    "href": "https://www.berlin.de/events/volksfeste/"
+  },
+  {
     "name": "Umweltfestival am Brandenburger Tor",
     "date": {
       "originalString": "Termin noch nicht bekannt"
@@ -855,8 +855,8 @@
   {
     "name": "Berlin-Brandenburgische Poetry-Slam-Meisterschaften",
     "date": {
-      "start": "2025-03-18T23:00:00.000Z",
-      "end": "2025-03-21T23:00:00.000Z",
+      "start": "2025-03-19T05:00:00.000Z",
+      "end": "2025-03-22T05:00:00.000Z",
       "locale": "de",
       "originalString": "19. bis 22. März 2025"
     },
@@ -874,8 +874,8 @@
   {
     "name": "Ostpro Berlin",
     "date": {
-      "start": "2025-03-27T23:00:00.000Z",
-      "end": "2025-03-29T23:00:00.000Z",
+      "start": "2025-03-28T05:00:00.000Z",
+      "end": "2025-03-30T05:00:00.000Z",
       "locale": "de",
       "originalString": "28. bis 30. März 2025"
     },
@@ -885,8 +885,8 @@
   {
     "name": "Europäische Tage des Kunsthandwerks",
     "date": {
-      "start": "2025-04-03T22:00:00.000Z",
-      "end": "2025-04-05T22:00:00.000Z",
+      "start": "2025-04-04T05:00:00.000Z",
+      "end": "2025-04-06T05:00:00.000Z",
       "locale": "de",
       "originalString": "04. bis 06. April 2025"
     },
@@ -896,8 +896,8 @@
   {
     "name": "Berliner Staudenmarkt",
     "date": {
-      "start": "2025-04-05T22:00:00.000Z",
-      "end": "2025-04-05T22:00:00.000Z",
+      "start": "2025-04-06T05:00:00.000Z",
+      "end": "2025-04-06T05:00:00.000Z",
       "locale": "de",
       "originalString": "05. und 06. April 2025"
     },
@@ -907,8 +907,8 @@
   {
     "name": "Jazz-Festival der Deutschen Oper",
     "date": {
-      "start": "2025-05-05T22:00:00.000Z",
-      "end": "2025-05-11T22:00:00.000Z",
+      "start": "2025-05-06T05:00:00.000Z",
+      "end": "2025-05-12T05:00:00.000Z",
       "locale": "de",
       "originalString": "06. bis 12. Mai 2025"
     },
@@ -960,8 +960,8 @@
   {
     "name": "Berliner Halbmarathon",
     "date": {
-      "start": "2025-04-05T22:00:00.000Z",
-      "end": "2025-04-05T22:00:00.000Z",
+      "start": "2025-04-06T05:00:00.000Z",
+      "end": "2025-04-06T05:00:00.000Z",
       "locale": "de",
       "originalString": "06. April 2025"
     },
@@ -971,8 +971,8 @@
   {
     "name": "Berliner Firmenlauf",
     "date": {
-      "start": "2025-05-20T22:00:00.000Z",
-      "end": "2025-05-20T22:00:00.000Z",
+      "start": "2025-05-21T05:00:00.000Z",
+      "end": "2025-05-21T05:00:00.000Z",
       "locale": "de",
       "originalString": "21. Mai 2025"
     },
@@ -990,8 +990,8 @@
   {
     "name": "Sehsüchte",
     "date": {
-      "start": "2025-04-22T22:00:00.000Z",
-      "end": "2025-04-26T22:00:00.000Z",
+      "start": "2025-04-23T05:00:00.000Z",
+      "end": "2025-04-27T05:00:00.000Z",
       "locale": "de",
       "originalString": "23. bis 27. April 2025"
     },
@@ -1051,8 +1051,8 @@
   {
     "name": "Paper Positions",
     "date": {
-      "start": "2025-04-30T22:00:00.000Z",
-      "end": "2025-05-03T22:00:00.000Z",
+      "start": "2025-05-01T05:00:00.000Z",
+      "end": "2025-05-04T05:00:00.000Z",
       "locale": "de",
       "originalString": "01. bis 04. Mai 2025"
     },
@@ -1062,8 +1062,8 @@
   {
     "name": "Affordable Art Fair",
     "date": {
-      "start": "2025-06-12T22:00:00.000Z",
-      "end": "2025-06-14T22:00:00.000Z",
+      "start": "2025-06-13T05:00:00.000Z",
+      "end": "2025-06-15T05:00:00.000Z",
       "locale": "de",
       "originalString": "13. bis 15. Juni 2025"
     },
@@ -1073,8 +1073,8 @@
   {
     "name": "VeloBerlin",
     "date": {
-      "start": "2025-05-10T22:00:00.000Z",
-      "end": "2025-05-10T22:00:00.000Z",
+      "start": "2025-05-11T05:00:00.000Z",
+      "end": "2025-05-11T05:00:00.000Z",
       "locale": "de",
       "originalString": "10. und 11. Mai 2025"
     },
@@ -1084,8 +1084,8 @@
   {
     "name": "Tulpenfest in Potsdam",
     "date": {
-      "start": "2025-04-12T22:00:00.000Z",
-      "end": "2025-04-12T22:00:00.000Z",
+      "start": "2025-04-13T05:00:00.000Z",
+      "end": "2025-04-13T05:00:00.000Z",
       "locale": "de",
       "originalString": "12. und 13. April 2025"
     },
@@ -1133,24 +1133,6 @@
     "href": "https://www.berlin.de/tourismus/infos/nahverkehr/1895467-1721041-berlin-welcomecard.html#/"
   },
   {
-    "name": "Ab nach draußen!",
-    "date": {},
-    "description": "Die besten Events und Tipps für eine tolle Zeit an der frischen Berliner Luft.",
-    "href": "https://www.berlin.de/kultur-und-tickets/tipps/draussen/"
-  },
-  {
-    "name": "Berlin für Kinder",
-    "date": {},
-    "description": "Tipps für die kleinen Entdecker, Leseratten und Spielkinder der Stadt.",
-    "href": "https://www.berlin.de/kultur-und-tickets/tipps/kinder/"
-  },
-  {
-    "name": "Volksfeste und Straßenfeste",
-    "date": {},
-    "description": "Zuckerwatte, Karussells und Livemusik: Die beliebtesten Volksfeste Berlins.",
-    "href": "https://www.berlin.de/events/volksfeste/"
-  },
-  {
     "name": "Food-Events",
     "date": {},
     "description": "Köstlichkeiten aus aller Welt: Food-Festivals in Berlin.",
@@ -1169,10 +1151,28 @@
     "href": "https://www.berlin.de/special/winter/"
   },
   {
+    "name": "Ab nach draußen!",
+    "date": {},
+    "description": "Die besten Events und Tipps für eine tolle Zeit an der frischen Berliner Luft.",
+    "href": "https://www.berlin.de/kultur-und-tickets/tipps/draussen/"
+  },
+  {
+    "name": "Berlin für Kinder",
+    "date": {},
+    "description": "Tipps für die kleinen Entdecker, Leseratten und Spielkinder der Stadt.",
+    "href": "https://www.berlin.de/kultur-und-tickets/tipps/kinder/"
+  },
+  {
+    "name": "Volksfeste und Straßenfeste",
+    "date": {},
+    "description": "Zuckerwatte, Karussells und Livemusik: Die beliebtesten Volksfeste Berlins.",
+    "href": "https://www.berlin.de/events/volksfeste/"
+  },
+  {
     "name": "Gallery Weekend Berlin 2025",
     "date": {
-      "start": "2025-05-01T22:00:00.000Z",
-      "end": "2025-05-03T22:00:00.000Z",
+      "start": "2025-05-02T05:00:00.000Z",
+      "end": "2025-05-04T05:00:00.000Z",
       "locale": "de",
       "originalString": "02. bis 04. Mai 2025"
     },
@@ -1190,8 +1190,8 @@
   {
     "name": "Berliner Theatertreffen",
     "date": {
-      "start": "2025-05-01T22:00:00.000Z",
-      "end": "2025-05-17T22:00:00.000Z",
+      "start": "2025-05-02T05:00:00.000Z",
+      "end": "2025-05-18T05:00:00.000Z",
       "locale": "de",
       "originalString": "02. bis 18. Mai 2025"
     },
@@ -1201,8 +1201,8 @@
   {
     "name": "Berlin Design Week",
     "date": {
-      "start": "2025-05-09T22:00:00.000Z",
-      "end": "2025-05-17T22:00:00.000Z",
+      "start": "2025-05-10T05:00:00.000Z",
+      "end": "2025-05-18T05:00:00.000Z",
       "locale": "de",
       "originalString": "10. bis 18. Mai 2025"
     },
@@ -1212,8 +1212,8 @@
   {
     "name": "Re:publica",
     "date": {
-      "start": "2025-05-25T22:00:00.000Z",
-      "end": "2025-05-27T22:00:00.000Z",
+      "start": "2025-05-26T05:00:00.000Z",
+      "end": "2025-05-28T05:00:00.000Z",
       "locale": "de",
       "originalString": "26. bis 28. Mai 2025"
     },
@@ -1223,8 +1223,8 @@
   {
     "name": "DFB-Pokalfinale in Berlin",
     "date": {
-      "start": "2025-05-23T22:00:00.000Z",
-      "end": "2025-05-23T22:00:00.000Z",
+      "start": "2025-05-24T05:00:00.000Z",
+      "end": "2025-05-24T05:00:00.000Z",
       "locale": "de",
       "originalString": "24. Mai 2025"
     },
@@ -1258,8 +1258,8 @@
   {
     "name": "Classic Days Berlin",
     "date": {
-      "start": "2025-05-10T22:00:00.000Z",
-      "end": "2025-05-10T22:00:00.000Z",
+      "start": "2025-05-11T05:00:00.000Z",
+      "end": "2025-05-11T05:00:00.000Z",
       "locale": "de",
       "originalString": "10. und 11. Mai 2025"
     },
@@ -1269,8 +1269,8 @@
   {
     "name": "Tag der Städtebauförderung",
     "date": {
-      "start": "2025-05-09T22:00:00.000Z",
-      "end": "2025-05-09T22:00:00.000Z",
+      "start": "2025-05-10T05:00:00.000Z",
+      "end": "2025-05-10T05:00:00.000Z",
       "locale": "de",
       "originalString": "10. Mai 2025"
     },
@@ -1280,8 +1280,8 @@
   {
     "name": "Pictoplasma Festival",
     "date": {
-      "start": "2025-05-06T22:00:00.000Z",
-      "end": "2025-05-10T22:00:00.000Z",
+      "start": "2025-05-07T05:00:00.000Z",
+      "end": "2025-05-11T05:00:00.000Z",
       "locale": "de",
       "originalString": "07. bis 11. Mai 2025"
     },
@@ -1309,8 +1309,8 @@
   {
     "name": "Steglitzer Woche",
     "date": {
-      "start": "2025-05-22T22:00:00.000Z",
-      "end": "2025-06-08T22:00:00.000Z",
+      "start": "2025-05-23T05:00:00.000Z",
+      "end": "2025-06-09T05:00:00.000Z",
       "locale": "de",
       "originalString": "23. Mai bis 09. Juni 2025"
     },
@@ -1344,8 +1344,8 @@
   {
     "name": "Frühlings- und Spargelfest Primavera",
     "date": {
-      "start": "2025-05-10T22:00:00.000Z",
-      "end": "2025-05-10T22:00:00.000Z",
+      "start": "2025-05-11T05:00:00.000Z",
+      "end": "2025-05-11T05:00:00.000Z",
       "locale": "de",
       "originalString": "10. und 11. Mai 2025"
     },
@@ -1355,8 +1355,8 @@
   {
     "name": "S 25 Berlin",
     "date": {
-      "start": "2025-05-10T22:00:00.000Z",
-      "end": "2025-05-10T22:00:00.000Z",
+      "start": "2025-05-11T05:00:00.000Z",
+      "end": "2025-05-11T05:00:00.000Z",
       "locale": "de",
       "originalString": "11. Mai 2025"
     },
@@ -1366,8 +1366,8 @@
   {
     "name": "Frauenlauf Berlin",
     "date": {
-      "start": "2025-05-16T22:00:00.000Z",
-      "end": "2025-05-16T22:00:00.000Z",
+      "start": "2025-05-17T05:00:00.000Z",
+      "end": "2025-05-17T05:00:00.000Z",
       "locale": "de",
       "originalString": "17. Mai 2025"
     },
@@ -1423,8 +1423,8 @@
   {
     "name": "Greentech Festival",
     "date": {
-      "start": "2024-06-03T22:00:00.000Z",
-      "end": "2024-06-05T22:00:00.000Z",
+      "start": "2024-06-04T05:00:00.000Z",
+      "end": "2024-06-06T05:00:00.000Z",
       "locale": "de",
       "originalString": "04. bis 06. Juni 2024"
     },
@@ -1442,8 +1442,8 @@
   {
     "name": "Gartenträume Berlin",
     "date": {
-      "start": "2025-05-22T22:00:00.000Z",
-      "end": "2025-05-24T22:00:00.000Z",
+      "start": "2025-05-23T05:00:00.000Z",
+      "end": "2025-05-25T05:00:00.000Z",
       "locale": "de",
       "originalString": "23. bis 25. Mai 2025"
     },
@@ -1493,6 +1493,18 @@
     "href": "https://www.berlin.de/tourismus/infos/nahverkehr/1895467-1721041-berlin-welcomecard.html#/"
   },
   {
+    "name": "Wochenend-Tipps",
+    "date": {},
+    "description": "Das Berlin-Programm für das Wochenende in der Hauptstadt.",
+    "href": "https://www.berlin.de/wochenend-tipps/"
+  },
+  {
+    "name": "Winter in Berlin",
+    "date": {},
+    "description": "Eisbahnen, Veranstaltungen, Wintersport, Spaziergänge, Wellness und",
+    "href": "https://www.berlin.de/special/winter/"
+  },
+  {
     "name": "Ab nach draußen!",
     "date": {},
     "description": "Die besten Events und Tipps für eine tolle Zeit an der frischen Berliner Luft.",
@@ -1517,22 +1529,10 @@
     "href": "https://www.berlin.de/restaurants/food-events/"
   },
   {
-    "name": "Wochenend-Tipps",
-    "date": {},
-    "description": "Das Berlin-Programm für das Wochenende in der Hauptstadt.",
-    "href": "https://www.berlin.de/wochenend-tipps/"
-  },
-  {
-    "name": "Winter in Berlin",
-    "date": {},
-    "description": "Eisbahnen, Veranstaltungen, Wintersport, Spaziergänge, Wellness und",
-    "href": "https://www.berlin.de/special/winter/"
-  },
-  {
     "name": "Fête de la Musique",
     "date": {
-      "start": "2025-06-20T22:00:00.000Z",
-      "end": "2025-06-20T22:00:00.000Z",
+      "start": "2025-06-21T05:00:00.000Z",
+      "end": "2025-06-21T05:00:00.000Z",
       "locale": "de",
       "originalString": "21. Juni 2025"
     },
@@ -1542,8 +1542,8 @@
   {
     "name": "Lange Nacht der Wissenschaften",
     "date": {
-      "start": "2025-06-27T22:00:00.000Z",
-      "end": "2025-06-27T22:00:00.000Z",
+      "start": "2025-06-28T05:00:00.000Z",
+      "end": "2025-06-28T05:00:00.000Z",
       "locale": "de",
       "originalString": "28. Juni 2025"
     },
@@ -1561,8 +1561,8 @@
   {
     "name": "Staatsoper für alle",
     "date": {
-      "start": "2025-06-21T22:00:00.000Z",
-      "end": "2025-06-21T22:00:00.000Z",
+      "start": "2025-06-22T05:00:00.000Z",
+      "end": "2025-06-22T05:00:00.000Z",
       "locale": "de",
       "originalString": "22. Juni 2025"
     },
@@ -1572,8 +1572,8 @@
   {
     "name": "Langer Tag der StadtNatur",
     "date": {
-      "start": "2025-06-13T22:00:00.000Z",
-      "end": "2025-06-14T22:00:00.000Z",
+      "start": "2025-06-14T05:00:00.000Z",
+      "end": "2025-06-15T05:00:00.000Z",
       "locale": "de",
       "originalString": "14. bis 15. Juni 2025"
     },
@@ -1583,8 +1583,8 @@
   {
     "name": "Berlin Biennale",
     "date": {
-      "start": "2025-06-13T22:00:00.000Z",
-      "end": "2025-09-13T22:00:00.000Z",
+      "start": "2025-06-14T05:00:00.000Z",
+      "end": "2025-09-14T05:00:00.000Z",
       "locale": "de",
       "originalString": "14. Juni bis 14. September 2025"
     },
@@ -1594,8 +1594,8 @@
   {
     "name": "ILA Berlin",
     "date": {
-      "start": "2026-06-09T22:00:00.000Z",
-      "end": "2026-06-13T22:00:00.000Z",
+      "start": "2026-06-10T05:00:00.000Z",
+      "end": "2026-06-14T05:00:00.000Z",
       "locale": "de",
       "originalString": "10. bis 14. Juni 2026"
     },
@@ -1613,8 +1613,8 @@
   {
     "name": "Theatertreffen der Jugend",
     "date": {
-      "start": "2025-05-28T22:00:00.000Z",
-      "end": "2025-06-05T22:00:00.000Z",
+      "start": "2025-05-29T05:00:00.000Z",
+      "end": "2025-06-06T05:00:00.000Z",
       "locale": "de",
       "originalString": "29. Mai bis 6. Juni 2025"
     },
@@ -1632,8 +1632,8 @@
   {
     "name": "Berliner Fahrradsternfahrt des ADFC",
     "date": {
-      "start": "2025-05-31T22:00:00.000Z",
-      "end": "2025-05-31T22:00:00.000Z",
+      "start": "2025-06-01T05:00:00.000Z",
+      "end": "2025-06-01T05:00:00.000Z",
       "locale": "de",
       "originalString": "01. Juni 2025"
     },
@@ -1643,8 +1643,8 @@
   {
     "name": "Kreuzberg-Festival",
     "date": {
-      "start": "2025-06-26T22:00:00.000Z",
-      "end": "2025-06-28T22:00:00.000Z",
+      "start": "2025-06-27T05:00:00.000Z",
+      "end": "2025-06-29T05:00:00.000Z",
       "locale": "de",
       "originalString": "27. bis 29. Juni 2025"
     },
@@ -1696,8 +1696,8 @@
   {
     "name": "Berliner Volksfestsommer",
     "date": {
-      "start": "2025-07-24T22:00:00.000Z",
-      "end": "2025-08-16T22:00:00.000Z",
+      "start": "2025-07-25T05:00:00.000Z",
+      "end": "2025-08-17T05:00:00.000Z",
       "locale": "de",
       "originalString": "25. Juli bis 17. August 2025"
     },
@@ -1723,8 +1723,8 @@
   {
     "name": "Berlin Triathlon",
     "date": {
-      "start": "2025-05-31T22:00:00.000Z",
-      "end": "2025-05-31T22:00:00.000Z",
+      "start": "2025-06-01T05:00:00.000Z",
+      "end": "2025-06-01T05:00:00.000Z",
       "locale": "de",
       "originalString": "31. Mai und 01. Juni 2025"
     },
@@ -1734,8 +1734,8 @@
   {
     "name": "Berlin Tennis Open",
     "date": {
-      "start": "2025-06-13T22:00:00.000Z",
-      "end": "2025-06-21T22:00:00.000Z",
+      "start": "2025-06-14T05:00:00.000Z",
+      "end": "2025-06-22T05:00:00.000Z",
       "locale": "de",
       "originalString": "14. bis 22. Juni 2025"
     },
@@ -1753,8 +1753,8 @@
   {
     "name": "Berlin, Berlin: 20 Jahre Helmut Newton Stiftung",
     "date": {
-      "start": "2024-06-06T22:00:00.000Z",
-      "end": "2024-11-09T23:00:00.000Z",
+      "start": "2024-06-07T05:00:00.000Z",
+      "end": "2024-11-10T05:00:00.000Z",
       "locale": "de",
       "originalString": "07. Juni bis 10. November 2024"
     },
@@ -1764,8 +1764,8 @@
   {
     "name": "Xposed: Queer Film Festival",
     "date": {
-      "start": "2024-05-29T22:00:00.000Z",
-      "end": "2024-06-01T22:00:00.000Z",
+      "start": "2024-05-30T05:00:00.000Z",
+      "end": "2024-06-02T05:00:00.000Z",
       "locale": "de",
       "originalString": "30. Mai bis 02. Juni 2024"
     },
@@ -1797,8 +1797,8 @@
   {
     "name": "Mary Jane Berlin",
     "date": {
-      "start": "2025-06-19T22:00:00.000Z",
-      "end": "2025-06-21T22:00:00.000Z",
+      "start": "2025-06-20T05:00:00.000Z",
+      "end": "2025-06-22T05:00:00.000Z",
       "locale": "de",
       "originalString": "20. bis 22. Juni 2025"
     },
@@ -1816,8 +1816,8 @@
   {
     "name": "Sticks & Stones",
     "date": {
-      "start": "2025-06-20T22:00:00.000Z",
-      "end": "2025-06-20T22:00:00.000Z",
+      "start": "2025-06-21T05:00:00.000Z",
+      "end": "2025-06-21T05:00:00.000Z",
       "locale": "de",
       "originalString": "21. Juni 2025"
     },
@@ -1835,8 +1835,8 @@
   {
     "name": "Brandenburger Landpartie",
     "date": {
-      "start": "2024-06-08T22:00:00.000Z",
-      "end": "2024-06-08T22:00:00.000Z",
+      "start": "2024-06-09T05:00:00.000Z",
+      "end": "2024-06-09T05:00:00.000Z",
       "locale": "de",
       "originalString": "08. und 09. Juni 2024"
     },
@@ -1846,8 +1846,8 @@
   {
     "name": "Musikfestspiele Potsdam Sanssouci",
     "date": {
-      "start": "2024-06-06T22:00:00.000Z",
-      "end": "2024-06-22T22:00:00.000Z",
+      "start": "2024-06-07T05:00:00.000Z",
+      "end": "2024-06-23T05:00:00.000Z",
       "locale": "de",
       "originalString": "07. bis 23. Juni 2024"
     },
@@ -1911,8 +1911,8 @@
   {
     "name": "Berlin Fashion Week 2025",
     "date": {
-      "start": "2025-02-02T23:00:00.000Z",
-      "end": "2025-02-05T23:00:00.000Z",
+      "start": "2025-02-03T05:00:00.000Z",
+      "end": "2025-02-06T05:00:00.000Z",
       "locale": "de",
       "originalString": "03. bis 06. Februar 2025"
     },
@@ -1922,8 +1922,8 @@
   {
     "name": "Christopher Street Day 2025",
     "date": {
-      "start": "2025-07-25T22:00:00.000Z",
-      "end": "2025-07-25T22:00:00.000Z",
+      "start": "2025-07-26T05:00:00.000Z",
+      "end": "2025-07-26T05:00:00.000Z",
       "locale": "de",
       "originalString": "26. Juli 2025"
     },
@@ -1973,8 +1973,8 @@
   {
     "name": "Adidas Runners City Night Berlin",
     "date": {
-      "start": "2025-07-25T22:00:00.000Z",
-      "end": "2025-07-25T22:00:00.000Z",
+      "start": "2025-07-26T05:00:00.000Z",
+      "end": "2025-07-26T05:00:00.000Z",
       "locale": "de",
       "originalString": "26. Juli 2025"
     },
@@ -1984,8 +1984,8 @@
   {
     "name": "Lesbisch-Schwules Stadtfest",
     "date": {
-      "start": "2025-07-19T22:00:00.000Z",
-      "end": "2025-07-19T22:00:00.000Z",
+      "start": "2025-07-20T05:00:00.000Z",
+      "end": "2025-07-20T05:00:00.000Z",
       "locale": "de",
       "originalString": "19. und 20. Juli 2025"
     },
@@ -2067,8 +2067,8 @@
   {
     "name": "Spreewälder Handwerker- und Bauernmarkt",
     "date": {
-      "start": "2025-07-12T22:00:00.000Z",
-      "end": "2025-07-12T22:00:00.000Z",
+      "start": "2025-07-13T05:00:00.000Z",
+      "end": "2025-07-13T05:00:00.000Z",
       "locale": "de",
       "originalString": "12. und 13. Juli 2025"
     },
@@ -2092,12 +2092,6 @@
     "date": {},
     "description": "Kulturprogramm für Berlin: Events, Feste, Festivals und große Open-Air-Veranstaltungen in Berlin.",
     "href": "https://www.berlin.de/events/"
-  },
-  {
-    "name": "Ab nach draußen!",
-    "date": {},
-    "description": "Die besten Events und Tipps für eine tolle Zeit an der frischen Berliner Luft.",
-    "href": "https://www.berlin.de/kultur-und-tickets/tipps/draussen/"
   },
   {
     "name": "Berlin für Kinder",
@@ -2130,10 +2124,16 @@
     "href": "https://www.berlin.de/special/winter/"
   },
   {
+    "name": "Ab nach draußen!",
+    "date": {},
+    "description": "Die besten Events und Tipps für eine tolle Zeit an der frischen Berliner Luft.",
+    "href": "https://www.berlin.de/kultur-und-tickets/tipps/draussen/"
+  },
+  {
     "name": "Lange Nacht der Museen",
     "date": {
-      "start": "2025-08-29T22:00:00.000Z",
-      "end": "2025-08-29T22:00:00.000Z",
+      "start": "2025-08-30T05:00:00.000Z",
+      "end": "2025-08-30T05:00:00.000Z",
       "locale": "de",
       "originalString": "30. August 2025"
     },
@@ -2159,8 +2159,8 @@
   {
     "name": "Boot & Fun Inwater",
     "date": {
-      "start": "2025-08-28T22:00:00.000Z",
-      "end": "2025-08-30T22:00:00.000Z",
+      "start": "2025-08-29T05:00:00.000Z",
+      "end": "2025-08-31T05:00:00.000Z",
       "locale": "de",
       "originalString": "29. bis 31. August 2025"
     },
@@ -2194,8 +2194,8 @@
   {
     "name": "Rave the Planet",
     "date": {
-      "start": "2025-07-11T22:00:00.000Z",
-      "end": "2025-07-11T22:00:00.000Z",
+      "start": "2025-07-12T05:00:00.000Z",
+      "end": "2025-07-12T05:00:00.000Z",
       "locale": "de",
       "originalString": "12. Juli 2025"
     },
@@ -2221,8 +2221,8 @@
   {
     "name": "Sternschnuppennacht",
     "date": {
-      "start": "2025-08-11T22:00:00.000Z",
-      "end": "2025-08-11T22:00:00.000Z",
+      "start": "2025-08-12T05:00:00.000Z",
+      "end": "2025-08-12T05:00:00.000Z",
       "locale": "de",
       "originalString": "12. August 2025"
     },
@@ -2240,8 +2240,8 @@
   {
     "name": "Schollenfest",
     "date": {
-      "start": "2025-08-21T22:00:00.000Z",
-      "end": "2025-09-06T22:00:00.000Z",
+      "start": "2025-08-22T05:00:00.000Z",
+      "end": "2025-09-07T05:00:00.000Z",
       "locale": "de",
       "originalString": "22. August bis 07. September 2025"
     },
@@ -2251,8 +2251,8 @@
   {
     "name": "Kenako Afrika Festival",
     "date": {
-      "start": "2024-08-22T22:00:00.000Z",
-      "end": "2024-08-31T22:00:00.000Z",
+      "start": "2024-08-23T05:00:00.000Z",
+      "end": "2024-09-01T05:00:00.000Z",
       "locale": "de",
       "originalString": "23. August bis 01. September 2024"
     },
@@ -2278,8 +2278,8 @@
   {
     "name": "Spandauer Altstadtfest",
     "date": {
-      "start": "2024-08-28T22:00:00.000Z",
-      "end": "2024-08-31T22:00:00.000Z",
+      "start": "2024-08-29T05:00:00.000Z",
+      "end": "2024-09-01T05:00:00.000Z",
       "locale": "de",
       "originalString": "29. August bis 01. September 2024"
     },
@@ -2383,8 +2383,8 @@
   {
     "name": "Potsdamer Schlössernacht",
     "date": {
-      "start": "2025-08-22T22:00:00.000Z",
-      "end": "2025-08-22T22:00:00.000Z",
+      "start": "2025-08-23T05:00:00.000Z",
+      "end": "2025-08-23T05:00:00.000Z",
       "locale": "de",
       "originalString": "22. und 23. August 2025"
     },
@@ -2464,8 +2464,8 @@
   {
     "name": "Berlin Art Week",
     "date": {
-      "start": "2025-09-09T22:00:00.000Z",
-      "end": "2025-09-13T22:00:00.000Z",
+      "start": "2025-09-10T05:00:00.000Z",
+      "end": "2025-09-14T05:00:00.000Z",
       "locale": "de",
       "originalString": "10. bis 14. September 2025"
     },
@@ -2483,8 +2483,8 @@
   {
     "name": "Musikfest Berlin",
     "date": {
-      "start": "2025-08-29T22:00:00.000Z",
-      "end": "2025-09-22T22:00:00.000Z",
+      "start": "2025-08-30T05:00:00.000Z",
+      "end": "2025-09-23T05:00:00.000Z",
       "locale": "de",
       "originalString": "30. August bis 23. September 2025"
     },
@@ -2494,8 +2494,8 @@
   {
     "name": "IFA 2025",
     "date": {
-      "start": "2025-09-04T22:00:00.000Z",
-      "end": "2025-09-08T22:00:00.000Z",
+      "start": "2025-09-05T05:00:00.000Z",
+      "end": "2025-09-09T05:00:00.000Z",
       "locale": "de",
       "originalString": "05. bis 09. September 2025"
     },
@@ -2521,8 +2521,8 @@
   {
     "name": "Tag des offenen Denkmals",
     "date": {
-      "start": "2025-09-13T22:00:00.000Z",
-      "end": "2025-09-13T22:00:00.000Z",
+      "start": "2025-09-14T05:00:00.000Z",
+      "end": "2025-09-14T05:00:00.000Z",
       "locale": "de",
       "originalString": "13. und 14. September 2025"
     },
@@ -2532,8 +2532,8 @@
   {
     "name": "Positions Berlin Art Fair",
     "date": {
-      "start": "2025-09-10T22:00:00.000Z",
-      "end": "2025-09-13T22:00:00.000Z",
+      "start": "2025-09-11T05:00:00.000Z",
+      "end": "2025-09-14T05:00:00.000Z",
       "locale": "de",
       "originalString": "11. bis 14. September 2025"
     },
@@ -2591,8 +2591,8 @@
   {
     "name": "Berliner Demokratietag",
     "date": {
-      "start": "2024-09-14T22:00:00.000Z",
-      "end": "2024-09-14T22:00:00.000Z",
+      "start": "2024-09-15T05:00:00.000Z",
+      "end": "2024-09-15T05:00:00.000Z",
       "locale": "de",
       "originalString": "15. September 2024"
     },
@@ -2622,8 +2622,8 @@
   {
     "name": "BMW Berlin-Marathon",
     "date": {
-      "start": "2025-09-20T22:00:00.000Z",
-      "end": "2025-09-20T22:00:00.000Z",
+      "start": "2025-09-21T05:00:00.000Z",
+      "end": "2025-09-21T05:00:00.000Z",
       "locale": "de",
       "originalString": "20. und 21. September 2025"
     },
@@ -2649,8 +2649,8 @@
   {
     "name": "Berliner Herbstrummel",
     "date": {
-      "start": "2025-09-18T22:00:00.000Z",
-      "end": "2025-10-18T22:00:00.000Z",
+      "start": "2025-09-19T05:00:00.000Z",
+      "end": "2025-10-19T05:00:00.000Z",
       "locale": "de",
       "originalString": "19. September bis 19. Oktober 2025"
     },
@@ -2716,8 +2716,8 @@
   {
     "name": "FilmPolska",
     "date": {
-      "start": "2024-09-10T22:00:00.000Z",
-      "end": "2024-09-17T22:00:00.000Z",
+      "start": "2024-09-11T05:00:00.000Z",
+      "end": "2024-09-18T05:00:00.000Z",
       "locale": "de",
       "originalString": "11. bis 18. September 2024"
     },
@@ -2745,8 +2745,8 @@
   {
     "name": "Berlin Chili Fest",
     "date": {
-      "start": "2025-05-15T22:00:00.000Z",
-      "end": "2025-05-17T22:00:00.000Z",
+      "start": "2025-05-16T05:00:00.000Z",
+      "end": "2025-05-18T05:00:00.000Z",
       "locale": "de",
       "originalString": "16. bis 18. Mai 2025"
     },
@@ -2832,8 +2832,8 @@
   {
     "name": "Buch Berlin",
     "date": {
-      "start": "2025-09-27T22:00:00.000Z",
-      "end": "2025-09-27T22:00:00.000Z",
+      "start": "2025-09-28T05:00:00.000Z",
+      "end": "2025-09-28T05:00:00.000Z",
       "locale": "de",
       "originalString": "27. und 28. September 2025"
     },
@@ -2883,6 +2883,12 @@
     "href": "https://www.berlin.de/events/"
   },
   {
+    "name": "Winter in Berlin",
+    "date": {},
+    "description": "Eisbahnen, Veranstaltungen, Wintersport, Spaziergänge, Wellness und",
+    "href": "https://www.berlin.de/special/winter/"
+  },
+  {
     "name": "Ab nach draußen!",
     "date": {},
     "description": "Die besten Events und Tipps für eine tolle Zeit an der frischen Berliner Luft.",
@@ -2913,12 +2919,6 @@
     "href": "https://www.berlin.de/wochenend-tipps/"
   },
   {
-    "name": "Winter in Berlin",
-    "date": {},
-    "description": "Eisbahnen, Veranstaltungen, Wintersport, Spaziergänge, Wellness und",
-    "href": "https://www.berlin.de/special/winter/"
-  },
-  {
     "name": "Festival of Lights",
     "date": {
       "originalString": "Noch nicht bekannt"
@@ -2929,8 +2929,8 @@
   {
     "name": "Lange Nacht der Familie",
     "date": {
-      "start": "2025-10-10T22:00:00.000Z",
-      "end": "2025-10-10T22:00:00.000Z",
+      "start": "2025-10-11T05:00:00.000Z",
+      "end": "2025-10-11T05:00:00.000Z",
       "locale": "de",
       "originalString": "11. Oktober 2025"
     },
@@ -2948,8 +2948,8 @@
   {
     "name": "Tag der offenen Moschee",
     "date": {
-      "start": "2025-10-02T22:00:00.000Z",
-      "end": "2025-10-02T22:00:00.000Z",
+      "start": "2025-10-03T05:00:00.000Z",
+      "end": "2025-10-03T05:00:00.000Z",
       "locale": "de",
       "originalString": "03. Oktober 2025"
     },
@@ -2991,8 +2991,8 @@
   {
     "name": "Berlin Food Week",
     "date": {
-      "start": "2025-10-12T22:00:00.000Z",
-      "end": "2025-10-18T22:00:00.000Z",
+      "start": "2025-10-13T05:00:00.000Z",
+      "end": "2025-10-19T05:00:00.000Z",
       "locale": "de",
       "originalString": "13. bis 19. Oktober 2025"
     },
@@ -3036,8 +3036,8 @@
   {
     "name": "Berliner Herbstrummel",
     "date": {
-      "start": "2025-09-18T22:00:00.000Z",
-      "end": "2025-10-18T22:00:00.000Z",
+      "start": "2025-09-19T05:00:00.000Z",
+      "end": "2025-10-19T05:00:00.000Z",
       "locale": "de",
       "originalString": "19. September bis 19. Oktober 2025"
     },
@@ -3125,8 +3125,8 @@
   {
     "name": "Punkfilmfest",
     "date": {
-      "start": "2024-10-15T22:00:00.000Z",
-      "end": "2024-10-19T22:00:00.000Z",
+      "start": "2024-10-16T05:00:00.000Z",
+      "end": "2024-10-20T05:00:00.000Z",
       "locale": "de",
       "originalString": "16. bis 20. Oktober 2024"
     },
@@ -3136,8 +3136,8 @@
   {
     "name": "Venus Berlin",
     "date": {
-      "start": "2025-09-24T22:00:00.000Z",
-      "end": "2025-09-27T22:00:00.000Z",
+      "start": "2025-09-25T05:00:00.000Z",
+      "end": "2025-09-28T05:00:00.000Z",
       "locale": "de",
       "originalString": "25. bis 28. September 2025"
     },
@@ -3155,8 +3155,8 @@
   {
     "name": "Deutsche Gründer- und Unternehmertage (Degut)",
     "date": {
-      "start": "2025-10-10T22:00:00.000Z",
-      "end": "2025-10-10T22:00:00.000Z",
+      "start": "2025-10-11T05:00:00.000Z",
+      "end": "2025-10-11T05:00:00.000Z",
       "locale": "de",
       "originalString": "10. und 11. Oktober 2025"
     },
@@ -3180,18 +3180,6 @@
     "date": {},
     "description": "Die Berlin-Eventvorschau für Januar 2025. CTM-Festival, Tanztage, British Shorts, Transmediale und",
     "href": "https://www.berlin.de/events/jahresuebersicht/januar/"
-  },
-  {
-    "name": "Ab nach draußen!",
-    "date": {},
-    "description": "Die besten Events und Tipps für eine tolle Zeit an der frischen Berliner Luft.",
-    "href": "https://www.berlin.de/kultur-und-tickets/tipps/draussen/"
-  },
-  {
-    "name": "Berlin für Kinder",
-    "date": {},
-    "description": "Tipps für die kleinen Entdecker, Leseratten und Spielkinder der Stadt.",
-    "href": "https://www.berlin.de/kultur-und-tickets/tipps/kinder/"
   },
   {
     "name": "Volksfeste und Straßenfeste",
@@ -3218,6 +3206,18 @@
     "href": "https://www.berlin.de/special/winter/"
   },
   {
+    "name": "Ab nach draußen!",
+    "date": {},
+    "description": "Die besten Events und Tipps für eine tolle Zeit an der frischen Berliner Luft.",
+    "href": "https://www.berlin.de/kultur-und-tickets/tipps/draussen/"
+  },
+  {
+    "name": "Berlin für Kinder",
+    "date": {},
+    "description": "Tipps für die kleinen Entdecker, Leseratten und Spielkinder der Stadt.",
+    "href": "https://www.berlin.de/kultur-und-tickets/tipps/kinder/"
+  },
+  {
     "name": "Jazzfest Berlin",
     "date": {
       "originalString": "Termin noch nicht bekannt"
@@ -3228,8 +3228,8 @@
   {
     "name": "Bazaar Berlin",
     "date": {
-      "start": "2025-11-04T23:00:00.000Z",
-      "end": "2025-11-08T23:00:00.000Z",
+      "start": "2025-11-05T05:00:00.000Z",
+      "end": "2025-11-09T05:00:00.000Z",
       "locale": "de",
       "originalString": "05. bis 09. November 2025"
     },
@@ -3255,8 +3255,8 @@
   {
     "name": "Christmas Garden Berlin",
     "date": {
-      "start": "2024-11-19T23:00:00.000Z",
-      "end": "2025-01-11T23:00:00.000Z",
+      "start": "2024-11-20T05:00:00.000Z",
+      "end": "2025-01-12T05:00:00.000Z",
       "locale": "de",
       "originalString": "20. November 2024 bis 12. Januar 2025"
     },
@@ -3282,8 +3282,8 @@
   {
     "name": "Weihnachten im Tierpark",
     "date": {
-      "start": "2024-11-21T23:00:00.000Z",
-      "end": "2025-01-11T23:00:00.000Z",
+      "start": "2024-11-22T05:00:00.000Z",
+      "end": "2025-01-12T05:00:00.000Z",
       "locale": "de",
       "originalString": "22. November 2024 bis 12. Januar 2025"
     },
@@ -3293,8 +3293,8 @@
   {
     "name": "Tag des Krematoriums",
     "date": {
-      "start": "2025-11-22T23:00:00.000Z",
-      "end": "2025-11-22T23:00:00.000Z",
+      "start": "2025-11-23T05:00:00.000Z",
+      "end": "2025-11-23T05:00:00.000Z",
       "locale": "de",
       "originalString": "23. November 2025"
     },
@@ -3304,8 +3304,8 @@
   {
     "name": "Zeit für Zirkus",
     "date": {
-      "start": "2025-11-13T23:00:00.000Z",
-      "end": "2025-11-15T23:00:00.000Z",
+      "start": "2025-11-14T05:00:00.000Z",
+      "end": "2025-11-16T05:00:00.000Z",
       "locale": "de",
       "originalString": "14. bis 16. November 2025"
     },
@@ -3331,8 +3331,8 @@
   {
     "name": "Vorlesetag in Berlin",
     "date": {
-      "start": "2025-11-20T23:00:00.000Z",
-      "end": "2025-11-20T23:00:00.000Z",
+      "start": "2025-11-21T05:00:00.000Z",
+      "end": "2025-11-21T05:00:00.000Z",
       "locale": "de",
       "originalString": "21. November 2025"
     },
@@ -3378,8 +3378,8 @@
   {
     "name": "Italian Film Festival",
     "date": {
-      "start": "2025-11-10T23:00:00.000Z",
-      "end": "2025-11-15T23:00:00.000Z",
+      "start": "2025-11-11T05:00:00.000Z",
+      "end": "2025-11-16T05:00:00.000Z",
       "locale": "de",
       "originalString": "11. bis 16. November 2025"
     },
@@ -3405,8 +3405,8 @@
   {
     "name": "Nan Goldin: This Will Not End Well",
     "date": {
-      "start": "2024-11-22T23:00:00.000Z",
-      "end": "2025-04-05T22:00:00.000Z",
+      "start": "2024-11-23T05:00:00.000Z",
+      "end": "2025-04-06T05:00:00.000Z",
       "locale": "de",
       "originalString": "23. November 2024 bis 6. April 2025"
     },
@@ -3428,8 +3428,8 @@
   {
     "name": "Historischer Weihnachtsmarkt auf dem RAW-Gelände",
     "date": {
-      "start": "2024-11-13T23:00:00.000Z",
-      "end": "2024-12-21T23:00:00.000Z",
+      "start": "2024-11-14T05:00:00.000Z",
+      "end": "2024-12-22T05:00:00.000Z",
       "locale": "de",
       "originalString": "14. November bis 22. Dezember 2024"
     },
@@ -3439,8 +3439,8 @@
   {
     "name": "LGBTQIA Winterdays und Christmas Avenue",
     "date": {
-      "start": "2024-11-07T23:00:00.000Z",
-      "end": "2024-12-22T23:00:00.000Z",
+      "start": "2024-11-08T05:00:00.000Z",
+      "end": "2024-12-23T05:00:00.000Z",
       "locale": "de",
       "originalString": "08. November bis 23. Dezember 2024"
     },
@@ -3450,8 +3450,8 @@
   {
     "name": "Weihnachts-Rummel an der Landsberger Allee",
     "date": {
-      "start": "2024-10-31T23:00:00.000Z",
-      "end": "2024-12-27T23:00:00.000Z",
+      "start": "2024-11-01T05:00:00.000Z",
+      "end": "2024-12-28T05:00:00.000Z",
       "locale": "de",
       "originalString": "01. November bis 28. Dezember 2024"
     },
@@ -3461,8 +3461,8 @@
   {
     "name": "Heldenmarkt",
     "date": {
-      "start": "2025-11-15T23:00:00.000Z",
-      "end": "2025-11-15T23:00:00.000Z",
+      "start": "2025-11-16T05:00:00.000Z",
+      "end": "2025-11-16T05:00:00.000Z",
       "locale": "de",
       "originalString": "15. und 16. November 2025"
     },
@@ -3504,18 +3504,6 @@
     "href": "https://www.berlin.de/events/jahresuebersicht/januar/"
   },
   {
-    "name": "Ab nach draußen!",
-    "date": {},
-    "description": "Die besten Events und Tipps für eine tolle Zeit an der frischen Berliner Luft.",
-    "href": "https://www.berlin.de/kultur-und-tickets/tipps/draussen/"
-  },
-  {
-    "name": "Berlin für Kinder",
-    "date": {},
-    "description": "Tipps für die kleinen Entdecker, Leseratten und Spielkinder der Stadt.",
-    "href": "https://www.berlin.de/kultur-und-tickets/tipps/kinder/"
-  },
-  {
     "name": "Volksfeste und Straßenfeste",
     "date": {},
     "description": "Zuckerwatte, Karussells und Livemusik: Die beliebtesten Volksfeste Berlins.",
@@ -3540,10 +3528,22 @@
     "href": "https://www.berlin.de/special/winter/"
   },
   {
+    "name": "Ab nach draußen!",
+    "date": {},
+    "description": "Die besten Events und Tipps für eine tolle Zeit an der frischen Berliner Luft.",
+    "href": "https://www.berlin.de/kultur-und-tickets/tipps/draussen/"
+  },
+  {
+    "name": "Berlin für Kinder",
+    "date": {},
+    "description": "Tipps für die kleinen Entdecker, Leseratten und Spielkinder der Stadt.",
+    "href": "https://www.berlin.de/kultur-und-tickets/tipps/kinder/"
+  },
+  {
     "name": "Silvesterparty am Brandenburger Tor 2024",
     "date": {
-      "start": "2024-12-30T23:00:00.000Z",
-      "end": "2024-12-30T23:00:00.000Z",
+      "start": "2024-12-31T05:00:00.000Z",
+      "end": "2024-12-31T05:00:00.000Z",
       "locale": "de",
       "originalString": "31. Dezember 2024"
     },
@@ -3553,8 +3553,8 @@
   {
     "name": "Louis Lewandowski Festival",
     "date": {
-      "start": "2024-12-18T23:00:00.000Z",
-      "end": "2024-12-21T23:00:00.000Z",
+      "start": "2024-12-19T05:00:00.000Z",
+      "end": "2024-12-22T05:00:00.000Z",
       "locale": "de",
       "originalString": "19. bis 22. Dezember 2024"
     },
@@ -3564,8 +3564,8 @@
   {
     "name": "Christmas Garden Berlin",
     "date": {
-      "start": "2024-11-19T23:00:00.000Z",
-      "end": "2025-01-11T23:00:00.000Z",
+      "start": "2024-11-20T05:00:00.000Z",
+      "end": "2025-01-12T05:00:00.000Z",
       "locale": "de",
       "originalString": "20. November 2024 bis 12. Januar 2025"
     },
@@ -3575,8 +3575,8 @@
   {
     "name": "Weihnachtssingen beim 1. FC Union Berlin",
     "date": {
-      "start": "2024-12-22T23:00:00.000Z",
-      "end": "2024-12-22T23:00:00.000Z",
+      "start": "2024-12-23T05:00:00.000Z",
+      "end": "2024-12-23T05:00:00.000Z",
       "locale": "de",
       "originalString": "23. Dezember 2024"
     },
@@ -3586,8 +3586,8 @@
   {
     "name": "Weihnachten im Tierpark",
     "date": {
-      "start": "2024-11-21T23:00:00.000Z",
-      "end": "2025-01-11T23:00:00.000Z",
+      "start": "2024-11-22T05:00:00.000Z",
+      "end": "2025-01-12T05:00:00.000Z",
       "locale": "de",
       "originalString": "22. November 2024 bis 12. Januar 2025"
     },
@@ -3597,8 +3597,8 @@
   {
     "name": "Berliner Silvesterlauf",
     "date": {
-      "start": "2024-12-30T23:00:00.000Z",
-      "end": "2024-12-30T23:00:00.000Z",
+      "start": "2024-12-31T05:00:00.000Z",
+      "end": "2024-12-31T05:00:00.000Z",
       "locale": "de",
       "originalString": "31. Dezember 2024"
     },
@@ -3614,8 +3614,8 @@
   {
     "name": "Adventssingen in Mariendorf",
     "date": {
-      "start": "2024-12-14T23:00:00.000Z",
-      "end": "2024-12-14T23:00:00.000Z",
+      "start": "2024-12-15T05:00:00.000Z",
+      "end": "2024-12-15T05:00:00.000Z",
       "locale": "de",
       "originalString": "15. Dezember 2024"
     },
@@ -3625,8 +3625,8 @@
   {
     "name": "Winterzauber in den Gärten der Welt",
     "date": {
-      "start": "2024-12-12T23:00:00.000Z",
-      "end": "2024-12-14T23:00:00.000Z",
+      "start": "2024-12-13T05:00:00.000Z",
+      "end": "2024-12-15T05:00:00.000Z",
       "locale": "de",
       "originalString": "13. bis 15. Dezember 2024"
     },
@@ -3672,8 +3672,8 @@
   {
     "name": "Kurzfilmtag",
     "date": {
-      "start": "2024-12-20T23:00:00.000Z",
-      "end": "2024-12-20T23:00:00.000Z",
+      "start": "2024-12-21T05:00:00.000Z",
+      "end": "2024-12-21T05:00:00.000Z",
       "locale": "de",
       "originalString": "21. Dezember 2024"
     },
@@ -3683,8 +3683,8 @@
   {
     "name": "Weihnachtsfilmfestival",
     "date": {
-      "start": "2024-11-30T23:00:00.000Z",
-      "end": "2024-12-25T23:00:00.000Z",
+      "start": "2024-12-01T05:00:00.000Z",
+      "end": "2024-12-26T05:00:00.000Z",
       "locale": "de",
       "originalString": "01. bis 26. Dezember 2024"
     },
@@ -3694,8 +3694,8 @@
   {
     "name": "Winter-Film-Fest im Nikolaiviertel",
     "date": {
-      "start": "2024-11-19T23:00:00.000Z",
-      "end": "2024-12-31T23:00:00.000Z",
+      "start": "2024-11-20T05:00:00.000Z",
+      "end": "2025-01-01T05:00:00.000Z",
       "locale": "de",
       "originalString": "20. November 2024 bis 01. Januar 2025"
     },
@@ -3717,8 +3717,8 @@
   {
     "name": "Nan Goldin: This Will Not End Well",
     "date": {
-      "start": "2024-11-22T23:00:00.000Z",
-      "end": "2025-04-05T22:00:00.000Z",
+      "start": "2024-11-23T05:00:00.000Z",
+      "end": "2025-04-06T05:00:00.000Z",
       "locale": "de",
       "originalString": "23. November 2024 bis 6. April 2025"
     },
@@ -3728,8 +3728,8 @@
   {
     "name": "Weihnachtsmarkt am Gendarmenmarkt (an der Staatsoper)",
     "date": {
-      "start": "2024-11-24T23:00:00.000Z",
-      "end": "2024-12-30T23:00:00.000Z",
+      "start": "2024-11-25T05:00:00.000Z",
+      "end": "2024-12-31T05:00:00.000Z",
       "locale": "de",
       "originalString": "25. November bis 31. Dezember 2024"
     },
@@ -3739,8 +3739,8 @@
   {
     "name": "Lucia Weihnachtsmarkt in der Kulturbrauerei",
     "date": {
-      "start": "2024-11-24T23:00:00.000Z",
-      "end": "2024-12-21T23:00:00.000Z",
+      "start": "2024-11-25T05:00:00.000Z",
+      "end": "2024-12-22T05:00:00.000Z",
       "locale": "de",
       "originalString": "25. November bis 22. Dezember 2024"
     },
@@ -3750,8 +3750,8 @@
   {
     "name": "Weihnachtsmarkt am Schloss Charlottenburg",
     "date": {
-      "start": "2024-11-24T23:00:00.000Z",
-      "end": "2024-12-28T23:00:00.000Z",
+      "start": "2024-11-25T05:00:00.000Z",
+      "end": "2024-12-29T05:00:00.000Z",
       "locale": "de",
       "originalString": "25. November bis 29. Dezember 2024"
     },
@@ -3801,12 +3801,6 @@
     "href": "https://www.berlin.de/kultur-und-tickets/tipps/2025/"
   },
   {
-    "name": "Food-Events",
-    "date": {},
-    "description": "Köstlichkeiten aus aller Welt: Food-Festivals in Berlin.",
-    "href": "https://www.berlin.de/restaurants/food-events/"
-  },
-  {
     "name": "Wochenend-Tipps",
     "date": {},
     "description": "Das Berlin-Programm für das Wochenende in der Hauptstadt.",
@@ -3835,5 +3829,11 @@
     "date": {},
     "description": "Zuckerwatte, Karussells und Livemusik: Die beliebtesten Volksfeste Berlins.",
     "href": "https://www.berlin.de/events/volksfeste/"
+  },
+  {
+    "name": "Food-Events",
+    "date": {},
+    "description": "Köstlichkeiten aus aller Welt: Food-Festivals in Berlin.",
+    "href": "https://www.berlin.de/restaurants/food-events/"
   }
 ]

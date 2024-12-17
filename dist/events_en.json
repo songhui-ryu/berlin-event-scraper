@@ -2,8 +2,8 @@
   {
     "name": "Days of Dance Berlin",
     "date": {
-      "start": "2025-01-08T23:00:00.000Z",
-      "end": "2025-01-24T23:00:00.000Z",
+      "start": "2025-01-09T05:00:00.000Z",
+      "end": "2025-01-25T05:00:00.000Z",
       "locale": "en",
       "originalString": "January 09 - 25, 2025"
     },
@@ -13,8 +13,8 @@
   {
     "name": "International Green Week Berlin",
     "date": {
-      "start": "2025-01-16T23:00:00.000Z",
-      "end": "2025-01-25T23:00:00.000Z",
+      "start": "2025-01-17T05:00:00.000Z",
+      "end": "2025-01-26T05:00:00.000Z",
       "locale": "en",
       "originalString": "January 17 - 26, 2025"
     },
@@ -24,8 +24,8 @@
   {
     "name": "CTM Festival",
     "date": {
-      "start": "2025-01-23T23:00:00.000Z",
-      "end": "2025-02-01T23:00:00.000Z",
+      "start": "2025-01-24T05:00:00.000Z",
+      "end": "2025-02-02T05:00:00.000Z",
       "locale": "en",
       "originalString": "January 24 - February 2, 2025"
     },
@@ -35,8 +35,8 @@
   {
     "name": "Ultraschall Berlin: Festival for New Music",
     "date": {
-      "start": "2025-01-14T23:00:00.000Z",
-      "end": "2025-01-18T23:00:00.000Z",
+      "start": "2025-01-15T05:00:00.000Z",
+      "end": "2025-01-19T05:00:00.000Z",
       "locale": "en",
       "originalString": "January 15 - 19, 2025"
     },
@@ -46,8 +46,8 @@
   {
     "name": "Berlin New Year's Run",
     "date": {
-      "start": "2024-12-31T23:00:00.000Z",
-      "end": "2024-12-31T23:00:00.000Z",
+      "start": "2025-01-01T05:00:00.000Z",
+      "end": "2025-01-01T05:00:00.000Z",
       "locale": "en",
       "originalString": "January 01, 2025"
     },
@@ -57,8 +57,8 @@
   {
     "name": "SixDay Berlin",
     "date": {
-      "start": "2025-01-30T23:00:00.000Z",
-      "end": "2025-01-31T23:00:00.000Z",
+      "start": "2025-01-31T05:00:00.000Z",
+      "end": "2025-02-01T05:00:00.000Z",
       "locale": "en",
       "originalString": "January 31 - February 01, 2025"
     },
@@ -86,8 +86,8 @@
   {
     "name": "Silent Film Festival",
     "date": {
-      "start": "2025-01-16T23:00:00.000Z",
-      "end": "2025-03-21T23:00:00.000Z",
+      "start": "2025-01-17T05:00:00.000Z",
+      "end": "2025-03-22T05:00:00.000Z",
       "locale": "en",
       "originalString": "January 17 - March 22, 2025"
     },
@@ -97,8 +97,8 @@
   {
     "name": "British Shorts",
     "date": {
-      "start": "2025-01-22T23:00:00.000Z",
-      "end": "2025-01-28T23:00:00.000Z",
+      "start": "2025-01-23T05:00:00.000Z",
+      "end": "2025-01-29T05:00:00.000Z",
       "locale": "en",
       "originalString": "January 23 - 29, 2025"
     },
@@ -116,8 +116,8 @@
   {
     "name": "JuBi Berlin",
     "date": {
-      "start": "2025-01-10T23:00:00.000Z",
-      "end": "2025-01-10T23:00:00.000Z",
+      "start": "2025-01-11T05:00:00.000Z",
+      "end": "2025-01-11T05:00:00.000Z",
       "locale": "en",
       "originalString": "January 11, 2025"
     },
@@ -127,8 +127,8 @@
   {
     "name": "European Camera Trade Show Berlin",
     "date": {
-      "start": "2025-01-17T23:00:00.000Z",
-      "end": "2025-01-17T23:00:00.000Z",
+      "start": "2025-01-18T05:00:00.000Z",
+      "end": "2025-01-18T05:00:00.000Z",
       "locale": "en",
       "originalString": "January 18, 2025"
     },
@@ -138,8 +138,8 @@
   {
     "name": "Hippologica Berlin",
     "date": {
-      "start": "2025-01-23T23:00:00.000Z",
-      "end": "2025-01-25T23:00:00.000Z",
+      "start": "2025-01-24T05:00:00.000Z",
+      "end": "2025-01-26T05:00:00.000Z",
       "locale": "en",
       "originalString": "January 24-26, 2025"
     },
@@ -165,25 +165,13 @@
   {
     "name": "Nan Goldin: This Will Not End Well",
     "date": {
-      "start": "2024-11-22T23:00:00.000Z",
-      "end": "2025-04-05T22:00:00.000Z",
+      "start": "2024-11-23T05:00:00.000Z",
+      "end": "2025-04-06T05:00:00.000Z",
       "locale": "en",
       "originalString": "November 23, 2024 - April 6, 2025"
     },
     "description": "Stories about love, intimacy, addiction and loss: the exhibition \"This Will Not End Well\" at the Neue Nationalgalerie presents a retrospective of the extraordinary photographer and filmmaker Nan Goldin.",
     "href": "https://www.berlin.de/en/exhibitions/8559936-5202331-nan-goldin-this-will-not-end-well.en.html"
-  },
-  {
-    "name": "Exhibitions in Berlin",
-    "date": {},
-    "description": "See the best museum, art and photography exhibitions at Berlin's top museums, galleries and event venues.",
-    "href": "https://www.berlin.de/en/exhibitions/"
-  },
-  {
-    "name": "Flea Markets",
-    "date": {},
-    "description": "Berlin's most popular flea markets and antique markets with adresses, opening hours, public transport and map.",
-    "href": "https://www.berlin.de/en/shopping/markets/flea-markets/"
   },
   {
     "name": "River Cruises",
@@ -198,10 +186,22 @@
     "href": "https://www.berlin.de/en/districts/"
   },
   {
+    "name": "Attractions & Sights",
+    "date": {},
+    "description": "Berlin’s top attractions, palaces and monuments with address, photos, public transport details and",
+    "href": "https://www.berlin.de/en/attractions-and-sights/"
+  },
+  {
+    "name": "Exhibitions in Berlin",
+    "date": {},
+    "description": "See the best museum, art and photography exhibitions at Berlin's top museums, galleries and event venues.",
+    "href": "https://www.berlin.de/en/exhibitions/"
+  },
+  {
     "name": "Berlinale - Berlin International Film Festival",
     "date": {
-      "start": "2025-02-12T23:00:00.000Z",
-      "end": "2025-02-22T23:00:00.000Z",
+      "start": "2025-02-13T05:00:00.000Z",
+      "end": "2025-02-23T05:00:00.000Z",
       "locale": "en",
       "originalString": "February 13 - 23, 2025"
     },
@@ -211,8 +211,8 @@
   {
     "name": "One Billion Rising",
     "date": {
-      "start": "2025-02-13T23:00:00.000Z",
-      "end": "2025-02-13T23:00:00.000Z",
+      "start": "2025-02-14T05:00:00.000Z",
+      "end": "2025-02-14T05:00:00.000Z",
       "locale": "en",
       "originalString": "February 14, 2025"
     },
@@ -222,8 +222,8 @@
   {
     "name": "Berlin Valentine's Run",
     "date": {
-      "start": "2025-02-15T23:00:00.000Z",
-      "end": "2025-02-15T23:00:00.000Z",
+      "start": "2025-02-16T05:00:00.000Z",
+      "end": "2025-02-16T05:00:00.000Z",
       "locale": "en",
       "originalString": "February 16, 2025"
     },
@@ -233,8 +233,8 @@
   {
     "name": "CTM Festival",
     "date": {
-      "start": "2025-01-23T23:00:00.000Z",
-      "end": "2025-02-01T23:00:00.000Z",
+      "start": "2025-01-24T05:00:00.000Z",
+      "end": "2025-02-02T05:00:00.000Z",
       "locale": "en",
       "originalString": "January 24 - February 2, 2025"
     },
@@ -244,8 +244,8 @@
   {
     "name": "Transmediale",
     "date": {
-      "start": "2025-01-28T23:00:00.000Z",
-      "end": "2025-02-01T23:00:00.000Z",
+      "start": "2025-01-29T05:00:00.000Z",
+      "end": "2025-02-02T05:00:00.000Z",
       "locale": "en",
       "originalString": "January 29 - February 02, 2025"
     },
@@ -271,8 +271,8 @@
   {
     "name": "Tanzolymp - International Dance Festival",
     "date": {
-      "start": "2025-02-19T23:00:00.000Z",
-      "end": "2025-02-24T23:00:00.000Z",
+      "start": "2025-02-20T05:00:00.000Z",
+      "end": "2025-02-25T05:00:00.000Z",
       "locale": "en",
       "originalString": "February 20 - 25, 2025"
     },
@@ -282,8 +282,8 @@
   {
     "name": "Berlin Fashion Week 2025",
     "date": {
-      "start": "2025-02-02T23:00:00.000Z",
-      "end": "2025-02-05T23:00:00.000Z",
+      "start": "2025-02-03T05:00:00.000Z",
+      "end": "2025-02-06T05:00:00.000Z",
       "locale": "en",
       "originalString": "February 03 - 06, 2025"
     },
@@ -301,8 +301,8 @@
   {
     "name": "Fruit Logistica",
     "date": {
-      "start": "2025-02-04T23:00:00.000Z",
-      "end": "2025-02-06T23:00:00.000Z",
+      "start": "2025-02-05T05:00:00.000Z",
+      "end": "2025-02-07T05:00:00.000Z",
       "locale": "en",
       "originalString": "February 5-7, 2025"
     },
@@ -318,8 +318,8 @@
   {
     "name": "Valie Export: Retrospective",
     "date": {
-      "start": "2024-01-26T23:00:00.000Z",
-      "end": "2024-05-21T22:00:00.000Z",
+      "start": "2024-01-27T05:00:00.000Z",
+      "end": "2024-05-22T05:00:00.000Z",
       "locale": "en",
       "originalString": "January 27 - May 22, 2024"
     },
@@ -331,18 +331,6 @@
     "date": {},
     "description": "Best museum weather: The average weather in Berlin in February is a rather grey matter.",
     "href": "https://www.berlin.de/en/weather/travel-weather/5950600-6124819-weather-in-berlin-in-february.en.html"
-  },
-  {
-    "name": "Exhibitions in Berlin",
-    "date": {},
-    "description": "See the best museum, art and photography exhibitions at Berlin's top museums, galleries and event venues.",
-    "href": "https://www.berlin.de/en/exhibitions/"
-  },
-  {
-    "name": "Flea Markets",
-    "date": {},
-    "description": "Berlin's most popular flea markets and antique markets with adresses, opening hours, public transport and map.",
-    "href": "https://www.berlin.de/en/shopping/markets/flea-markets/"
   },
   {
     "name": "River Cruises",
@@ -357,10 +345,16 @@
     "href": "https://www.berlin.de/en/districts/"
   },
   {
+    "name": "Attractions & Sights",
+    "date": {},
+    "description": "Berlin’s top attractions, palaces and monuments with address, photos, public transport details and",
+    "href": "https://www.berlin.de/en/attractions-and-sights/"
+  },
+  {
     "name": "MaerzMusik",
     "date": {
-      "start": "2025-03-20T23:00:00.000Z",
-      "end": "2025-03-29T23:00:00.000Z",
+      "start": "2025-03-21T05:00:00.000Z",
+      "end": "2025-03-30T05:00:00.000Z",
       "locale": "en",
       "originalString": "March 21 - 30, 2025"
     },
@@ -370,8 +364,8 @@
   {
     "name": "European Month of Photography",
     "date": {
-      "start": "2025-02-28T23:00:00.000Z",
-      "end": "2025-03-30T22:00:00.000Z",
+      "start": "2025-03-01T05:00:00.000Z",
+      "end": "2025-03-31T05:00:00.000Z",
       "locale": "en",
       "originalString": "March 01 - 31, 2025"
     },
@@ -381,8 +375,8 @@
   {
     "name": "Opera Festival at the Berlin State Opera",
     "date": {
-      "start": "2025-04-10T22:00:00.000Z",
-      "end": "2025-04-20T22:00:00.000Z",
+      "start": "2025-04-11T05:00:00.000Z",
+      "end": "2025-04-21T05:00:00.000Z",
       "locale": "en",
       "originalString": "April 11 - 21, 2025"
     },
@@ -400,8 +394,8 @@
   {
     "name": "Berlin Chocolate Festival",
     "date": {
-      "start": "2025-03-14T23:00:00.000Z",
-      "end": "2025-03-15T23:00:00.000Z",
+      "start": "2025-03-15T05:00:00.000Z",
+      "end": "2025-03-16T05:00:00.000Z",
       "locale": "en",
       "originalString": "March 15 and 16, 2025"
     },
@@ -411,8 +405,8 @@
   {
     "name": "Run Around the Müggelturm",
     "date": {
-      "start": "2025-03-22T23:00:00.000Z",
-      "end": "2025-03-22T23:00:00.000Z",
+      "start": "2025-03-23T05:00:00.000Z",
+      "end": "2025-03-23T05:00:00.000Z",
       "locale": "en",
       "originalString": "March 23, 2025"
     },
@@ -422,8 +416,8 @@
   {
     "name": "Spring Festival at Kurt-Schumacher-Damm",
     "date": {
-      "start": "2025-03-28T23:00:00.000Z",
-      "end": "2025-05-03T22:00:00.000Z",
+      "start": "2025-03-29T05:00:00.000Z",
+      "end": "2025-05-04T05:00:00.000Z",
       "locale": "en",
       "originalString": "March 29 - May 04, 2025"
     },
@@ -441,8 +435,8 @@
   {
     "name": "Silent Film Festival",
     "date": {
-      "start": "2025-01-16T23:00:00.000Z",
-      "end": "2025-03-21T23:00:00.000Z",
+      "start": "2025-01-17T05:00:00.000Z",
+      "end": "2025-03-22T05:00:00.000Z",
       "locale": "en",
       "originalString": "January 17 - March 22, 2025"
     },
@@ -478,8 +472,8 @@
   {
     "name": "ITB Berlin - International Travel Trade Show",
     "date": {
-      "start": "2025-03-03T23:00:00.000Z",
-      "end": "2025-03-05T23:00:00.000Z",
+      "start": "2025-03-04T05:00:00.000Z",
+      "end": "2025-03-06T05:00:00.000Z",
       "locale": "en",
       "originalString": "March 04-06, 2025"
     },
@@ -489,8 +483,8 @@
   {
     "name": "Transform",
     "date": {
-      "start": "2025-03-18T23:00:00.000Z",
-      "end": "2025-03-19T23:00:00.000Z",
+      "start": "2025-03-19T05:00:00.000Z",
+      "end": "2025-03-20T05:00:00.000Z",
       "locale": "en",
       "originalString": "March 19 and 20, 2025"
     },
@@ -500,8 +494,8 @@
   {
     "name": "Kolektif Berlin",
     "date": {
-      "start": "2025-03-13T23:00:00.000Z",
-      "end": "2025-03-15T23:00:00.000Z",
+      "start": "2025-03-14T05:00:00.000Z",
+      "end": "2025-03-16T05:00:00.000Z",
       "locale": "en",
       "originalString": "March 14-16, 2025"
     },
@@ -533,16 +527,10 @@
     "href": "https://www.berlin.de/en/tourism/rivercruises-boattrips/"
   },
   {
-    "name": "Berlin's Districts",
-    "date": {},
-    "description": "Information on residential areas, infrastructure, events, local authorities and leisure activities.",
-    "href": "https://www.berlin.de/en/districts/"
-  },
-  {
     "name": "European Arts and Crafts Days",
     "date": {
-      "start": "2025-04-03T22:00:00.000Z",
-      "end": "2025-04-05T22:00:00.000Z",
+      "start": "2025-04-04T05:00:00.000Z",
+      "end": "2025-04-06T05:00:00.000Z",
       "locale": "en",
       "originalString": "April 04 to 06, 2025"
     },
@@ -552,8 +540,8 @@
   {
     "name": "Record Store Day",
     "date": {
-      "start": "2025-04-18T22:00:00.000Z",
-      "end": "2025-04-18T22:00:00.000Z",
+      "start": "2025-04-19T05:00:00.000Z",
+      "end": "2025-04-19T05:00:00.000Z",
       "locale": "en",
       "originalString": "April 19, 2025"
     },
@@ -595,8 +583,8 @@
   {
     "name": "Berlin Half Marathon",
     "date": {
-      "start": "2025-04-05T22:00:00.000Z",
-      "end": "2025-04-05T22:00:00.000Z",
+      "start": "2025-04-06T05:00:00.000Z",
+      "end": "2025-04-06T05:00:00.000Z",
       "locale": "en",
       "originalString": "April 06, 2025"
     },
@@ -606,8 +594,8 @@
   {
     "name": "Wartenberg Easter Run",
     "date": {
-      "start": "2025-04-19T22:00:00.000Z",
-      "end": "2025-04-19T22:00:00.000Z",
+      "start": "2025-04-20T05:00:00.000Z",
+      "end": "2025-04-20T05:00:00.000Z",
       "locale": "en",
       "originalString": "April 20, 2025"
     },
@@ -649,8 +637,8 @@
   {
     "name": "Caspar David Friedrich: Infinite Landscapes",
     "date": {
-      "start": "2024-04-18T22:00:00.000Z",
-      "end": "2024-08-03T22:00:00.000Z",
+      "start": "2024-04-19T05:00:00.000Z",
+      "end": "2024-08-04T05:00:00.000Z",
       "locale": "en",
       "originalString": "April 19 - August 04, 2024"
     },
@@ -678,8 +666,8 @@
   {
     "name": "DMEA",
     "date": {
-      "start": "2025-04-07T22:00:00.000Z",
-      "end": "2025-04-09T22:00:00.000Z",
+      "start": "2025-04-08T05:00:00.000Z",
+      "end": "2025-04-10T05:00:00.000Z",
       "locale": "en",
       "originalString": "April 8-10, 2025"
     },
@@ -689,8 +677,8 @@
   {
     "name": "Paper Positions",
     "date": {
-      "start": "2025-04-30T22:00:00.000Z",
-      "end": "2025-05-03T22:00:00.000Z",
+      "start": "2025-05-01T05:00:00.000Z",
+      "end": "2025-05-04T05:00:00.000Z",
       "locale": "en",
       "originalString": "May 1-4, 2025"
     },
@@ -700,8 +688,8 @@
   {
     "name": "International Cannabis Business Conference",
     "date": {
-      "start": "2025-04-28T22:00:00.000Z",
-      "end": "2025-04-29T22:00:00.000Z",
+      "start": "2025-04-29T05:00:00.000Z",
+      "end": "2025-04-30T05:00:00.000Z",
       "locale": "en",
       "originalString": "April 29-30, 2025"
     },
@@ -751,16 +739,10 @@
     "href": "https://www.berlin.de/en/tourism/rivercruises-boattrips/"
   },
   {
-    "name": "Berlin's Districts",
-    "date": {},
-    "description": "Information on residential areas, infrastructure, events, local authorities and leisure activities.",
-    "href": "https://www.berlin.de/en/districts/"
-  },
-  {
     "name": "Gallery Weekend Berlin",
     "date": {
-      "start": "2025-05-01T22:00:00.000Z",
-      "end": "2025-05-03T22:00:00.000Z",
+      "start": "2025-05-02T05:00:00.000Z",
+      "end": "2025-05-04T05:00:00.000Z",
       "locale": "en",
       "originalString": "May 2 - 4, 2025"
     },
@@ -778,8 +760,8 @@
   {
     "name": "Berliner Theatertreffen",
     "date": {
-      "start": "2025-05-01T22:00:00.000Z",
-      "end": "2025-05-17T22:00:00.000Z",
+      "start": "2025-05-02T05:00:00.000Z",
+      "end": "2025-05-18T05:00:00.000Z",
       "locale": "en",
       "originalString": "May 02 - 18, 2025"
     },
@@ -789,8 +771,8 @@
   {
     "name": "Berlin Design Week",
     "date": {
-      "start": "2025-05-09T22:00:00.000Z",
-      "end": "2025-05-17T22:00:00.000Z",
+      "start": "2025-05-10T05:00:00.000Z",
+      "end": "2025-05-18T05:00:00.000Z",
       "locale": "en",
       "originalString": "May 10 - 18, 2025"
     },
@@ -800,8 +782,8 @@
   {
     "name": "Re:publica",
     "date": {
-      "start": "2025-05-25T22:00:00.000Z",
-      "end": "2025-05-27T22:00:00.000Z",
+      "start": "2025-05-26T05:00:00.000Z",
+      "end": "2025-05-28T05:00:00.000Z",
       "locale": "en",
       "originalString": "May 26-28, 2025"
     },
@@ -811,8 +793,8 @@
   {
     "name": "DFB Cup Final in Berlin",
     "date": {
-      "start": "2025-05-23T22:00:00.000Z",
-      "end": "2025-05-23T22:00:00.000Z",
+      "start": "2025-05-24T05:00:00.000Z",
+      "end": "2025-05-24T05:00:00.000Z",
       "locale": "en",
       "originalString": "May 24, 2025"
     },
@@ -846,8 +828,8 @@
   {
     "name": "Classic Days Berlin",
     "date": {
-      "start": "2025-05-09T22:00:00.000Z",
-      "end": "2025-05-10T22:00:00.000Z",
+      "start": "2025-05-10T05:00:00.000Z",
+      "end": "2025-05-11T05:00:00.000Z",
       "locale": "en",
       "originalString": "May 10 and 11, 2025"
     },
@@ -857,8 +839,8 @@
   {
     "name": "Pictoplasma Berlin",
     "date": {
-      "start": "2025-05-06T22:00:00.000Z",
-      "end": "2025-05-10T22:00:00.000Z",
+      "start": "2025-05-07T05:00:00.000Z",
+      "end": "2025-05-11T05:00:00.000Z",
       "locale": "en",
       "originalString": "May 07 - 11, 2025"
     },
@@ -868,8 +850,8 @@
   {
     "name": "Steglitzer Woche",
     "date": {
-      "start": "2025-05-22T22:00:00.000Z",
-      "end": "2025-06-08T22:00:00.000Z",
+      "start": "2025-05-23T05:00:00.000Z",
+      "end": "2025-06-09T05:00:00.000Z",
       "locale": "en",
       "originalString": "May 23 - June 09, 2025"
     },
@@ -887,8 +869,8 @@
   {
     "name": "Spring and Asparagus Festival Primavera",
     "date": {
-      "start": "2025-05-09T22:00:00.000Z",
-      "end": "2025-05-10T22:00:00.000Z",
+      "start": "2025-05-10T05:00:00.000Z",
+      "end": "2025-05-11T05:00:00.000Z",
       "locale": "en",
       "originalString": "May 10 and 11, 2025"
     },
@@ -922,8 +904,8 @@
   {
     "name": "Women's Run Berlin",
     "date": {
-      "start": "2025-05-16T22:00:00.000Z",
-      "end": "2025-05-16T22:00:00.000Z",
+      "start": "2025-05-17T05:00:00.000Z",
+      "end": "2025-05-17T05:00:00.000Z",
       "locale": "en",
       "originalString": "May 17, 2025"
     },
@@ -933,8 +915,8 @@
   {
     "name": "S 25 Berlin",
     "date": {
-      "start": "2025-05-10T22:00:00.000Z",
-      "end": "2025-05-10T22:00:00.000Z",
+      "start": "2025-05-11T05:00:00.000Z",
+      "end": "2025-05-11T05:00:00.000Z",
       "locale": "en",
       "originalString": "May 11, 2025"
     },
@@ -976,8 +958,8 @@
   {
     "name": "Father's Day in Berlin",
     "date": {
-      "start": "2025-05-28T22:00:00.000Z",
-      "end": "2025-05-28T22:00:00.000Z",
+      "start": "2025-05-29T05:00:00.000Z",
+      "end": "2025-05-29T05:00:00.000Z",
       "locale": "en",
       "originalString": "May 29, 2025"
     },
@@ -999,8 +981,8 @@
   {
     "name": "Greentech Festival",
     "date": {
-      "start": "2025-06-03T22:00:00.000Z",
-      "end": "2025-06-05T22:00:00.000Z",
+      "start": "2025-06-04T05:00:00.000Z",
+      "end": "2025-06-06T05:00:00.000Z",
       "locale": "en",
       "originalString": "June 4-6, 2025"
     },
@@ -1010,8 +992,8 @@
   {
     "name": "Gartenträume Berlin",
     "date": {
-      "start": "2025-05-22T22:00:00.000Z",
-      "end": "2025-05-24T22:00:00.000Z",
+      "start": "2025-05-23T05:00:00.000Z",
+      "end": "2025-05-25T05:00:00.000Z",
       "locale": "en",
       "originalString": "May 23-25, 2025"
     },
@@ -1039,8 +1021,8 @@
   {
     "name": "Bicycle Rally of the ADFC",
     "date": {
-      "start": "2025-05-31T22:00:00.000Z",
-      "end": "2025-05-31T22:00:00.000Z",
+      "start": "2025-06-01T05:00:00.000Z",
+      "end": "2025-06-01T05:00:00.000Z",
       "locale": "en",
       "originalString": "June 01, 2025"
     },
@@ -1050,8 +1032,8 @@
   {
     "name": "Fête de la Musique",
     "date": {
-      "start": "2025-06-20T22:00:00.000Z",
-      "end": "2025-06-20T22:00:00.000Z",
+      "start": "2025-06-21T05:00:00.000Z",
+      "end": "2025-06-21T05:00:00.000Z",
       "locale": "en",
       "originalString": "June 21, 2025"
     },
@@ -1061,8 +1043,8 @@
   {
     "name": "Long Night of the Sciences",
     "date": {
-      "start": "2025-06-27T22:00:00.000Z",
-      "end": "2025-06-27T22:00:00.000Z",
+      "start": "2025-06-28T05:00:00.000Z",
+      "end": "2025-06-28T05:00:00.000Z",
       "locale": "en",
       "originalString": "June 28, 2025"
     },
@@ -1072,8 +1054,8 @@
   {
     "name": "Staatsoper für alle",
     "date": {
-      "start": "2025-06-21T22:00:00.000Z",
-      "end": "2025-06-21T22:00:00.000Z",
+      "start": "2025-06-22T05:00:00.000Z",
+      "end": "2025-06-22T05:00:00.000Z",
       "locale": "en",
       "originalString": "June 22, 2025"
     },
@@ -1083,8 +1065,8 @@
   {
     "name": "ILA Berlin",
     "date": {
-      "start": "2026-06-09T22:00:00.000Z",
-      "end": "2026-06-13T22:00:00.000Z",
+      "start": "2026-06-10T05:00:00.000Z",
+      "end": "2026-06-14T05:00:00.000Z",
       "locale": "en",
       "originalString": "June 10 - 14, 2026"
     },
@@ -1118,8 +1100,8 @@
   {
     "name": "Kreuzberg Festival",
     "date": {
-      "start": "2025-06-26T22:00:00.000Z",
-      "end": "2025-06-28T22:00:00.000Z",
+      "start": "2025-06-27T05:00:00.000Z",
+      "end": "2025-06-29T05:00:00.000Z",
       "locale": "en",
       "originalString": "June 27 - 29, 2025"
     },
@@ -1161,8 +1143,8 @@
   {
     "name": "Berliner Volksfestsommer",
     "date": {
-      "start": "2025-07-24T22:00:00.000Z",
-      "end": "2025-08-07T22:00:00.000Z",
+      "start": "2025-07-25T05:00:00.000Z",
+      "end": "2025-08-08T05:00:00.000Z",
       "locale": "en",
       "originalString": "July 25 - August 08, 2025"
     },
@@ -1188,8 +1170,8 @@
   {
     "name": "Berlin Triathlon",
     "date": {
-      "start": "2025-05-31T22:00:00.000Z",
-      "end": "2025-05-31T22:00:00.000Z",
+      "start": "2025-06-01T05:00:00.000Z",
+      "end": "2025-06-01T05:00:00.000Z",
       "locale": "en",
       "originalString": "June 01, 2025"
     },
@@ -1199,8 +1181,8 @@
   {
     "name": "Berlin Tennis Open",
     "date": {
-      "start": "2025-06-13T22:00:00.000Z",
-      "end": "2025-06-21T22:00:00.000Z",
+      "start": "2025-06-14T05:00:00.000Z",
+      "end": "2025-06-22T05:00:00.000Z",
       "locale": "en",
       "originalString": "June 14 - 22, 2025"
     },
@@ -1252,8 +1234,8 @@
   {
     "name": "Mary Jane Berlin",
     "date": {
-      "start": "2025-10-19T22:00:00.000Z",
-      "end": "2025-10-21T22:00:00.000Z",
+      "start": "2025-10-20T05:00:00.000Z",
+      "end": "2025-10-22T05:00:00.000Z",
       "locale": "en",
       "originalString": "October 20 - 22, 2025"
     },
@@ -1263,8 +1245,8 @@
   {
     "name": "T5 JobMesse Berlin",
     "date": {
-      "start": "2025-06-17T22:00:00.000Z",
-      "end": "2025-06-17T22:00:00.000Z",
+      "start": "2025-06-18T05:00:00.000Z",
+      "end": "2025-06-18T05:00:00.000Z",
       "locale": "en",
       "originalString": "June 18, 2025"
     },
@@ -1274,8 +1256,8 @@
   {
     "name": "Sticks & Stones",
     "date": {
-      "start": "2025-06-20T22:00:00.000Z",
-      "end": "2025-06-20T22:00:00.000Z",
+      "start": "2025-06-21T05:00:00.000Z",
+      "end": "2025-06-21T05:00:00.000Z",
       "locale": "en",
       "originalString": "June 21, 2025"
     },
@@ -1301,16 +1283,10 @@
     "href": "https://www.berlin.de/en/tourism/rivercruises-boattrips/"
   },
   {
-    "name": "Berlin's Districts",
-    "date": {},
-    "description": "Information on residential areas, infrastructure, events, local authorities and leisure activities.",
-    "href": "https://www.berlin.de/en/districts/"
-  },
-  {
     "name": "Lesbian and Gay City Festival",
     "date": {
-      "start": "2025-07-18T22:00:00.000Z",
-      "end": "2025-07-19T22:00:00.000Z",
+      "start": "2025-07-19T05:00:00.000Z",
+      "end": "2025-07-20T05:00:00.000Z",
       "locale": "en",
       "originalString": "July 19 and 20, 2025"
     },
@@ -1328,8 +1304,8 @@
   {
     "name": "Berlin Canal Pride",
     "date": {
-      "start": "2025-07-23T22:00:00.000Z",
-      "end": "2025-07-23T22:00:00.000Z",
+      "start": "2025-07-24T05:00:00.000Z",
+      "end": "2025-07-24T05:00:00.000Z",
       "locale": "en",
       "originalString": "July 24, 2025"
     },
@@ -1339,8 +1315,8 @@
   {
     "name": "Botanical Night",
     "date": {
-      "start": "2025-07-17T22:00:00.000Z",
-      "end": "2025-07-18T22:00:00.000Z",
+      "start": "2025-07-18T05:00:00.000Z",
+      "end": "2025-07-19T05:00:00.000Z",
       "locale": "en",
       "originalString": "July 18 and 19, 2025"
     },
@@ -1382,8 +1358,8 @@
   {
     "name": "Berlin Fashion Week 2025",
     "date": {
-      "start": "2025-02-02T23:00:00.000Z",
-      "end": "2025-02-05T23:00:00.000Z",
+      "start": "2025-02-03T05:00:00.000Z",
+      "end": "2025-02-06T05:00:00.000Z",
       "locale": "en",
       "originalString": "February 03 - 06, 2025"
     },
@@ -1393,8 +1369,8 @@
   {
     "name": "Adidas Runners City Night",
     "date": {
-      "start": "2025-07-25T22:00:00.000Z",
-      "end": "2025-07-25T22:00:00.000Z",
+      "start": "2025-07-26T05:00:00.000Z",
+      "end": "2025-07-26T05:00:00.000Z",
       "locale": "en",
       "originalString": "July 26, 2025"
     },
@@ -1428,8 +1404,8 @@
   {
     "name": "Berliner Volksfestsommer",
     "date": {
-      "start": "2025-07-24T22:00:00.000Z",
-      "end": "2025-08-07T22:00:00.000Z",
+      "start": "2025-07-25T05:00:00.000Z",
+      "end": "2025-08-08T05:00:00.000Z",
       "locale": "en",
       "originalString": "July 25 - August 08, 2025"
     },
@@ -1489,8 +1465,8 @@
   {
     "name": "Droidcon",
     "date": {
-      "start": "2025-07-01T22:00:00.000Z",
-      "end": "2025-07-03T22:00:00.000Z",
+      "start": "2025-07-02T05:00:00.000Z",
+      "end": "2025-07-04T05:00:00.000Z",
       "locale": "en",
       "originalString": "July 2-4, 2025"
     },
@@ -1508,13 +1484,19 @@
   {
     "name": "Berlin Board Games Con",
     "date": {
-      "start": "2025-07-31T22:00:00.000Z",
-      "end": "2025-08-02T22:00:00.000Z",
+      "start": "2025-08-01T05:00:00.000Z",
+      "end": "2025-08-03T05:00:00.000Z",
       "locale": "en",
       "originalString": "August 1-3, 2025"
     },
     "description": "For fans of analog entertainment: At this convention and trade fair, everything revolves around board and role-playing games.",
     "href": "https://www.berlin.de/en/trade-fairs/5831564-7918797-berlin-board-games-con.en.html"
+  },
+  {
+    "name": "River Cruises",
+    "date": {},
+    "description": "Boat trips in Berlin on Spree river, on Landwehr canal or over the Wannsee.",
+    "href": "https://www.berlin.de/en/tourism/rivercruises-boattrips/"
   },
   {
     "name": "Berlin's Districts",
@@ -1535,16 +1517,10 @@
     "href": "https://www.berlin.de/en/exhibitions/"
   },
   {
-    "name": "Flea Markets",
-    "date": {},
-    "description": "Berlin's most popular flea markets and antique markets with adresses, opening hours, public transport and map.",
-    "href": "https://www.berlin.de/en/shopping/markets/flea-markets/"
-  },
-  {
     "name": "Long Night of Museums",
     "date": {
-      "start": "2025-08-29T22:00:00.000Z",
-      "end": "2025-08-29T22:00:00.000Z",
+      "start": "2025-08-30T05:00:00.000Z",
+      "end": "2025-08-30T05:00:00.000Z",
       "locale": "en",
       "originalString": "August 30, 2025"
     },
@@ -1586,8 +1562,8 @@
   {
     "name": "Night of Shooting Stars",
     "date": {
-      "start": "2025-08-11T22:00:00.000Z",
-      "end": "2025-08-11T22:00:00.000Z",
+      "start": "2025-08-12T05:00:00.000Z",
+      "end": "2025-08-12T05:00:00.000Z",
       "locale": "en",
       "originalString": "August 12, 2025"
     },
@@ -1605,8 +1581,8 @@
   {
     "name": "Rave the Planet",
     "date": {
-      "start": "2025-07-11T22:00:00.000Z",
-      "end": "2025-07-11T22:00:00.000Z",
+      "start": "2025-07-12T05:00:00.000Z",
+      "end": "2025-07-12T05:00:00.000Z",
       "locale": "en",
       "originalString": "July 12, 2025"
     },
@@ -1640,8 +1616,8 @@
   {
     "name": "Schollenfest",
     "date": {
-      "start": "2025-08-21T22:00:00.000Z",
-      "end": "2025-09-06T22:00:00.000Z",
+      "start": "2025-08-22T05:00:00.000Z",
+      "end": "2025-09-07T05:00:00.000Z",
       "locale": "en",
       "originalString": "August 22 - September 07, 2025"
     },
@@ -1691,8 +1667,8 @@
   {
     "name": "Berlin, Berlin",
     "date": {
-      "start": "2024-06-06T22:00:00.000Z",
-      "end": "2024-11-09T23:00:00.000Z",
+      "start": "2024-06-07T05:00:00.000Z",
+      "end": "2024-11-10T05:00:00.000Z",
       "locale": "en",
       "originalString": "June 07 - November 10, 2024"
     },
@@ -1726,8 +1702,8 @@
   {
     "name": "NYE Indian Street Food Market",
     "date": {
-      "start": "2024-12-30T23:00:00.000Z",
-      "end": "2024-12-30T23:00:00.000Z",
+      "start": "2024-12-31T05:00:00.000Z",
+      "end": "2024-12-31T05:00:00.000Z",
       "locale": "en",
       "originalString": "December 31, 2024"
     },
@@ -1781,16 +1757,10 @@
     "href": "https://www.berlin.de/en/tourism/rivercruises-boattrips/"
   },
   {
-    "name": "Berlin's Districts",
-    "date": {},
-    "description": "Information on residential areas, infrastructure, events, local authorities and leisure activities.",
-    "href": "https://www.berlin.de/en/districts/"
-  },
-  {
     "name": "Musikfest Berlin",
     "date": {
-      "start": "2025-08-29T22:00:00.000Z",
-      "end": "2025-09-22T22:00:00.000Z",
+      "start": "2025-08-30T05:00:00.000Z",
+      "end": "2025-09-23T05:00:00.000Z",
       "locale": "en",
       "originalString": "August 30 - September 23, 2025"
     },
@@ -1800,8 +1770,8 @@
   {
     "name": "IFA Berlin - Consumer Electronics Fair",
     "date": {
-      "start": "2025-09-04T22:00:00.000Z",
-      "end": "2025-09-08T22:00:00.000Z",
+      "start": "2025-09-05T05:00:00.000Z",
+      "end": "2025-09-09T05:00:00.000Z",
       "locale": "en",
       "originalString": "September 05 - 09, 2025"
     },
@@ -1811,8 +1781,8 @@
   {
     "name": "Berlin Art Week",
     "date": {
-      "start": "2025-09-09T22:00:00.000Z",
-      "end": "2025-09-13T22:00:00.000Z",
+      "start": "2025-09-10T05:00:00.000Z",
+      "end": "2025-09-14T05:00:00.000Z",
       "locale": "en",
       "originalString": "September 10 - 14, 2025"
     },
@@ -1822,8 +1792,8 @@
   {
     "name": "Positions Berlin Art Fair",
     "date": {
-      "start": "2025-09-10T22:00:00.000Z",
-      "end": "2025-09-13T22:00:00.000Z",
+      "start": "2025-09-11T05:00:00.000Z",
+      "end": "2025-09-14T05:00:00.000Z",
       "locale": "en",
       "originalString": "September 11 - 14, 2025"
     },
@@ -1833,8 +1803,8 @@
   {
     "name": "Open Heritage Day",
     "date": {
-      "start": "2025-09-12T22:00:00.000Z",
-      "end": "2025-09-13T22:00:00.000Z",
+      "start": "2025-09-13T05:00:00.000Z",
+      "end": "2025-09-14T05:00:00.000Z",
       "locale": "en",
       "originalString": "September 13 and 14, 2025"
     },
@@ -1924,8 +1894,8 @@
   {
     "name": "Berlin Autumn Carnival",
     "date": {
-      "start": "2025-09-18T22:00:00.000Z",
-      "end": "2025-10-18T22:00:00.000Z",
+      "start": "2025-09-19T05:00:00.000Z",
+      "end": "2025-10-19T05:00:00.000Z",
       "locale": "en",
       "originalString": "September 19 - October 19, 2025"
     },
@@ -1975,8 +1945,8 @@
   {
     "name": "Kinofest",
     "date": {
-      "start": "2025-09-12T22:00:00.000Z",
-      "end": "2025-09-13T22:00:00.000Z",
+      "start": "2025-09-13T05:00:00.000Z",
+      "end": "2025-09-14T05:00:00.000Z",
       "locale": "en",
       "originalString": "September 13 and 14, 2025"
     },
@@ -1986,8 +1956,8 @@
   {
     "name": "Festival of Animation",
     "date": {
-      "start": "2025-09-25T22:00:00.000Z",
-      "end": "2025-09-27T22:00:00.000Z",
+      "start": "2025-09-26T05:00:00.000Z",
+      "end": "2025-09-28T05:00:00.000Z",
       "locale": "en",
       "originalString": "September 26 - 28, 2025"
     },
@@ -2005,8 +1975,8 @@
   {
     "name": "BMW Berlin Marathon",
     "date": {
-      "start": "2025-09-20T22:00:00.000Z",
-      "end": "2025-09-21T22:00:00.000Z",
+      "start": "2025-09-21T05:00:00.000Z",
+      "end": "2025-09-22T05:00:00.000Z",
       "locale": "en",
       "originalString": "September 21 and 22, 2025"
     },
@@ -2050,8 +2020,8 @@
   {
     "name": "Berlin Chili Fest",
     "date": {
-      "start": "2025-05-15T22:00:00.000Z",
-      "end": "2025-05-17T22:00:00.000Z",
+      "start": "2025-05-16T05:00:00.000Z",
+      "end": "2025-05-18T05:00:00.000Z",
       "locale": "en",
       "originalString": "May 16 - 18, 2025"
     },
@@ -2117,8 +2087,8 @@
   {
     "name": "InnoTrans",
     "date": {
-      "start": "2026-09-21T22:00:00.000Z",
-      "end": "2026-09-24T22:00:00.000Z",
+      "start": "2026-09-22T05:00:00.000Z",
+      "end": "2026-09-25T05:00:00.000Z",
       "locale": "en",
       "originalString": "September 22 - 25, 2026"
     },
@@ -2144,16 +2114,10 @@
     "href": "https://www.berlin.de/en/tourism/rivercruises-boattrips/"
   },
   {
-    "name": "Berlin's Districts",
-    "date": {},
-    "description": "Information on residential areas, infrastructure, events, local authorities and leisure activities.",
-    "href": "https://www.berlin.de/en/districts/"
-  },
-  {
     "name": "Open Mosque Day",
     "date": {
-      "start": "2025-10-02T22:00:00.000Z",
-      "end": "2025-10-02T22:00:00.000Z",
+      "start": "2025-10-03T05:00:00.000Z",
+      "end": "2025-10-03T05:00:00.000Z",
       "locale": "en",
       "originalString": "October 03, 2025"
     },
@@ -2163,8 +2127,8 @@
   {
     "name": "Berlin Food Week",
     "date": {
-      "start": "2025-10-12T22:00:00.000Z",
-      "end": "2025-10-18T22:00:00.000Z",
+      "start": "2025-10-13T05:00:00.000Z",
+      "end": "2025-10-19T05:00:00.000Z",
       "locale": "en",
       "originalString": "October 13 - 19, 2025"
     },
@@ -2174,8 +2138,8 @@
   {
     "name": "Müggelsee Half Marathon",
     "date": {
-      "start": "2025-10-18T22:00:00.000Z",
-      "end": "2025-10-18T22:00:00.000Z",
+      "start": "2025-10-19T05:00:00.000Z",
+      "end": "2025-10-19T05:00:00.000Z",
       "locale": "en",
       "originalString": "October 19, 2025"
     },
@@ -2237,8 +2201,8 @@
   {
     "name": "Berlin Autumn Carnival",
     "date": {
-      "start": "2025-09-18T22:00:00.000Z",
-      "end": "2025-10-18T22:00:00.000Z",
+      "start": "2025-09-19T05:00:00.000Z",
+      "end": "2025-10-19T05:00:00.000Z",
       "locale": "en",
       "originalString": "September 19 - October 19, 2025"
     },
@@ -2264,8 +2228,8 @@
   {
     "name": "Hauptstadtwiesn at Spinner-Brücke",
     "date": {
-      "start": "2024-09-12T22:00:00.000Z",
-      "end": "2024-11-01T23:00:00.000Z",
+      "start": "2024-09-13T05:00:00.000Z",
+      "end": "2024-11-02T05:00:00.000Z",
       "locale": "en",
       "originalString": "September 13 - November 2, 2024"
     },
@@ -2293,8 +2257,8 @@
   {
     "name": "Bar Convent Berlin",
     "date": {
-      "start": "2025-10-05T22:00:00.000Z",
-      "end": "2025-10-07T22:00:00.000Z",
+      "start": "2025-10-06T05:00:00.000Z",
+      "end": "2025-10-08T05:00:00.000Z",
       "locale": "en",
       "originalString": "October 6 - 8, 2025"
     },
@@ -2304,8 +2268,8 @@
   {
     "name": "Wedding Bells",
     "date": {
-      "start": "2025-10-17T22:00:00.000Z",
-      "end": "2025-10-18T22:00:00.000Z",
+      "start": "2025-10-18T05:00:00.000Z",
+      "end": "2025-10-19T05:00:00.000Z",
       "locale": "en",
       "originalString": "October 18 - 19, 2025"
     },
@@ -2315,8 +2279,8 @@
   {
     "name": "Mary Jane Berlin",
     "date": {
-      "start": "2025-10-19T22:00:00.000Z",
-      "end": "2025-10-21T22:00:00.000Z",
+      "start": "2025-10-20T05:00:00.000Z",
+      "end": "2025-10-22T05:00:00.000Z",
       "locale": "en",
       "originalString": "October 20 - 22, 2025"
     },
@@ -2366,16 +2330,10 @@
     "href": "https://www.berlin.de/en/tourism/rivercruises-boattrips/"
   },
   {
-    "name": "Berlin's Districts",
-    "date": {},
-    "description": "Information on residential areas, infrastructure, events, local authorities and leisure activities.",
-    "href": "https://www.berlin.de/en/districts/"
-  },
-  {
     "name": "Bazaar Berlin",
     "date": {
-      "start": "2025-11-04T23:00:00.000Z",
-      "end": "2025-11-08T23:00:00.000Z",
+      "start": "2025-11-05T05:00:00.000Z",
+      "end": "2025-11-09T05:00:00.000Z",
       "locale": "en",
       "originalString": "November 5-9, 2025"
     },
@@ -2385,8 +2343,8 @@
   {
     "name": "Zeit für Zirkus - Nuit du Cirque",
     "date": {
-      "start": "2025-11-13T23:00:00.000Z",
-      "end": "2025-11-15T23:00:00.000Z",
+      "start": "2025-11-14T05:00:00.000Z",
+      "end": "2025-11-16T05:00:00.000Z",
       "locale": "en",
       "originalString": "November 14 - 16, 2025"
     },
@@ -2442,8 +2400,8 @@
   {
     "name": "Christmas Garden Berlin",
     "date": {
-      "start": "2024-11-19T23:00:00.000Z",
-      "end": "2025-01-11T23:00:00.000Z",
+      "start": "2024-11-20T05:00:00.000Z",
+      "end": "2025-01-12T05:00:00.000Z",
       "locale": "en",
       "originalString": "November 20, 2024 - January 12, 2025"
     },
@@ -2453,8 +2411,8 @@
   {
     "name": "Christmas at the Tierpark",
     "date": {
-      "start": "2024-11-21T23:00:00.000Z",
-      "end": "2025-01-11T23:00:00.000Z",
+      "start": "2024-11-22T05:00:00.000Z",
+      "end": "2025-01-12T05:00:00.000Z",
       "locale": "en",
       "originalString": "November 22, 2024 - January 12, 2025"
     },
@@ -2488,8 +2446,8 @@
   {
     "name": "Nan Goldin: This Will Not End Well",
     "date": {
-      "start": "2024-11-22T23:00:00.000Z",
-      "end": "2025-04-05T22:00:00.000Z",
+      "start": "2024-11-23T05:00:00.000Z",
+      "end": "2025-04-06T05:00:00.000Z",
       "locale": "en",
       "originalString": "November 23, 2024 - April 6, 2025"
     },
@@ -2535,8 +2493,8 @@
   {
     "name": "LGBTIQA Winterdays and Christmas Avenue",
     "date": {
-      "start": "2024-11-07T23:00:00.000Z",
-      "end": "2024-12-22T23:00:00.000Z",
+      "start": "2024-11-08T05:00:00.000Z",
+      "end": "2024-12-23T05:00:00.000Z",
       "locale": "en",
       "originalString": "November 08 to December 23, 2024"
     },
@@ -2546,8 +2504,8 @@
   {
     "name": "Medieval Christmas Market at the RAW Compound",
     "date": {
-      "start": "2024-11-13T23:00:00.000Z",
-      "end": "2024-12-21T23:00:00.000Z",
+      "start": "2024-11-14T05:00:00.000Z",
+      "end": "2024-12-22T05:00:00.000Z",
       "locale": "en",
       "originalString": "November 14 to December 22, 2024"
     },
@@ -2557,8 +2515,8 @@
   {
     "name": "Christmas Fair on Landsberger Allee",
     "date": {
-      "start": "2024-10-31T23:00:00.000Z",
-      "end": "2024-12-27T23:00:00.000Z",
+      "start": "2024-11-01T05:00:00.000Z",
+      "end": "2024-12-28T05:00:00.000Z",
       "locale": "en",
       "originalString": "November 01 to December 28, 2024"
     },
@@ -2590,16 +2548,10 @@
     "href": "https://www.berlin.de/en/tourism/rivercruises-boattrips/"
   },
   {
-    "name": "Berlin's Districts",
-    "date": {},
-    "description": "Information on residential areas, infrastructure, events, local authorities and leisure activities.",
-    "href": "https://www.berlin.de/en/districts/"
-  },
-  {
     "name": "New Year's Eve Party at the Brandenburg Gate",
     "date": {
-      "start": "2024-12-30T23:00:00.000Z",
-      "end": "2024-12-30T23:00:00.000Z",
+      "start": "2024-12-31T05:00:00.000Z",
+      "end": "2024-12-31T05:00:00.000Z",
       "locale": "en",
       "originalString": "December 31, 2024"
     },
@@ -2609,8 +2561,8 @@
   {
     "name": "Louis Lewandowski Festival",
     "date": {
-      "start": "2024-12-18T23:00:00.000Z",
-      "end": "2024-12-21T23:00:00.000Z",
+      "start": "2024-12-19T05:00:00.000Z",
+      "end": "2024-12-22T05:00:00.000Z",
       "locale": "en",
       "originalString": "December 19 - 22, 2024"
     },
@@ -2620,8 +2572,8 @@
   {
     "name": "Christmas Garden Berlin",
     "date": {
-      "start": "2024-11-19T23:00:00.000Z",
-      "end": "2025-01-11T23:00:00.000Z",
+      "start": "2024-11-20T05:00:00.000Z",
+      "end": "2025-01-12T05:00:00.000Z",
       "locale": "en",
       "originalString": "November 20, 2024 - January 12, 2025"
     },
@@ -2631,8 +2583,8 @@
   {
     "name": "Christmas at the Tierpark",
     "date": {
-      "start": "2024-11-21T23:00:00.000Z",
-      "end": "2025-01-11T23:00:00.000Z",
+      "start": "2024-11-22T05:00:00.000Z",
+      "end": "2025-01-12T05:00:00.000Z",
       "locale": "en",
       "originalString": "November 22, 2024 - January 12, 2025"
     },
@@ -2642,8 +2594,8 @@
   {
     "name": "Winterzauber in the Gardens of the World",
     "date": {
-      "start": "2024-12-12T23:00:00.000Z",
-      "end": "2024-12-14T23:00:00.000Z",
+      "start": "2024-12-13T05:00:00.000Z",
+      "end": "2024-12-15T05:00:00.000Z",
       "locale": "en",
       "originalString": "December 13 - 15, 2024"
     },
@@ -2653,8 +2605,8 @@
   {
     "name": "Berlin New Year's Eve Run",
     "date": {
-      "start": "2024-12-30T23:00:00.000Z",
-      "end": "2024-12-30T23:00:00.000Z",
+      "start": "2024-12-31T05:00:00.000Z",
+      "end": "2024-12-31T05:00:00.000Z",
       "locale": "en",
       "originalString": "December 31, 2024"
     },
@@ -2700,8 +2652,8 @@
   {
     "name": "Christmas Film Festival",
     "date": {
-      "start": "2024-11-30T23:00:00.000Z",
-      "end": "2024-12-25T23:00:00.000Z",
+      "start": "2024-12-01T05:00:00.000Z",
+      "end": "2024-12-26T05:00:00.000Z",
       "locale": "en",
       "originalString": "December 01 - 26, 2024"
     },
@@ -2711,8 +2663,8 @@
   {
     "name": "Around the World in 14 Films",
     "date": {
-      "start": "2024-11-28T23:00:00.000Z",
-      "end": "2024-12-06T23:00:00.000Z",
+      "start": "2024-11-29T05:00:00.000Z",
+      "end": "2024-12-07T05:00:00.000Z",
       "locale": "en",
       "originalString": "November 29 - December 07, 2024"
     },
@@ -2722,8 +2674,8 @@
   {
     "name": "Doc.Berlin",
     "date": {
-      "start": "2024-12-08T23:00:00.000Z",
-      "end": "2024-12-11T23:00:00.000Z",
+      "start": "2024-12-09T05:00:00.000Z",
+      "end": "2024-12-12T05:00:00.000Z",
       "locale": "en",
       "originalString": "December 09 - 12, 2024"
     },
@@ -2745,8 +2697,8 @@
   {
     "name": "Nan Goldin: This Will Not End Well",
     "date": {
-      "start": "2024-11-22T23:00:00.000Z",
-      "end": "2025-04-05T22:00:00.000Z",
+      "start": "2024-11-23T05:00:00.000Z",
+      "end": "2025-04-06T05:00:00.000Z",
       "locale": "en",
       "originalString": "November 23, 2024 - April 6, 2025"
     },
@@ -2756,8 +2708,8 @@
   {
     "name": "Christmas Market on Gendarmenmarkt (Bebelplatz)",
     "date": {
-      "start": "2024-11-24T23:00:00.000Z",
-      "end": "2024-12-30T23:00:00.000Z",
+      "start": "2024-11-25T05:00:00.000Z",
+      "end": "2024-12-31T05:00:00.000Z",
       "locale": "en",
       "originalString": "November 25 - December 31, 2024"
     },
@@ -2767,8 +2719,8 @@
   {
     "name": "Christmas Market in Alt-Rixdorf",
     "date": {
-      "start": "2024-12-05T23:00:00.000Z",
-      "end": "2024-12-07T23:00:00.000Z",
+      "start": "2024-12-06T05:00:00.000Z",
+      "end": "2024-12-08T05:00:00.000Z",
       "locale": "en",
       "originalString": "December 06 to 08, 2024"
     },
@@ -2778,8 +2730,8 @@
   {
     "name": "British Christmas Market",
     "date": {
-      "start": "2024-12-06T23:00:00.000Z",
-      "end": "2024-12-06T23:00:00.000Z",
+      "start": "2024-12-07T05:00:00.000Z",
+      "end": "2024-12-07T05:00:00.000Z",
       "locale": "en",
       "originalString": "December 07, 2024"
     },
@@ -2797,8 +2749,8 @@
   {
     "name": "Terraristikbörse Berlin",
     "date": {
-      "start": "2024-12-21T23:00:00.000Z",
-      "end": "2024-12-21T23:00:00.000Z",
+      "start": "2024-12-22T05:00:00.000Z",
+      "end": "2024-12-22T05:00:00.000Z",
       "locale": "en",
       "originalString": "December 22, 2024"
     },
@@ -2820,6 +2772,12 @@
     "href": "https://www.berlin.de/en/events/winter/"
   },
   {
+    "name": "River Cruises",
+    "date": {},
+    "description": "Boat trips in Berlin on Spree river, on Landwehr canal or over the Wannsee.",
+    "href": "https://www.berlin.de/en/tourism/rivercruises-boattrips/"
+  },
+  {
     "name": "Berlin's Districts",
     "date": {},
     "description": "Information on residential areas, infrastructure, events, local authorities and leisure activities.",
@@ -2836,11 +2794,5 @@
     "date": {},
     "description": "See the best museum, art and photography exhibitions at Berlin's top museums, galleries and event venues.",
     "href": "https://www.berlin.de/en/exhibitions/"
-  },
-  {
-    "name": "Flea Markets",
-    "date": {},
-    "description": "Berlin's most popular flea markets and antique markets with adresses, opening hours, public transport and map.",
-    "href": "https://www.berlin.de/en/shopping/markets/flea-markets/"
   }
 ]
