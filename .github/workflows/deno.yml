@@ -31,9 +31,15 @@ jobs:
       - name: Run the scraper script
         run: deno run start
 
-      - name: Archive events files - en
+      - name: Archive events files
         uses: actions/upload-artifact@v4
         with:
           name: events_files
           path: dist
+      
+      - name: Archive parse error logs
+        uses: actions/upload-artifact@v4
+        with:
+          name: parse_log.txt
+          path: parse_log.txt
         

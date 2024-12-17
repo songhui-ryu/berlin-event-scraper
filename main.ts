@@ -1,44 +1,58 @@
 /**
  * Triggered on the first day of each month to do the followings:
- *    1. Get the current month
- *    2. Scrap the ongoing events from berlin.de page both in english and german
- *    3. Save to json files
+ *    1. Scrap the ongoing events from berlin.de page both in english and german
+ *    2. Save to json files
+ *    3. Triggerred monthly by github actions
  */
-
+import * as log from "@std/log";
+import {} from "./logger.ts"; // dummy import to import the log setup earliest
 import { getEvents } from "./scraper.ts";
-import { getMonthName } from "./dateParser.ts";
+import { MONTHS } from "./dateParser.ts";
 
-const date = new Date();
-const month_en = getMonthName(date.getMonth(), "en");
-const month_de = getMonthName(date.getMonth(), "de");
+const logger = log.getLogger();
 
 try {
-  console.log(
-    `${new Date().toISOString()} Scrapping events from berlin.de/events`,
-  );
-  await Promise.all([
-    getEvents("en", `/en/events/${month_en}/`),
-    getEvents("de", `/events/jahresuebersicht/${month_de}/`),
-  ])
+  logger.info(`Scrapping events from berlin.de/events`);
+
+  /**
+   * expecting [{en, de}, ...]
+   */
+  const promises = MONTHS.map(async (months) => {
+    const enURL = `/en/events/${months[0]}/`;
+    const deURL = `/events/jahresuebersicht/${months[1]}/`;
+
+    return {
+      en: await getEvents("en", enURL),
+      de: await getEvents("de", deURL),
+    };
+  });
+
+  await Promise.all(promises)
     .then((results) => {
+      /**
+       * expecting [{event}, ...]
+       */
+      const enEvents = results.flatMap((monthlyEvents) => monthlyEvents.en);
+      const deEvents = results.flatMap((monthlyEvents) => monthlyEvents.de);
+
       return Promise.all([
         Deno.writeTextFile(
           "dist/events_en.json",
-          JSON.stringify(results[0], null, 2),
+          JSON.stringify(enEvents, null, 2),
         ),
         Deno.writeTextFile(
           "dist/events_de.json",
-          JSON.stringify(results[1], null, 2),
+          JSON.stringify(deEvents, null, 2),
         ),
       ]);
     })
     .then(() => {
-      console.log("Done");
+      logger.info("Done");
     })
     .catch((e) => {
-      console.log("main.Promise: ", e);
+      logger.error("main.Promise: ", e);
       throw e;
     });
 } catch (e) {
-  console.log("main: ", e);
+  logger.error("main: ", e);
 }

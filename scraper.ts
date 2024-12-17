@@ -1,8 +1,11 @@
 /**
  * Scrapper for berlin.de event pages
  */
+import * as log from "@std/log";
 import { DOMParser } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
 import { DateRange, parseEnglishDate, parseGermanDate } from "./dateParser.ts";
+
+const logger = log.getLogger("parser");
 
 const BASE_URL = "https://www.berlin.de";
 
@@ -41,6 +44,16 @@ export async function getEvents(lang: string, path: string) {
             entry.name = event.getElementsByClassName("title")[0]?.textContent
                 .replace(/(\n\s+)|(\s+$)/g, "");
 
+            // skip if the entry is a link to another month
+            const entryName = entry.name.toLowerCase();
+            if (
+                entryName.includes("events in") ||
+                entryName.includes("culture in") ||
+                entryName.includes("weekend tips")
+            ) {
+                continue;
+            }
+
             const dateString = event.getElementsByClassName(
                 "teaser__meta text--meta",
             )[0]?.textContent;
@@ -67,7 +80,20 @@ export async function getEvents(lang: string, path: string) {
 
             // log events parsed incorrectly
             if (!entry.date.start && entry.date.originalString) {
-                console.log(entry);
+                const originalString = entry.date.originalString.toLowerCase();
+                if (
+                    originalString.includes("yet") ||
+                    originalString.includes("noch") ||
+                    originalString.includes("exhibitions") ||
+                    originalString.includes("winterpause")
+                ) {
+                    // skip TBD events
+                } else {
+                    logger.warn({
+                        url: url,
+                        parsed: entry.date,
+                    });
+                }
             }
         }
     }

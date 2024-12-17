@@ -33,6 +33,8 @@ Deno.test("Parse dates in English", async (t) => {
   await t.step("parse exceptions", () => {
     const dates = [
       "November 22, 2024 - January 12, 2025",
+      "January 24 - February 2, 2025",
+      "November 23, 2024 - April 6, 2025",
     ];
 
     const correct = [
@@ -41,6 +43,19 @@ Deno.test("Parse dates in English", async (t) => {
         end: new Date("2025-01-11T23:00:00.000Z"),
         locale: "en",
         originalString: "November 22, 2024 - January 12, 2025",
+      },
+      {
+        start: new Date("2025-01-23T23:00:00.000Z"),
+        end: new Date("2025-02-01T23:00:00.000Z"),
+        locale: "en",
+        originalString: "January 24 - February 2, 2025",
+      },
+      {
+        // daylight savings from Apri to October
+        start: new Date("2024-11-22T23:00:00.000Z"),
+        end: new Date("2025-04-05T22:00:00.000Z"),
+        locale: "en",
+        originalString: "November 23, 2024 - April 6, 2025",
       },
     ];
 
@@ -79,6 +94,8 @@ Deno.test("Parse dates in German", async (t) => {
   await t.step("parse exceptions", () => {
     const dates = [
       "22. November 2024 bis 12. Januar 2025",
+      "17. Januar bis 22. März 2025",
+      "09. bis 25 Januar 2025",
     ];
 
     const correct = [
@@ -87,6 +104,18 @@ Deno.test("Parse dates in German", async (t) => {
         end: new Date("2025-01-11T23:00:00.000Z"),
         locale: "de",
         originalString: "22. November 2024 bis 12. Januar 2025",
+      },
+      {
+        start: new Date("2025-01-16T23:00:00.000Z"),
+        end: new Date("2025-03-21T23:00:00.000Z"),
+        locale: "de",
+        originalString: "17. Januar bis 22. März 2025",
+      },
+      {
+        start: new Date("2025-01-08T23:00:00.000Z"),
+        end: new Date("2025-01-24T23:00:00.000Z"),
+        locale: "de",
+        originalString: "09. bis 25 Januar 2025",
       },
     ];
 

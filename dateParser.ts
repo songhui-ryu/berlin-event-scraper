@@ -9,6 +9,29 @@ export type DateRange = {
     originalString: string;
 };
 
+export const MONTHS = [
+    ["january", "januar"],
+    ["february", "februar"],
+    ["march", "maerz"],
+    ["april", "april"],
+    ["may", "mai"],
+    ["june", "juni"],
+    ["july", "juli"],
+    ["august", "august"],
+    ["september", "september"],
+    ["october", "oktober"],
+    ["november", "november"],
+    ["december", "dezember"],
+];
+
+function padDay(day: string) {
+    if (day.length == 1) {
+        return `0${day}`;
+    } else {
+        return day;
+    }
+}
+
 /**
  * Parse english date string from berlin.de.
  * Note: The format of the date has no dedicated rules. So keep an eye on it!
@@ -29,18 +52,27 @@ export function parseEnglishDate(date: string): DateRange {
         const match = date.match(englishRangeRegex);
         if (match) {
             const startYear = match[3] ? match[3] : match[6];
+            const startDay = padDay(match[2]);
 
             startDate = new Date(
-                `${startYear}-${getMonthIndex(match[1])}-${match[2]}T00:00:00`,
+                `${startYear}-${getMonthIndex(match[1])}-${startDay}T00:00:00`,
             );
 
             const endMonthString = match[4]
                 ? getMonthIndex(match[4])
                 : getMonthIndex(match[1]);
+            const endDay = padDay(match[5]);
 
             endDate = new Date(
-                `${match[6]}-${endMonthString}-${match[5]}T00:00:00`,
+                `${match[6]}-${endMonthString}-${endDay}T00:00:00`,
             );
+
+            if (endDate.toString().includes("Invalid")) {
+                console.log(match);
+                console.log(match[6]);
+                console.log(endMonthString);
+                console.log(startDay);
+            }
 
             return {
                 start: startDate,
@@ -55,12 +87,9 @@ export function parseEnglishDate(date: string): DateRange {
     if (englishSingleDateRegex.test(date)) {
         const match = date.match(englishSingleDateRegex);
         if (match) {
-            if (match[2].length == 1) {
-                match[2] = `0${match[2]}`;
-            }
-
+            const startDay = padDay(match[2]);
             startDate = new Date(
-                `${match[3]}-${getMonthIndex(match[1])}-${match[2]}T00:00:00`,
+                `${match[3]}-${getMonthIndex(match[1])}-${startDay}T00:00:00`,
             );
 
             endDate = new Date(startDate);
@@ -93,9 +122,9 @@ export function parseGermanDate(date: string): DateRange {
     let endDate: Date;
 
     // Regex for German dates
-    const germanSingleDateRegex = /(\d{1,2})\.\s*(\w+)\s*(\d{4})/;
+    const germanSingleDateRegex = /(\d{1,2})\.?\s*([a-zA-Zä]+)\s*(\d{4})/;
     const germanRangeRegex =
-        /(\d{1,2})\.\s*([a-zA-Z]+)?\s*(\d{4})?\s*bis\s*(\d{1,2})\.\s*(\w+)\s*(\d{4})/;
+        /(\d{1,2})\.?\s*([a-zA-Zä]+)?\s*(\d{4})?\s*bis\s*(\d{1,2})\.?\s*([a-zA-Zä]+)\s*(\d{4})/;
 
     // Check for German range
     if (germanRangeRegex.test(date)) {
@@ -105,13 +134,15 @@ export function parseGermanDate(date: string): DateRange {
             const startMonthString = match[2]
                 ? getMonthIndex(match[2])
                 : getMonthIndex(match[5]);
+            const startDay = padDay(match[1]);
 
             startDate = new Date(
-                `${startYear}-${startMonthString}-${match[1]}T00:00:00`,
+                `${startYear}-${startMonthString}-${startDay}T00:00:00`,
             );
 
+            const endDay = padDay(match[4]);
             endDate = new Date(
-                `${match[6]}-${getMonthIndex(match[5])}-${match[4]}T00:00:00`,
+                `${match[6]}-${getMonthIndex(match[5])}-${endDay}T00:00:00`,
             );
 
             return {
@@ -127,11 +158,9 @@ export function parseGermanDate(date: string): DateRange {
     if (germanSingleDateRegex.test(date)) {
         const match = date.match(germanSingleDateRegex);
         if (match) {
-            if (match[1].length == 1) {
-                match[1] = `0${match[1]}`;
-            }
+            const startDay = padDay(match[1]);
             startDate = new Date(
-                `${match[3]}-${getMonthIndex(match[2])}-${match[1]}T00:00:00`,
+                `${match[3]}-${getMonthIndex(match[2])}-${startDay}T00:00:00`,
             );
 
             endDate = new Date(startDate);
@@ -158,7 +187,7 @@ export function parseGermanDate(date: string): DateRange {
  * @returns {string}
  */
 export function getMonthIndex(month: string): string {
-    const months: { [key: string]: string } = {
+    const monthMap: { [key: string]: string } = {
         "January": "01",
         "February": "02",
         "March": "03",
@@ -180,7 +209,7 @@ export function getMonthIndex(month: string): string {
         "Oktober": "10",
         "Dezember": "12",
     };
-    return months[month] || "";
+    return monthMap[month] || "";
 }
 
 /**
@@ -190,21 +219,6 @@ export function getMonthIndex(month: string): string {
  * @returns {string}
  */
 export function getMonthName(monthIndex: number, lang: "en" | "de"): string {
-    const months = [
-        ["january", "januar"],
-        ["february", "februar"],
-        ["march", "maerz"],
-        ["april", "april"],
-        ["may", "mai"],
-        ["june", "juni"],
-        ["july", "juli"],
-        ["august", "august"],
-        ["september", "september"],
-        ["october", "oktober"],
-        ["november", "november"],
-        ["december", "dezember"],
-    ];
-
-    const monthName = months[monthIndex];
+    const monthName = MONTHS[monthIndex];
     return lang == "en" ? monthName[0] : monthName[1];
 }
