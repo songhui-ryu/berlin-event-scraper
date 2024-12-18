@@ -6,14 +6,16 @@ import { DOMParser } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
 import { DateRange, parseEnglishDate, parseGermanDate } from "./dateParser.ts";
 
 const logger = log.getLogger("parser");
+const consoleLogger = log.getLogger();
 
 const BASE_URL = "https://www.berlin.de";
 
 export interface Entry {
-    name?: string;
+    name: string;
     date?: DateRange;
     description?: string;
     href?: string;
+    onMonth?: number;
 }
 
 function sleep(milliseconds: number) {
@@ -22,7 +24,7 @@ function sleep(milliseconds: number) {
     });
 }
 
-export async function getEvents(lang: string, path: string) {
+export async function getEvents(lang: string, path: string, month: number) {
     const url = `${BASE_URL}${path}`;
 
     const entries: Entry[] = [];
@@ -39,7 +41,7 @@ export async function getEvents(lang: string, path: string) {
         const events = document.getElementsByTagName("article");
 
         for (const event of events) {
-            const entry: Entry = {};
+            const entry: Entry = { name: "" };
 
             entry.name = event.getElementsByClassName("title")[0]?.textContent
                 .replace(/(\n\s+)|(\s+$)/g, "");
@@ -76,6 +78,8 @@ export async function getEvents(lang: string, path: string) {
                 ? path
                 : `https://www.berlin.de${path}`;
 
+            entry.onMonth = month;
+
             entries.push(entry);
 
             // log events parsed incorrectly
@@ -99,4 +103,26 @@ export async function getEvents(lang: string, path: string) {
     }
 
     return entries;
+}
+
+export async function hashString(str: string): Promise<string> {
+    const messageBuffer = new TextEncoder().encode(str); // string to utf-8
+    const hashBuffer = await crypto.subtle.digest("SHA-1", messageBuffer);
+    const hashArray = Array.from(new Uint8Array(hashBuffer));
+    return hashArray.map((b) => b.toString(16).padStart(2, "0")).join(""); // to hex
+}
+
+export async function deduplicate(event: Entry, hashes: Set<string>) {
+    // skip if this entry has been seen already. TODO: is name enough
+    const hash = await hashString(event.name);
+
+    if (hashes.has(hash)) {
+        consoleLogger.debug(
+            `${event.name} has been already found. Skipping...`,
+        );
+        return undefined;
+    } else {
+        hashes.add(hash);
+        return event;
+    }
 }

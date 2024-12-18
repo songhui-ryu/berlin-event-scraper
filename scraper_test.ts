@@ -24,7 +24,11 @@ Deno.test("Event endpoint exists", async (t) => {
 });
 
 Deno.test("Fetch events correctly", async (t) => {
-  const entries = await getEvents("en", `/en/events/${month_en}/`);
+  const entries = await getEvents(
+    "en",
+    `/en/events/${month_en}`,
+    date.getMonth(),
+  );
 
   await t.step("Fetch events", () => {
     expect(entries.length).not.toBe(0);
