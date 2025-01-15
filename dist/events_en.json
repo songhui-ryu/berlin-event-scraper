@@ -1,0 +1,2671 @@
+[
+  {
+    "name": "Days of Dance Berlin",
+    "date": {
+      "start": "2025-01-09T05:00:00.000Z",
+      "end": "2025-01-25T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "January 09 - 25, 2025"
+    },
+    "description": "Days of Dance (Tanztage) is a contemporary dance festival focusing on the discovery and support of up-and-coming choreographers and dancers based in Berlin.",
+    "href": "https://www.berlin.de/en/events/2853968-2842498-days-of-dance-berlin.en.html",
+    "onMonth": 0
+  },
+  {
+    "name": "International Green Week Berlin",
+    "date": {
+      "start": "2025-01-17T05:00:00.000Z",
+      "end": "2025-01-26T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "January 17 - 26, 2025"
+    },
+    "description": "The International Green Week in Berlin is considered the world's biggest public fair for the food, agricultural, and horticultural industries.",
+    "href": "https://www.berlin.de/en/events/2101366-2842498-international-green-week-berlin.en.html",
+    "onMonth": 0
+  },
+  {
+    "name": "CTM Festival",
+    "date": {
+      "start": "2025-01-24T05:00:00.000Z",
+      "end": "2025-02-02T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "January 24 - February 2, 2025"
+    },
+    "description": "The CTM Festival for Adventurous Music and Art celebrates experimental, contemporary and electronic music in special places of Berlin's nightlife.",
+    "href": "https://www.berlin.de/en/events/4289254-2842498-ctm-festival.en.html",
+    "onMonth": 0
+  },
+  {
+    "name": "Ultraschall Berlin: Festival for New Music",
+    "date": {
+      "start": "2025-01-15T05:00:00.000Z",
+      "end": "2025-01-19T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "January 15 - 19, 2025"
+    },
+    "description": "The Ultraschall festival for new music will once again take place in various locations in Berlin in 2025.",
+    "href": "https://www.berlin.de/en/events/6416655-2842498-ultraschall-berlin-festival-for-new-musi.en.html",
+    "onMonth": 0
+  },
+  {
+    "name": "Berlin New Year's Run",
+    "date": {
+      "start": "2026-01-01T05:00:00.000Z",
+      "end": "2026-01-01T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "January 01, 2026"
+    },
+    "description": "Just as the old (sports) year ends, the new one begins: with a running event. The New Year's run at the Brandenburg Gate attracts about 3,500 runners annually.",
+    "href": "https://www.berlin.de/en/events/991949-2842498-berlin-new-years-run.en.html",
+    "onMonth": 0
+  },
+  {
+    "name": "SixDay Berlin",
+    "date": {
+      "start": "2025-01-31T05:00:00.000Z",
+      "end": "2025-02-01T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "January 31 - February 01, 2025"
+    },
+    "description": "At the six day race in the Velodrom, professional and amateur racing cyclists compete with each other at breathtaking speed.",
+    "href": "https://www.berlin.de/en/events/2097425-2842498-berlins-sixday-race.en.html",
+    "onMonth": 0
+  },
+  {
+    "name": "Ice Skating Rinks in Berlin",
+    "date": {},
+    "description": "Ice skating is the perfect way to spend a cold winter's day in Berlin. Grab your skates and head to one of the capital's ice rinks.",
+    "href": "https://www.berlin.de/en/sports-leisure/ice-rinks/",
+    "onMonth": 0
+  },
+  {
+    "name": "Sledding Hills in Berlin",
+    "date": {},
+    "description": "As soon as the first snow falls, many families are drawn to the sledding hills in Berlin's parks and forests. Discover the city's best sled runs.",
+    "href": "https://www.berlin.de/en/sports-leisure/sledding-hills/",
+    "onMonth": 0
+  },
+  {
+    "name": "Winter in Berlin",
+    "date": {},
+    "description": "Spend your winter in Berlin: Dates and events in the colder months, addresses for winter sports, indoor activities and more tips.",
+    "href": "https://www.berlin.de/en/events/winter/",
+    "onMonth": 0
+  },
+  {
+    "name": "Finlandia – Aki Kaurismäki and Friends",
+    "date": {
+      "start": "2025-01-09T05:00:00.000Z",
+      "end": "2025-01-20T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "January 09 - 20, 2025"
+    },
+    "description": "The Kino Babylon celebrates Finnish cinema with classics, documentaries and new film highlights - plus live music and a sauna special.",
+    "href": "https://www.berlin.de/en/events/film-festivals/9395977-7812887-finlandia.en.html",
+    "onMonth": 0
+  },
+  {
+    "name": "Silent Film Festival",
+    "date": {
+      "start": "2025-01-17T05:00:00.000Z",
+      "end": "2025-03-22T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "January 17 - March 22, 2025"
+    },
+    "description": "At the annual silent film festival, classics of silent cinema come to the big screen in Berlin accompanied by a live orchestra.",
+    "href": "https://www.berlin.de/en/events/film-festivals/7374398-7812887-silent-film-festival.en.html",
+    "onMonth": 0
+  },
+  {
+    "name": "British Shorts",
+    "date": {
+      "start": "2025-01-23T05:00:00.000Z",
+      "end": "2025-01-29T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "January 23 - 29, 2025"
+    },
+    "description": "The British Shorts film festival celebrates the funniest, strangest and most exciting short films from Great Britain and Ireland.",
+    "href": "https://www.berlin.de/en/events/film-festivals/2023462-7812887-british-shorts.en.html",
+    "onMonth": 0
+  },
+  {
+    "name": "Berlin Short Film Festival",
+    "date": {
+      "start": "2025-01-30T05:00:00.000Z",
+      "end": "2025-02-01T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "January 30 - February 01, 2025"
+    },
+    "description": "Any genre and any format allowed: The Berlin Short Film Festival aims to connect filmmakers from all over Europe.",
+    "href": "https://www.berlin.de/en/events/film-festivals/8701221-7812887-berlin-short-film-festival.en.html",
+    "onMonth": 0
+  },
+  {
+    "name": "Sci-Fi Marathon at Babylon Cinema",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "Science fiction galore on the big screen: Berlin's Babylon cinema invites all sci-fi enthusiasts to its movie marathon night.",
+    "href": "https://www.berlin.de/en/events/film-festivals/7239508-7812887-scifi-marathon-at-babylon.en.html",
+    "onMonth": 0
+  },
+  {
+    "name": "JuBi Berlin",
+    "date": {
+      "start": "2025-03-15T05:00:00.000Z",
+      "end": "2025-03-15T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "March 15, 2025"
+    },
+    "description": "The youth education fair JuBi provides information about student exchanges, language trips, au pairs and internships abroad.",
+    "href": "https://www.berlin.de/en/trade-fairs/sector/job-career/3485400-7988645-jubi-berlin.en.html",
+    "onMonth": 0
+  },
+  {
+    "name": "European Camera Trade Show Berlin",
+    "date": {
+      "start": "2025-01-18T05:00:00.000Z",
+      "end": "2025-01-18T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "January 18, 2025"
+    },
+    "description": "At this international camera trade show, dealers and collectors offer cameras and other photography products for sale or exchange.",
+    "href": "https://www.berlin.de/en/trade-fairs/sector/technology/3246105-7968909-europaeische-kameraboerse-berlin.en.html",
+    "onMonth": 0
+  },
+  {
+    "name": "Hippologica Berlin",
+    "date": {
+      "start": "2025-01-24T05:00:00.000Z",
+      "end": "2025-01-26T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "January 24-26, 2025"
+    },
+    "description": "Hippologica Berlin is the largest equestrian event in Berlin with a sales fair, horse shows and educational programs.",
+    "href": "https://www.berlin.de/en/trade-fairs/1618561-7918797-hippologica-berlin.en.html",
+    "onMonth": 0
+  },
+  {
+    "name": "Fotogaga: Max Ernst and Photography",
+    "date": {
+      "originalString": "\n            \n                \n                    Exhibitions\n                \n                Fotoausstellungen            \n        "
+    },
+    "description": "Max Ernst repeatedly broke with artistic conventions and experimented with new techniques. However, he was not a photographer. This special exhibition is the first to look for points of contact between his work and photography.moreabout: Fotogaga: Max Ernst and Photography",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/fotogaga-max-ernst-and-photography-dc599082-0935-42a1-bf24-4b8c06b2f90a/",
+    "onMonth": 0
+  },
+  {
+    "name": "Mark Bradford: Keep Walking",
+    "date": {
+      "originalString": "\n            \n                \n                    Exhibitions\n                \n                            \n        "
+    },
+    "description": "Spanning painting, sculpture, installation, and video, the exhibition delves into societal issues such as violence and urban life.moreabout: Mark Bradford: Keep Walking",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/mark-bradford-keep-walking-f0d9cc5e-1224-4ecd-8d15-d2daa3ffa602/",
+    "onMonth": 0
+  },
+  {
+    "name": "Nan Goldin: This Will Not End Well",
+    "date": {
+      "start": "2024-11-23T05:00:00.000Z",
+      "end": "2025-04-06T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "November 23, 2024 - April 6, 2025"
+    },
+    "description": "Stories about love, intimacy, addiction and loss: the exhibition \"This Will Not End Well\" at the Neue Nationalgalerie presents a retrospective of the extraordinary photographer and filmmaker Nan Goldin.",
+    "href": "https://www.berlin.de/en/exhibitions/8559936-5202331-nan-goldin-this-will-not-end-well.en.html",
+    "onMonth": 0
+  },
+  {
+    "name": "Exhibitions in Berlin",
+    "date": {},
+    "description": "See the best museum, art and photography exhibitions at Berlin's top museums, galleries and event venues.",
+    "href": "https://www.berlin.de/en/exhibitions/",
+    "onMonth": 0
+  },
+  {
+    "name": "Flea Markets",
+    "date": {},
+    "description": "Berlin's most popular flea markets and antique markets with adresses, opening hours, public transport and map.",
+    "href": "https://www.berlin.de/en/shopping/markets/flea-markets/",
+    "onMonth": 0
+  },
+  {
+    "name": "River Cruises",
+    "date": {},
+    "description": "Boat trips in Berlin on Spree river, on Landwehr canal or over the Wannsee.",
+    "href": "https://www.berlin.de/en/tourism/rivercruises-boattrips/",
+    "onMonth": 0
+  },
+  {
+    "name": "Berlinale - Berlin International Film Festival",
+    "date": {
+      "start": "2025-02-13T05:00:00.000Z",
+      "end": "2025-02-23T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "February 13 - 23, 2025"
+    },
+    "description": "The Berlin International Film Festival, Berlinale for short, is one of the most important film festivals worldwide. Every year, it attracts the elite of the film industry as well as the largest audience of any film festival in the world.",
+    "href": "https://www.berlin.de/en/events/film-festivals/2021144-7812887-berlinale-international-film-festival.en.html",
+    "onMonth": 1
+  },
+  {
+    "name": "One Billion Rising",
+    "date": {
+      "start": "2025-02-14T05:00:00.000Z",
+      "end": "2025-02-14T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "February 14, 2025"
+    },
+    "description": "The movement \"One Billion Rising\" aims to bring women and men together in public places to dance against violence against women and for respect for all.",
+    "href": "https://www.berlin.de/en/events/3351612-2842498-one-billion-rising.en.html",
+    "onMonth": 1
+  },
+  {
+    "name": "Berlin Valentine's Run",
+    "date": {
+      "start": "2025-02-16T05:00:00.000Z",
+      "end": "2025-02-16T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "February 16, 2025"
+    },
+    "description": "The Valentine's Run in the Gardens of the World is a relatively new addition to Berlin's running calendar. In 2025, the couples' run will take place for the fifth time.",
+    "href": "https://www.berlin.de/en/sports-leisure/running/7001777-7813334-berlin-valentines-run.en.html",
+    "onMonth": 1
+  },
+  {
+    "name": "Transmediale",
+    "date": {
+      "start": "2025-01-29T05:00:00.000Z",
+      "end": "2025-02-02T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "January 29 - February 02, 2025"
+    },
+    "description": "Transmediale is a festival and year-round project in Berlin that highlights new connections between art, culture and technology.",
+    "href": "https://www.berlin.de/en/events/2322875-2842498-transmediale.en.html",
+    "onMonth": 1
+  },
+  {
+    "name": "Schall & Rausch",
+    "date": {
+      "start": "2025-02-07T05:00:00.000Z",
+      "end": "2025-02-16T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "February 07 - 16, 2025"
+    },
+    "description": "The Neukölln Schall & Rausch Festival aims to shake up Berlin's musical theater scene.",
+    "href": "https://www.berlin.de/en/events/7986827-2842498-schall-rausch.en.html",
+    "onMonth": 1
+  },
+  {
+    "name": "Tanzolymp - International Dance Festival",
+    "date": {
+      "start": "2025-02-20T05:00:00.000Z",
+      "end": "2025-02-25T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "February 20 - 25, 2025"
+    },
+    "description": "Tanzolymp is an annual Berlin-based dance event for young talents from around the world with workshops, seminars and competitions.",
+    "href": "https://www.berlin.de/en/events/2268249-2842498-tanzolymp-international-dance-festival.en.html",
+    "onMonth": 1
+  },
+  {
+    "name": "Berlin Fashion Week 2025",
+    "date": {
+      "start": "2025-01-31T05:00:00.000Z",
+      "end": "2025-02-03T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "January 31 to February 03, 2025"
+    },
+    "description": "Twice a year, the international fashion scene gathers in Berlin for Berlin Fashion Week.",
+    "href": "https://www.berlin.de/en/events/8279442-2842498-berlin-fashion-week-2024.en.html",
+    "onMonth": 1
+  },
+  {
+    "name": "Berlin Independent Film Festival",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The Berlin Independent Film Festival champions low-budget filmmaking in Europe by giving new directors the opportunity to screen their work and swap ideas.",
+    "href": "https://www.berlin.de/en/events/film-festivals/3319931-7812887-berlin-independent-film-festival.en.html",
+    "onMonth": 1
+  },
+  {
+    "name": "Fruit Logistica",
+    "date": {
+      "start": "2025-02-05T05:00:00.000Z",
+      "end": "2025-02-07T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "February 5-7, 2025"
+    },
+    "description": "Fruit Logistica is an international trade fair for fruit and vegetable marketing.",
+    "href": "https://www.berlin.de/en/trade-fairs/1612595-7918797-fruitlogistica.en.html",
+    "onMonth": 1
+  },
+  {
+    "name": "Christopher Bauder: Vektor",
+    "date": {},
+    "description": "For his largest indoor installation to date, light artist Christopher Bauder heads to one of his favourite places: At Kraftwerk Berlin, 50 lasers and other light elements merge with a three-dimensional soundscape.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/christopher-bauder-vektor-e09fb0cc-b0b0-4a68-8d49-960470678620/",
+    "onMonth": 1
+  },
+  {
+    "name": "Valie Export: Retrospective",
+    "date": {
+      "start": "2024-01-27T05:00:00.000Z",
+      "end": "2024-05-22T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "January 27 - May 22, 2024"
+    },
+    "description": "C/O Berlin is kicking off 2024 with a retrospective of the Austrian icon of feminist performance art Valie Export.",
+    "href": "https://www.berlin.de/en/exhibitions/8588305-5202331-valie-export.en.html",
+    "onMonth": 1
+  },
+  {
+    "name": "Travel Weather: Berlin in February",
+    "date": {},
+    "description": "Best museum weather: The average weather in Berlin in February is a rather grey matter.",
+    "href": "https://www.berlin.de/en/weather/travel-weather/5950600-6124819-weather-in-berlin-in-february.en.html",
+    "onMonth": 1
+  },
+  {
+    "name": "MaerzMusik",
+    "date": {
+      "start": "2025-03-21T05:00:00.000Z",
+      "end": "2025-03-30T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "March 21 - 30, 2025"
+    },
+    "description": "MaerzMusik is a music festival that combines the diverse currents within contemporary music into a panorama rich in contrasts with renowned artists from all over the world.",
+    "href": "https://www.berlin.de/en/events/2093872-2842498-maerzmusik.en.html",
+    "onMonth": 2
+  },
+  {
+    "name": "European Month of Photography",
+    "date": {
+      "start": "2025-03-01T05:00:00.000Z",
+      "end": "2025-03-31T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "March 01 - 31, 2025"
+    },
+    "description": "Every other year, more than 100 museums and galleries in Berlin present photographic art at the largest photo festival in Germany, the European Month of Photography.",
+    "href": "https://www.berlin.de/en/events/2745416-2842498-european-month-of-photography.en.html",
+    "onMonth": 2
+  },
+  {
+    "name": "Opera Festival at the Berlin State Opera",
+    "date": {
+      "start": "2025-04-11T05:00:00.000Z",
+      "end": "2025-04-21T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "April 11 - 21, 2025"
+    },
+    "description": "The Festival Days at the Berlin State Opera present great music each year around the Easter holidays.",
+    "href": "https://www.berlin.de/en/events/2199237-2842498-opera-festival-days-festtage.en.html",
+    "onMonth": 2
+  },
+  {
+    "name": "Charlottenwalk - Gallery Tour in Charlottenburg",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "This March, the Charlottenwalk invites you to discover art galleries in the district of Charlottenburg-Wilmersdorf.",
+    "href": "https://www.berlin.de/en/events/5803848-2842498-charlottenwalk-gallery-tour.en.html",
+    "onMonth": 2
+  },
+  {
+    "name": "Berlin Chocolate Festival",
+    "date": {
+      "start": "2025-03-15T05:00:00.000Z",
+      "end": "2025-03-16T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "March 15 and 16, 2025"
+    },
+    "description": "This two-day food festival immerses visitors of all ages in the world of chocolate and cocoa.",
+    "href": "https://www.berlin.de/en/events/food-events/8701164-7974318-berlin-chocolate-festival.en.html",
+    "onMonth": 2
+  },
+  {
+    "name": "Run Around the Müggelturm",
+    "date": {
+      "start": "2025-03-23T05:00:00.000Z",
+      "end": "2025-03-23T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "March 23, 2025"
+    },
+    "description": "The run around the Müggelturm ushers in the firsts signs of spring in Berlin and attracts many runners with its beautiful route in the midst of nature.",
+    "href": "https://www.berlin.de/en/sports-leisure/running/7186537-7813334-rund-um-den-mueggelturm.en.html",
+    "onMonth": 2
+  },
+  {
+    "name": "Spring Festival at Kurt-Schumacher-Damm",
+    "date": {
+      "start": "2025-03-29T05:00:00.000Z",
+      "end": "2025-05-04T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "March 29 - May 04, 2025"
+    },
+    "description": "Amusements rides, lots of entertainment for children and culinary delights are welcoming visitors at the funfair near Tegel Airport.",
+    "href": "https://www.berlin.de/en/events/2858745-2842498-spring-festival-at-kurtschumacherdamm.en.html",
+    "onMonth": 2
+  },
+  {
+    "name": "Tree Blossom Festival: Britzer Baumblüte",
+    "date": {
+      "start": "2025-04-04T05:00:00.000Z",
+      "end": "2025-04-27T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "April 04 - 27, 2025"
+    },
+    "description": "The traditional tree blossom festival in Britz celebrates the beginning of spring under blossoming trees.",
+    "href": "https://www.berlin.de/en/events/2991117-2842498-britzer-baumbluete.en.html",
+    "onMonth": 2
+  },
+  {
+    "name": "Greek Film Festival",
+    "date": {
+      "start": "2025-03-26T05:00:00.000Z",
+      "end": "2025-03-30T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "March 26-30, 2025"
+    },
+    "description": "The Greek Film Festival wants to bring often still unknown Greek filmmakers into the focus of the German audience.",
+    "href": "https://www.berlin.de/en/events/film-festivals/4222694-7812887-greek-film-festival.en.html",
+    "onMonth": 2
+  },
+  {
+    "name": "Balloon Museum Berlin: Pop Air, Art is inflatable",
+    "date": {},
+    "description": "A journey through oversized, emotional and impressive immersive installations with unexpected forms in which interaction with the visitors takes center stage.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/balloon-museum-berlin-pop-air-art-is-inflatable-37b731bf-8f03-4ac6-89a5-ccdfeaf3ffa6/",
+    "onMonth": 2
+  },
+  {
+    "name": "Wives and Goddesses: Female Figures in Classical Mythology",
+    "date": {},
+    "description": "Classical mythology is a topic that continues to fascinate artists and audiences to this day: more recently, numerous books have been published in which women are given their own voices as mythical protagonists.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/wives-and-goddesses-female-figures-in-classical-mythology-40475477-b5f6-49ff-912f-ea70803ac86a/",
+    "onMonth": 2
+  },
+  {
+    "name": "ITB Berlin - International Travel Trade Show",
+    "date": {
+      "start": "2025-03-04T05:00:00.000Z",
+      "end": "2025-03-06T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "March 04-06, 2025"
+    },
+    "description": "The ITB is the world's leading travel trade show and provides a unique opportunity to learn about different countries and regions all over the globe in one place.",
+    "href": "https://www.berlin.de/en/trade-fairs/2101408-7918797-itb-berlin-international-travel-trade-sh.en.html",
+    "onMonth": 2
+  },
+  {
+    "name": "Transform",
+    "date": {
+      "start": "2025-03-19T05:00:00.000Z",
+      "end": "2025-03-20T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "March 19 and 20, 2025"
+    },
+    "description": "For two days, the Transform will be all about how digital visions can be turned into reality.",
+    "href": "https://www.berlin.de/en/trade-fairs/sector/technology/7427046-7968909-hubberlin.en.html",
+    "onMonth": 2
+  },
+  {
+    "name": "Kolektif Berlin",
+    "date": {
+      "start": "2025-03-14T05:00:00.000Z",
+      "end": "2025-03-16T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "March 14-16, 2025"
+    },
+    "description": "At the Kolektif Berlin bike show at Motorwerk Berlin, everything revolves around two-wheelers, cycling and the lifestyle around the sport.",
+    "href": "https://www.berlin.de/en/trade-fairs/sector/health-sports/5647199-7968912-kolektif-berlin.en.html",
+    "onMonth": 2
+  },
+  {
+    "name": "Spring in Berlin",
+    "date": {},
+    "description": "Flea markets, spring festivals, beer gardens, open-air events and more: the best tips for beautiful spring days in Berlin.",
+    "href": "https://www.berlin.de/en/events/spring/",
+    "onMonth": 2
+  },
+  {
+    "name": "European Arts and Crafts Days",
+    "date": {
+      "start": "2025-04-04T05:00:00.000Z",
+      "end": "2025-04-06T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "April 04 to 06, 2025"
+    },
+    "description": "Artisans and designers present their work and open their studios for workshops, fashion shows and lectures.",
+    "href": "https://www.berlin.de/en/events/4302996-2842498-european-arts-crafts-days.en.html",
+    "onMonth": 3
+  },
+  {
+    "name": "Record Store Day",
+    "date": {
+      "start": "2025-04-19T05:00:00.000Z",
+      "end": "2025-04-19T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "April 19, 2025"
+    },
+    "description": "Record stores all over the world organize exclusive events and sell records that are only available on this day. Numerous record stores in Berlin also host Record Store Day.",
+    "href": "https://www.berlin.de/en/events/3410627-2842498-record-store-day.en.html",
+    "onMonth": 3
+  },
+  {
+    "name": "Staudenmarkt: Berlin Perennial Market",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "At the Berlin perennial plant market in spring, visitors can stock up on plants.",
+    "href": "https://www.berlin.de/en/events/4336892-2842498-staudenmarkt-berlin-perennial-market.en.html",
+    "onMonth": 3
+  },
+  {
+    "name": "Cherry Blossom Festival in the Gardens of the World",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "Celebrate \"Hanami\" in Berlin: the Gardens of the World in Marzahn welcome the long-awaited spring with countless pale pink cherry blossoms and an exciting cultural program.",
+    "href": "https://www.berlin.de/en/events/4375689-2842498-kirschbluetenfest-in-den-gaerten-der-wel.en.html",
+    "onMonth": 3
+  },
+  {
+    "name": "Spring Festival at the Schöneweide Railroad Depot",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "At the spring festival at the Schöneweide railroad depot, children and adults can check out locomotives from the inside and take a ride on an old steam train.",
+    "href": "https://www.berlin.de/en/events/3460147-2842498-summer-festival-schoeneweide-depot.en.html",
+    "onMonth": 3
+  },
+  {
+    "name": "Berlin Half Marathon",
+    "date": {
+      "start": "2025-04-06T05:00:00.000Z",
+      "end": "2025-04-06T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "April 06, 2025"
+    },
+    "description": "The Berlin Half Marathon is the season opener for runners, walkers, inline skaters, wheelchair users and hand cyclists.",
+    "href": "https://www.berlin.de/en/events/1038850-2842498-berlin-half-marathon.en.html",
+    "onMonth": 3
+  },
+  {
+    "name": "Wartenberg Easter Run",
+    "date": {
+      "start": "2025-04-20T05:00:00.000Z",
+      "end": "2025-04-20T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "April 20, 2025"
+    },
+    "description": "The traditional Easter run of Wartenberger SV offers four distances: A half marathon, a scenic 12.3 kilometer landscape run, a 4.1 kilometer run and a children's run.",
+    "href": "https://www.berlin.de/en/sports-leisure/running/8017103-7813334-wartenberger-osterlauf.en.html",
+    "onMonth": 3
+  },
+  {
+    "name": "Run through Volkspark Friedrichshain",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "Runners can choose between three routes of different lengths, which lead over the hilly terrain of the park.",
+    "href": "https://www.berlin.de/en/sports-leisure/running/8757715-7813334-run-through-volkspark-friedrichshain.en.html",
+    "onMonth": 3
+  },
+  {
+    "name": "Achtung Berlin",
+    "date": {
+      "start": "2025-04-02T05:00:00.000Z",
+      "end": "2025-04-09T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "April 02-09, 2025"
+    },
+    "description": "This film festival for new German cinema presents current works by Berlin and Brandenburg filmmakers for one week in several Berlin cinemas.",
+    "href": "https://www.berlin.de/en/events/film-festivals/2122932-7812887-achtung-berlin-new-berlin-film-award.en.html",
+    "onMonth": 3
+  },
+  {
+    "name": "Alfilm - Arabic Film Festival",
+    "date": {
+      "start": "2025-04-23T05:00:00.000Z",
+      "end": "2025-04-29T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "April 23 - 29, 2025"
+    },
+    "description": "The festival \"Alfilm\" presents the best and newest films from the Arab world.",
+    "href": "https://www.berlin.de/en/events/film-festivals/2133808-7812887-alfilm-arabic-film-festival.en.html",
+    "onMonth": 3
+  },
+  {
+    "name": "Caspar David Friedrich: Infinite Landscapes",
+    "date": {
+      "start": "2024-04-19T05:00:00.000Z",
+      "end": "2024-08-04T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "April 19 - August 04, 2024"
+    },
+    "description": "On the occasion of the 250th anniversary of Caspar David Friedrich's birth, the Alte Nationalgalerie is showing the exhibition \"Infinite Landscapes\" with 60 paintings and 50 drawings from Germany and abroad, including world-famous works.",
+    "href": "https://www.berlin.de/en/culture-entertainment/archive/8404308-5437163-caspar-david-friedrich-infinite-landscap.en.html",
+    "onMonth": 3
+  },
+  {
+    "name": "Cherry Blossoms in Berlin",
+    "date": {},
+    "description": "Every spring a sea of pink cherry blossoms blooms in Berlin for a few days. Discover the places where you can admire the cherry blossoms and feel as if you were in Japan.",
+    "href": "https://www.berlin.de/en/tourism/insider-tips/5263242-5766508-cherry-blossoms-in-berlin.en.html",
+    "onMonth": 3
+  },
+  {
+    "name": "Berlin for Adventurers",
+    "date": {},
+    "description": "Search and find adventures in Berlin: Unusual places, new perspectives and unforgettable experiences in the capital.",
+    "href": "https://www.berlin.de/en/tourism/insider-tips/berlin-for-adventurers/",
+    "onMonth": 3
+  },
+  {
+    "name": "DMEA",
+    "date": {
+      "start": "2025-04-08T05:00:00.000Z",
+      "end": "2025-04-10T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "April 8-10, 2025"
+    },
+    "description": "DMEA - formerly conhIT - is a trade fair, academy and congress for digital healthcare.",
+    "href": "https://www.berlin.de/en/trade-fairs/sector/technology/3248102-7968909-dmea.en.html",
+    "onMonth": 3
+  },
+  {
+    "name": "Paper Positions",
+    "date": {
+      "start": "2025-05-01T05:00:00.000Z",
+      "end": "2025-05-04T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "May 1-4, 2025"
+    },
+    "description": "Selected international galleries present their most important positions from contemporary and modern art at Paper positions, with a focus on the material paper.",
+    "href": "https://www.berlin.de/en/trade-fairs/5215340-7918797-paper-positions.en.html",
+    "onMonth": 3
+  },
+  {
+    "name": "International Cannabis Business Conference",
+    "date": {
+      "start": "2025-04-29T05:00:00.000Z",
+      "end": "2025-04-30T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "April 29-30, 2025"
+    },
+    "description": "At the International Cannabis Business Conference, experts from the fields of medicine, business, politics and law will meet to exchange views on the latest developments regarding medical cannabis in Germany.",
+    "href": "https://www.berlin.de/en/trade-fairs/6853438-7918797-international-cannabis-business-conferen.en.html",
+    "onMonth": 3
+  },
+  {
+    "name": "Taste of Africa",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The \"Taste of Africa\" food festival attracts visitors to Sage Beach with the culinary diversity of Africa and accompanying Afrobeats.",
+    "href": "https://www.berlin.de/en/events/food-events/8113883-7974318-taste-of-africa.en.html",
+    "onMonth": 3
+  },
+  {
+    "name": "Beachfood Festival",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The Beachfood Festival at the Wendenschloss lido brings beach vibes and international delicacies to Berlin-Köpenick.",
+    "href": "https://www.berlin.de/en/events/food-events/8376378-7974318-beachfood-festival.en.html",
+    "onMonth": 3
+  },
+  {
+    "name": "Prosit Drinks Market",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The Prosit drinks market showcases a wide variety of artisan drinks. This year, all drinks are completely alcohol-free.",
+    "href": "https://www.berlin.de/en/events/food-events/8741867-7974318-prosit-drinks-market.en.html",
+    "onMonth": 3
+  },
+  {
+    "name": "Gallery Weekend Berlin",
+    "date": {
+      "start": "2025-05-02T05:00:00.000Z",
+      "end": "2025-05-04T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "May 2 - 4, 2025"
+    },
+    "description": "The Gallery Weekend Berlin is one of the leading events for contemporary art in Germany and invites visitors to take a tour of Berlin's creative scene.",
+    "href": "https://www.berlin.de/en/events/2895892-2842498-gallery-weekend-berlin.en.html",
+    "onMonth": 4
+  },
+  {
+    "name": "International Museum Day",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "On the occasion of this worldwide event, which aims to highlight the contributions of museums to society, many Berlin museums open their doors for special tours and activities.",
+    "href": "https://www.berlin.de/en/events/3225758-2842498-international-museum-day.en.html",
+    "onMonth": 4
+  },
+  {
+    "name": "Berliner Theatertreffen",
+    "date": {
+      "start": "2025-05-02T05:00:00.000Z",
+      "end": "2025-05-18T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "May 02 - 18, 2025"
+    },
+    "description": "The Berliner Theatertreffen (\"Berlin Theatre Encounter\") is the most important theatre festival in Germany, reuniting actors, theatre professionals, journalists and guests from all over the world in Berlin.",
+    "href": "https://www.berlin.de/en/events/2113465-2842498-berliner-theatertreffen.en.html",
+    "onMonth": 4
+  },
+  {
+    "name": "Berlin Design Week",
+    "date": {
+      "start": "2025-05-10T05:00:00.000Z",
+      "end": "2025-05-18T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "May 10 - 18, 2025"
+    },
+    "description": "Design as a driving force for social and ecological change: Every spring, designers, artists, companies and universities present new ways of thinking and fresh ideas at the Berlin Design Week.",
+    "href": "https://www.berlin.de/en/events/6620287-2842498-berlin-design-week.en.html",
+    "onMonth": 4
+  },
+  {
+    "name": "Re:publica",
+    "date": {
+      "start": "2025-05-26T05:00:00.000Z",
+      "end": "2025-05-28T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "May 26-28, 2025"
+    },
+    "description": "Re:publica is one of the world's largest conferences on digital culture. Media professionals, entrepreneurs and academics from around the globe share their knowledge and discuss the future of the information society.",
+    "href": "https://www.berlin.de/en/events/1663128-2842498-republica.en.html",
+    "onMonth": 4
+  },
+  {
+    "name": "DFB Cup Final in Berlin",
+    "date": {
+      "start": "2025-05-24T05:00:00.000Z",
+      "end": "2025-05-24T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "May 24, 2025"
+    },
+    "description": "The DFB Cup final is the soccer highlight of the year at Berlin's Olympic Stadium. All important information on the DFB Cup Final 2025.",
+    "href": "https://www.berlin.de/en/events/36778-2842498-dfb-cup-final.en.html",
+    "onMonth": 4
+  },
+  {
+    "name": "Myfest",
+    "date": {
+      "originalString": "Date not yet confirmed"
+    },
+    "description": "The \"Myfest\" has a long tradition in Berlin-Kreuzberg. It is not yet known whether the festival will take place in 2025.",
+    "href": "https://www.berlin.de/en/events/may-day/2971249-7451616-myfest-berlin.en.html",
+    "onMonth": 4
+  },
+  {
+    "name": "XJazz Festival Berlin",
+    "date": {
+      "start": "2025-05-12T05:00:00.000Z",
+      "end": "2025-05-18T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "May 12 - 18, 2025"
+    },
+    "description": "With 80 acts, XJazz is Berlin's largest jazz festival and aims to cross stylistic boundaries with innovative artists.",
+    "href": "https://www.berlin.de/en/events/3408143-2842498-xjazz-festival.en.html",
+    "onMonth": 4
+  },
+  {
+    "name": "Open Day at the Philharmonie",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "On Sunday, the Berliner Philharmoniker Foundation invites the curious and music lovers to a varied programme in the Philharmonie.",
+    "href": "https://www.berlin.de/en/events/5407980-2842498-open-day-berliner-philharmonie.en.html",
+    "onMonth": 4
+  },
+  {
+    "name": "Classic Days Berlin",
+    "date": {
+      "start": "2025-05-10T05:00:00.000Z",
+      "end": "2025-05-11T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "May 10 and 11, 2025"
+    },
+    "description": "With the presentation of around 2000 historic vehicles, the Classic Days Berlin offer the opportunity to see some of the classics of automotive history.",
+    "href": "https://www.berlin.de/en/events/2902692-2842498-classic-days-berlin.en.html",
+    "onMonth": 4
+  },
+  {
+    "name": "Pictoplasma Berlin",
+    "date": {
+      "start": "2025-05-07T05:00:00.000Z",
+      "end": "2025-05-11T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "May 07 - 11, 2025"
+    },
+    "description": "Pictoplasma Berlin is an international festival for contemporary character design - from art and illustration to graphic design. It includes a conference, exhibitions and screening programmes.",
+    "href": "https://www.berlin.de/en/events/3011785-2842498-pictoplasma-berlin.en.html",
+    "onMonth": 4
+  },
+  {
+    "name": "Steglitzer Woche",
+    "date": {
+      "start": "2025-05-23T05:00:00.000Z",
+      "end": "2025-06-09T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "May 23 - June 09, 2025"
+    },
+    "description": "Every year in spring, the folk festival Steglitzer Woche invites visitors to enjoy themselves in the green Bäkepark.",
+    "href": "https://www.berlin.de/en/events/3484528-2842498-steglitzer-woche.en.html",
+    "onMonth": 4
+  },
+  {
+    "name": "Staaken Folk and Children's Festival",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "This colorful folk festival for children and adults takes place every year in May in the garden city of Staaken.",
+    "href": "https://www.berlin.de/en/events/3045594-2842498-staaken-folk-festival.en.html",
+    "onMonth": 4
+  },
+  {
+    "name": "Spring and Asparagus Festival Primavera",
+    "date": {
+      "start": "2025-05-10T05:00:00.000Z",
+      "end": "2025-05-11T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "May 10 and 11, 2025"
+    },
+    "description": "In mid-May, the spring festival \"Primavera\" takes place in Berlin's Schöneberg district. Asparagus dishes and other delicacies as well as a colorful stage program await the visitors.",
+    "href": "https://www.berlin.de/en/events/folk-festivals-fairs/4390033-7519779-spring-asparagus-festival-primavera.en.html",
+    "onMonth": 4
+  },
+  {
+    "name": "Rudow Spring Mile",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "Visitors to the Spring Mile in Rudow can look forward to a diverse entertainment program on two stages.",
+    "href": "https://www.berlin.de/en/events/4829161-2842498-rudow-spring-mile.en.html",
+    "onMonth": 4
+  },
+  {
+    "name": "Festival for Democracy and Tolerance",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The Treptow-Köpenick Alliance for Democracy and Tolerance invites Berliners and visitors to its 20th annual folk festival in 2025.",
+    "href": "https://www.berlin.de/en/events/8011055-2842498-festival-for-democracy-and-tolerance.en.html",
+    "onMonth": 4
+  },
+  {
+    "name": "Spring Festival at Domäne Dahlem",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The traditional opening of the market season on the historical Domäne Dahlem estate celebrates the arrival of spring in Berlin.",
+    "href": "https://www.berlin.de/en/events/3311772-2842498-spring-festival-domaene-dahlem.en.html",
+    "onMonth": 4
+  },
+  {
+    "name": "Women's Run Berlin",
+    "date": {
+      "start": "2025-05-17T05:00:00.000Z",
+      "end": "2025-05-17T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "May 17, 2025"
+    },
+    "description": "The Women's Run is an annual highlight of the Berlin running calendar.",
+    "href": "https://www.berlin.de/en/sports-leisure/running/2101687-7813334-avon-womens-run-berlin.en.html",
+    "onMonth": 4
+  },
+  {
+    "name": "S 25 Berlin",
+    "date": {
+      "start": "2025-05-11T05:00:00.000Z",
+      "end": "2025-05-11T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "May 11, 2025"
+    },
+    "description": "Once to the Olympic Stadium and back: more than 10,000 runners take part in Germany's oldest city run every year.",
+    "href": "https://www.berlin.de/en/sports-leisure/running/4365128-7813334-s-25-berlin.en.html",
+    "onMonth": 4
+  },
+  {
+    "name": "Run of Spirit",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The Run of Spirit is a joint sports event for people with and without disabilities.",
+    "href": "https://www.berlin.de/en/sports-leisure/running/3473966-7813334-run-of-spirit.en.html",
+    "onMonth": 4
+  },
+  {
+    "name": "Joseph Beuys: Collection Presentation",
+    "date": {},
+    "description": "The Hamburger Bahnhof in Berlin presents the extensive collection of works by the artist Joseph Beuys in the Kleihueshalle.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/joseph-beuys-collection-presentation-b09fc820-4580-4f63-b604-33c09162fb7d/",
+    "onMonth": 4
+  },
+  {
+    "name": "Extreme Tension: Art between Politics and Society 1945 – 2000",
+    "date": {},
+    "description": "Hardly any other era was so marked by division, rupture and transformation as the period after the Second World War. In light of this, the Neue Nationalgalerie has consciously chosen the title Extreme Tension for the upcoming presentation of its postwar...",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/extreme-tension-art-between-politics-and-society-1945-2000-3fdbf589-142a-4d6e-8ddb-ff800b8f4b4f/",
+    "onMonth": 4
+  },
+  {
+    "name": "Ancient Egypt",
+    "date": {},
+    "description": "The Egyptian Museum and Papyrus Collection has a chance to present itself on a scale never shown until now, with over 2 500 exhibits on display in the Neues Museum's northern wing over three floors, covering 3600m².",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/ancient-egypt-5a32e74e-b288-4fe9-a0d7-ca5eb60377ec/",
+    "onMonth": 4
+  },
+  {
+    "name": "May Day in Berlin",
+    "date": {},
+    "description": "Street festivals, parties and concerts: May Day in Berlin is an exciting day. The German Labor Day is celebrated all over the city with events for the whole family.",
+    "href": "https://www.berlin.de/en/events/may-day/",
+    "onMonth": 4
+  },
+  {
+    "name": "Father's Day in Berlin",
+    "date": {
+      "start": "2025-05-29T05:00:00.000Z",
+      "end": "2025-05-29T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "May 29, 2025"
+    },
+    "description": "In the Christian faith, Ascension Day marks the return of Jesus Christ as the Son of God to his Father in heaven. In many places, including in Berlin, Ascension Day is also celebrated as Father's Day or Men's Day.",
+    "href": "https://www.berlin.de/en/events/specials/7173169-7523250-fathers-day-in-berlin.en.html",
+    "onMonth": 4
+  },
+  {
+    "name": "Museum Sunday: Free Admission to Berlin Museums",
+    "date": {},
+    "description": "Free admission to the Bode Museum, the Museum of Natural History or the Alte Nationalgalerie: numerous top-class museums in Berlin are opening their doors for the last time.",
+    "href": "https://www.berlin.de/en/events/museum-sunday/",
+    "onMonth": 4
+  },
+  {
+    "name": "Greentech Festival",
+    "date": {
+      "start": "2025-05-20T05:00:00.000Z",
+      "end": "2025-05-22T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "May 20-22, 2025"
+    },
+    "description": "The three-day Greentech Festival is all about the latest technologies for a sustainable lifestyle.",
+    "href": "https://www.berlin.de/en/trade-fairs/5949508-7918797-greentech-festival.en.html",
+    "onMonth": 4
+  },
+  {
+    "name": "Gartenträume Berlin",
+    "date": {
+      "start": "2025-05-23T05:00:00.000Z",
+      "end": "2025-05-25T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "May 23-25, 2025"
+    },
+    "description": "This visitor fair presents current products and trends from the gardening and plant sector. Garden lovers can get tips on plant care at workshops and lectures.",
+    "href": "https://www.berlin.de/en/trade-fairs/2928096-7918797-gartentraeume-berlin.en.html",
+    "onMonth": 4
+  },
+  {
+    "name": "Bicycle Rally of the ADFC",
+    "date": {
+      "start": "2025-06-01T05:00:00.000Z",
+      "end": "2025-06-01T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "June 01, 2025"
+    },
+    "description": "As part of the Sternfahrt bike rally, thousands of cyclists will gather and advocate for better cycling conditions in Berlin.",
+    "href": "https://www.berlin.de/en/events/2858901-2842498-bicycle-rally-adfc.en.html",
+    "onMonth": 5
+  },
+  {
+    "name": "Fête de la Musique",
+    "date": {
+      "start": "2025-06-21T05:00:00.000Z",
+      "end": "2025-06-21T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "June 21, 2025"
+    },
+    "description": "Every year on June 21, Berliners celebrate the beginning of summer with an open-air music festival. At the Fête de la Musique, musicians and bands play live music in the streets of Berlin for free.",
+    "href": "https://www.berlin.de/en/events/2102143-2842498-fete-de-la-musique.en.html",
+    "onMonth": 5
+  },
+  {
+    "name": "Long Night of the Sciences",
+    "date": {
+      "start": "2025-06-28T05:00:00.000Z",
+      "end": "2025-06-28T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "June 28, 2025"
+    },
+    "description": "On the \"smartest night of the year\", numerous scientific institutions and laboratories open their doors and invite visitors to participate.",
+    "href": "https://www.berlin.de/en/events/2096550-2842498-long-night-of-the-sciences.en.html",
+    "onMonth": 5
+  },
+  {
+    "name": "Staatsoper für alle",
+    "date": {
+      "start": "2025-06-22T05:00:00.000Z",
+      "end": "2025-06-22T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "June 22, 2025"
+    },
+    "description": "The open-air concert of the Staatskapelle Berlin conducted by Christian Thielemann is a cultural highlight for fans of classical music. The concert is open to everyone free of charge.",
+    "href": "https://www.berlin.de/en/events/2509318-2842498-staatsoper-fuer-alle.en.html",
+    "onMonth": 5
+  },
+  {
+    "name": "ILA Berlin",
+    "date": {
+      "start": "2026-06-10T05:00:00.000Z",
+      "end": "2026-06-14T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "June 10 - 14, 2026"
+    },
+    "description": "Exhibitors from the aerospace industry will be presenting the latest aircraft and technologies at the ILA Berlin 2026 air show. Anyone can view the aircraft on Saturday and Sunday.",
+    "href": "https://www.berlin.de/en/events/2303382-2842498-ila-international-air-show-berlin.en.html",
+    "onMonth": 5
+  },
+  {
+    "name": "Berlin Book Festival",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "Berlin's Bebelplatz will be transformed into a huge open-air bookstore with an extensive stage program for the Berlin Book Festival.",
+    "href": "https://www.berlin.de/en/events/7970337-2842498-berliner-buecherfest.en.html",
+    "onMonth": 5
+  },
+  {
+    "name": "48 Hours Neukölln",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "Within 48 hours, about 300 cultural institutions and societies display the diversity of Neukölln's artistic potential at the arts and culture festival.",
+    "href": "https://www.berlin.de/en/events/2508806-2842498-48-hours-neukoelln.en.html",
+    "onMonth": 5
+  },
+  {
+    "name": "Pankow Art Festival",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The annual Pankow Art Festival takes place on the grounds of Schönhausen Palace. Visitors can experience live music and acrobatics, and purchase handmade arts and crafts from over 60 artists.",
+    "href": "https://www.berlin.de/en/events/5983574-2842498-pankow-art-festival.en.html",
+    "onMonth": 5
+  },
+  {
+    "name": "Kreuzberg Festival",
+    "date": {
+      "start": "2025-06-27T05:00:00.000Z",
+      "end": "2025-06-29T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "June 27 - 29, 2025"
+    },
+    "description": "The three-day open air street festival in Kreuzberg boasts a multi-cultural atmosphere and lots of live music.",
+    "href": "https://www.berlin.de/en/events/1934675-2842498-bergmannstrassenfest.en.html",
+    "onMonth": 5
+  },
+  {
+    "name": "MellowJam",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The MellowJam cultural festival combines music, culinary delights and workshops and aims to create its own microcosm in Mellowpark for two days.",
+    "href": "https://www.berlin.de/en/events/7649766-2842498-mellowjam.en.html",
+    "onMonth": 5
+  },
+  {
+    "name": "Architecture Days in Berlin",
+    "date": {
+      "originalString": "Date not yet confirmed"
+    },
+    "description": "On the last weekend in June, the Berlin Chamber of Architects invites Berliners and visitors to discover the building culture of the capital.",
+    "href": "https://www.berlin.de/en/events/3107156-2842498-architecture-day-in-berlin.en.html",
+    "onMonth": 5
+  },
+  {
+    "name": "Berlin Jazz Week",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "With around 30 concerts over seven days, Berlin will once again be transformed into the jazz capital this June.",
+    "href": "https://www.berlin.de/en/events/6257890-2842498-jazz-week.en.html",
+    "onMonth": 5
+  },
+  {
+    "name": "Open Days at Hamburger Bahnhof",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The Hamburger Bahnhof museums for contemporary art is celebrating the permanent preservation of its location for three days with an extensive program and free admission.",
+    "href": "https://www.berlin.de/en/events/8234831-2842498-open-days-hamburger-bahnhof.en.html",
+    "onMonth": 5
+  },
+  {
+    "name": "Berliner Volksfestsommer",
+    "date": {
+      "start": "2025-07-25T05:00:00.000Z",
+      "end": "2025-08-08T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "July 25 - August 08, 2025"
+    },
+    "description": "The largest folk festival in Berlin, formerly the German-French Fair, attracts visitors with amusement rides and culinary delicacies.",
+    "href": "https://www.berlin.de/en/events/2858022-2842498-german-french-fair.en.html",
+    "onMonth": 5
+  },
+  {
+    "name": "Köpenick Summer Festival",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "Summer in Köpenick will be colorful: Visitors can look forward to a diverse music and entertainment program on the Köepnick Palace island.",
+    "href": "https://www.berlin.de/en/events/3415964-2842498-koepenick-summer-festival.en.html",
+    "onMonth": 5
+  },
+  {
+    "name": "Spandau Havelfest",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "Three days, two stages, a dozen live music acts as well as amusement rides and other attractions will delight visitors of the Spandauer Havelfest.",
+    "href": "https://www.berlin.de/en/tickets/3467999-5459794-spandauer-havelfest.en.html",
+    "onMonth": 5
+  },
+  {
+    "name": "Berlin Triathlon",
+    "date": {
+      "start": "2025-06-01T05:00:00.000Z",
+      "end": "2025-06-01T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "June 01, 2025"
+    },
+    "description": "The 19th Berlin Triathlon will take place in June 2025 with a start at the Island of Youth in Treptower Park in Berlin.",
+    "href": "https://www.berlin.de/en/sports-leisure/running/4399613-7813334-berlin-triathlon.en.html",
+    "onMonth": 5
+  },
+  {
+    "name": "Berlin Tennis Open",
+    "date": {
+      "start": "2025-06-14T05:00:00.000Z",
+      "end": "2025-06-22T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "June 14 - 22, 2025"
+    },
+    "description": "The international elite of women's tennis returns to Berlin. The Berlin Tennis Open presented by ecotrans Group will be held at the LTTC Rot-Weiß.",
+    "href": "https://www.berlin.de/en/events/5948369-2842498-grass-tournament-berlin-ladies-open.en.html",
+    "onMonth": 5
+  },
+  {
+    "name": "Berlin Dragonboat City Cup",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The Berlin Dragonboat City Cup takes place at the Olympic Regatta Course in Berlin-Grünau. More than 70 teams from all over Germany will be competing.",
+    "href": "https://www.berlin.de/en/events/4445178-2842498-berlin-dragon-boat-city-cup.en.html",
+    "onMonth": 5
+  },
+  {
+    "name": "Xposed Queer Film Festival",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "This international film festival showcases current and classic queer films that show the development of queer life.",
+    "href": "https://www.berlin.de/en/events/film-festivals/2836322-7812887-xposed-queer-film-festival.en.html",
+    "onMonth": 5
+  },
+  {
+    "name": "Summer in Berlin",
+    "date": {},
+    "description": "Parks, lakes, open-air events, beach bars, beer gardens and festivals: To enjoy summer to the fullest, life in Berlin takes place outside during the warmer months.",
+    "href": "https://www.berlin.de/en/events/summer/",
+    "onMonth": 5
+  },
+  {
+    "name": "Outdoor Swimming Pools",
+    "date": {},
+    "description": "Whether you're in Wedding, Mariendorf, Neukölln or Charlottenburg, Berlin's public outdoor pools provide refreshment and fun in the summer heat. An overview of outdoor swimming pools in Berlin with addresses, directions and ticket information.",
+    "href": "https://www.berlin.de/en/sports-leisure/swimming-pools/outdoor-pools/",
+    "onMonth": 5
+  },
+  {
+    "name": "Open-Air Events",
+    "date": {},
+    "description": "Events, concerts, festivals and more: experience Berlin outdoors!",
+    "href": "https://www.berlin.de/en/events/open-air/",
+    "onMonth": 5
+  },
+  {
+    "name": "Mary Jane Berlin",
+    "date": {
+      "start": "2025-10-20T05:00:00.000Z",
+      "end": "2025-10-22T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "October 20 - 22, 2025"
+    },
+    "description": "At the international cannabis fair, more than 270 exhibitors will present the many different applications of the useful plant.",
+    "href": "https://www.berlin.de/en/trade-fairs/4379764-7918797-mary-jane-berlin.en.html",
+    "onMonth": 5
+  },
+  {
+    "name": "T5 JobMesse Berlin",
+    "date": {
+      "start": "2025-06-18T05:00:00.000Z",
+      "end": "2025-06-18T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "June 18, 2025"
+    },
+    "description": "The T5 job fair is aimed at natural scientists, computer scientists and engineers who are interested in job opportunities in the life sciences or the chemical, healthcare and pharmaceuticals industries.",
+    "href": "https://www.berlin.de/en/trade-fairs/3249974-7918797-t5-jobmesse-berlin.en.html",
+    "onMonth": 5
+  },
+  {
+    "name": "Sticks & Stones",
+    "date": {
+      "start": "2025-06-21T05:00:00.000Z",
+      "end": "2025-06-21T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "June 21, 2025"
+    },
+    "description": "At this LGBTIQ job fair, visitors can meet potential employers, make business contacts and attend talks about the career world.",
+    "href": "https://www.berlin.de/en/trade-fairs/sector/job-career/1729611-7988645-sticks-and-stones.en.html",
+    "onMonth": 5
+  },
+  {
+    "name": "Lesbian and Gay City Festival",
+    "date": {
+      "start": "2025-07-19T05:00:00.000Z",
+      "end": "2025-07-20T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "July 19 and 20, 2025"
+    },
+    "description": "The Lesbian and Gay City Festival in Berlin is Europe's largest street festival of its kind. It takes place around Nollendorfplatz, the traditional gay stomping ground in Schöneberg.",
+    "href": "https://www.berlin.de/en/events/2094393-2842498-lesbian-and-gay-festival.en.html",
+    "onMonth": 6
+  },
+  {
+    "name": "Christopher Street Day 2025",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "On Christopher Street Day, hundreds of thousands of people take to the streets to fight for the rights of LGBTQI people with a great parade, colourful floats and lots of music.",
+    "href": "https://www.berlin.de/en/events/2096878-2842498-csd-christopher-street-day.en.html",
+    "onMonth": 6
+  },
+  {
+    "name": "Berlin Canal Pride",
+    "date": {
+      "start": "2025-07-24T05:00:00.000Z",
+      "end": "2025-07-24T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "July 24, 2025"
+    },
+    "description": "It's the summer highlight of Berlin Pride Week: Canal Pride is a LGBTQ* party tour with several ships across the Spree River.",
+    "href": "https://www.berlin.de/en/events/2993501-2842498-berlin-canal-pride.en.html",
+    "onMonth": 6
+  },
+  {
+    "name": "Botanical Night",
+    "date": {
+      "start": "2025-07-18T05:00:00.000Z",
+      "end": "2025-07-19T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "July 18 and 19, 2025"
+    },
+    "description": "Once a year, the Botanical Garden in Berlin hosts the Botanical Night. Visitors can experience the garden's spectacular plants and flowers in a romantic and magical way.",
+    "href": "https://www.berlin.de/en/events/2962619-2842498-botanical-night-at-botanical-garden.en.html",
+    "onMonth": 6
+  },
+  {
+    "name": "Classic Open Air on Gendarmenmarkt",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "For a few days every summer, Gendarmenmarkt in the heart of Berlin is transformed into a concert stage for the finest classical music concerts.",
+    "href": "https://www.berlin.de/en/events/2096841-2842498-classic-open-air-at-gendarmenmarkt.en.html",
+    "onMonth": 6
+  },
+  {
+    "name": "Poesiefestival Berlin",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The Poesiefestival Berlin brings poetry to life in all its diverse and exciting forms. Over 150 poets and artists from all over the world come to Berlin and present current trends in contemporary poetry.",
+    "href": "https://www.berlin.de/en/events/2410626-2842498-poesiefestival-berlin.en.html",
+    "onMonth": 6
+  },
+  {
+    "name": "Summer Festival at the Jewish Museum",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "This July, the Jewish Museum is hosting a summer festival for children and adults in the museum garden.",
+    "href": "https://www.berlin.de/en/events/3137404-2842498-summer-festival-jewish-museum.en.html",
+    "onMonth": 6
+  },
+  {
+    "name": "Open Days at the Berlin University of the Arts",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "Every summer at the end of the academic year, Berlin's University of the Arts opens its workshops, studios and rehearsal rooms to the public for three days.",
+    "href": "https://www.berlin.de/en/events/5725203-2842498-udk-open-days.en.html",
+    "onMonth": 6
+  },
+  {
+    "name": "Adidas Runners City Night",
+    "date": {
+      "start": "2025-07-26T05:00:00.000Z",
+      "end": "2025-07-26T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "July 26, 2025"
+    },
+    "description": "The City Night is a summer night run for skaters and runners in Berlin's western center.",
+    "href": "https://www.berlin.de/en/events/2895802-2842498-runners-city-night-berlin.en.html",
+    "onMonth": 6
+  },
+  {
+    "name": "International Barrel Organ Festival",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "More than 140 barrel organ players from many countries will entertain festival visitors with their instruments. The festival's annual highlight is the big parade.",
+    "href": "https://www.berlin.de/en/events/3098933-2842498-international-barrel-organ-festival.en.html",
+    "onMonth": 6
+  },
+  {
+    "name": "Tegel Harbor Festival",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The Harbor Festival in Alt-Tegel delights visitors with live music, numerous amusement rides and a lively atmosphere.",
+    "href": "https://www.berlin.de/en/events/5979419-2842498-tegel-harbor-festival.en.html",
+    "onMonth": 6
+  },
+  {
+    "name": "Kladow Harbor Festival",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The harbor mile in tranquil Kladow promises pure coziness. When visiting the Spandau district, some guests even question whether they are still in Berlin.",
+    "href": "https://www.berlin.de/en/events/8765338-2842498-kladow-harbor-festival.en.html",
+    "onMonth": 6
+  },
+  {
+    "name": "Rummel auf der Bucht",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "Culture by the water in the heart of the city! In Rummelsburger Bucht, concerts, workshops, talks and readings invite you to enjoy a varied summer day by the lake.",
+    "href": "https://www.berlin.de/en/events/7608417-2842498-rummel-auf-der-bucht.en.html",
+    "onMonth": 6
+  },
+  {
+    "name": "Bite Club",
+    "date": {
+      "start": "2025-05-10T05:00:00.000Z",
+      "end": "2025-05-10T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "May 10, 2025"
+    },
+    "description": "The Bite Club street food market at Arena Berlin invites you to feast and celebrate with international delicacies, cool drinks and good music.",
+    "href": "https://www.berlin.de/en/shopping/markets/street-food-markets/3862843-7974330-bite-club.en.html",
+    "onMonth": 6
+  },
+  {
+    "name": "Kosher Street Food Festival",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "At the Jewish Community of Berlin's Kosher Street Food Festival, hungry visitors can sample sabich, falafel, Tel Aviv bowls and more.",
+    "href": "https://www.berlin.de/en/events/food-events/8274779-7974318-kosher-street-food-festival.en.html",
+    "onMonth": 6
+  },
+  {
+    "name": "True Italian Pizza Street Festival",
+    "date": {
+      "start": "2025-07-12T05:00:00.000Z",
+      "end": "2025-07-13T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "July 12 and 13, 2025"
+    },
+    "description": "This two-day food festival brings together Berlin pizzerias to celebrate what is arguably the most popular Italian dish.",
+    "href": "https://www.berlin.de/en/events/food-events/8315859-7974318-true-italian-pizza-street-festival.en.html",
+    "onMonth": 6
+  },
+  {
+    "name": "Lakes for Swimming",
+    "date": {},
+    "description": "Berlin has many beautiful swimming lakes where visitors and locals like to cool off on hot summer days. Discover Berlin's most popular lakes and lidos.",
+    "href": "https://www.berlin.de/en/tourism/lakes/",
+    "onMonth": 6
+  },
+  {
+    "name": "Droidcon",
+    "date": {
+      "start": "2025-07-02T05:00:00.000Z",
+      "end": "2025-07-04T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "July 2-4, 2025"
+    },
+    "description": "Android experts meet at droidcon Berlin to further develop the operating system and build a strong network.",
+    "href": "https://www.berlin.de/en/trade-fairs/sector/technology/5695399-7968909-droidcon-berlin.en.html",
+    "onMonth": 6
+  },
+  {
+    "name": "German Comic Con",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The German Comic Con is a comic convention based on the American model. Visitors can meet authors and cartoonists, buy books from different publishing houses and get autographs from movie stars.",
+    "href": "https://www.berlin.de/en/trade-fairs/4599012-7918797-german-comic-con-berlin.en.html",
+    "onMonth": 6
+  },
+  {
+    "name": "Berlin Board Games Con",
+    "date": {
+      "start": "2025-08-01T05:00:00.000Z",
+      "end": "2025-08-03T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "August 1-3, 2025"
+    },
+    "description": "For fans of analog entertainment: At this convention and trade fair, everything revolves around board and role-playing games.",
+    "href": "https://www.berlin.de/en/trade-fairs/5831564-7918797-berlin-board-games-con.en.html",
+    "onMonth": 6
+  },
+  {
+    "name": "Long Night of Museums",
+    "date": {
+      "start": "2025-08-30T05:00:00.000Z",
+      "end": "2025-08-30T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "August 30, 2025"
+    },
+    "description": "During the Long Night of Museums in Berlin, many museums and exhibition venues in the capital will once again open their doors at night.",
+    "href": "https://www.berlin.de/en/events/2091757-2842498-long-night-of-museums.en.html",
+    "onMonth": 7
+  },
+  {
+    "name": "Young Euro Classic",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "Youth symphony orchestras from all over the world enrich the Berlin summer with classical music concerts at the Konzerthaus Berlin on Gendarmenmarkt.",
+    "href": "https://www.berlin.de/en/events/2097025-2842498-young-euro-classic.en.html",
+    "onMonth": 7
+  },
+  {
+    "name": "Britzer Garden Night",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "This year, the Britzer Garten once again invites you to a magical night full of artistry, music and light shows.",
+    "href": "https://www.berlin.de/en/events/7285421-2842498-britzer-garden-night.en.html",
+    "onMonth": 7
+  },
+  {
+    "name": "Berlin Circus Festival",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The Berlin Circus Festival on Tempelhofer Feld celebrates the diversity of contemporary circus.",
+    "href": "https://www.berlin.de/en/events/4974630-2842498-berlin-circus-festival.en.html",
+    "onMonth": 7
+  },
+  {
+    "name": "LGBT Park Festival",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The LGBT Park Festival (LesBiSchwules Parkfest) on the grounds of the open-air cinema in Volkspark Friedrichshain will take place for the 26th time in 2025.",
+    "href": "https://www.berlin.de/en/events/2993388-2842498-lgbt-parkfest-friedrichshain.en.html",
+    "onMonth": 7
+  },
+  {
+    "name": "Night of Shooting Stars",
+    "date": {
+      "start": "2025-08-12T05:00:00.000Z",
+      "end": "2025-08-12T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "August 12, 2025"
+    },
+    "description": "During the natural spectacle of the Perseid meteor shower in mid-August, up to 100 shooting stars per hour can be seen in the sky.",
+    "href": "https://www.berlin.de/en/events/3742941-2842498-night-of-shooting-stars.en.html",
+    "onMonth": 7
+  },
+  {
+    "name": "Dance in August",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "Dance in August is one of the most important festivals of contemporary dance and the largest gathering of dance theater in Europe.",
+    "href": "https://www.berlin.de/en/events/2844810-2842498-dance-in-august.en.html",
+    "onMonth": 7
+  },
+  {
+    "name": "Rave the Planet",
+    "date": {
+      "start": "2025-07-12T05:00:00.000Z",
+      "end": "2025-07-12T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "July 12, 2025"
+    },
+    "description": "19 years after the last Loveparade in the capital, its founder Dr. Motte is bringing the event's successor \"Rave the Planet\" to Berlin once again.",
+    "href": "https://www.berlin.de/en/events/7600572-2842498-rave-the-planet-love-parade.en.html",
+    "onMonth": 7
+  },
+  {
+    "name": "Pop-Kultur",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "Pop-Kultur is a three-day festivals that turns Berlin's Kulturbrauerei into a hub of popular music with concerts, lectures and talks.",
+    "href": "https://www.berlin.de/en/events/2448747-2842498-popkultur-berlin-music-week.en.html",
+    "onMonth": 7
+  },
+  {
+    "name": "Pyronale",
+    "date": {
+      "start": "2025-09-05T05:00:00.000Z",
+      "end": "2025-09-06T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "September 05 - 06, 2025"
+    },
+    "description": "Following the success of the last Pyronalen, the fireworks summit will probably take place again in 2025 on the Maifeld on the grounds of Berlin's Olympic Stadium.",
+    "href": "https://www.berlin.de/en/events/2853694-2842498-pyronale.en.html",
+    "onMonth": 7
+  },
+  {
+    "name": "Zug der Liebe",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "Zug der Liebe (Parade of Love) is a musical demonstration for more compassion, charity and social commitment.",
+    "href": "https://www.berlin.de/en/events/3815296-2842498-zug-der-liebe.en.html",
+    "onMonth": 7
+  },
+  {
+    "name": "Schollenfest",
+    "date": {
+      "start": "2025-08-22T05:00:00.000Z",
+      "end": "2025-09-07T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "August 22 - September 07, 2025"
+    },
+    "description": "The Schollenfest in Berlin-Tegel offers family fun for young and old visitors amid the residential area \"Freie Scholle\".",
+    "href": "https://www.berlin.de/en/events/2620798-2842498-schollenfest-in-tegel.en.html",
+    "onMonth": 7
+  },
+  {
+    "name": "Kenako Africa Festival",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The Kenako Festival takes place each year on Berlin's Alexanderplatz. A traditional marketplace with tents and a live stage program offers visitors a taste of Africa.",
+    "href": "https://www.berlin.de/en/events/3427278-2842498-kenako-africa-festival.en.html",
+    "onMonth": 7
+  },
+  {
+    "name": "Nikolaizauber",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "This festival of cabaret in the historical Nikolaiviertel neighborhood offers a colorful entertainment program for families on two days.",
+    "href": "https://www.berlin.de/en/events/8365713-2842498-nikolaizauber.en.html",
+    "onMonth": 7
+  },
+  {
+    "name": "Gatow Airfield Festival",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "Every year on Reservists' Day, the Military History Museum of the German Armed Forces in Gatow invites visitors to the Airfield Festival.",
+    "href": "https://www.berlin.de/en/events/folk-festivals-fairs/7600719-7519779-gatow-airfield-festival.en.html",
+    "onMonth": 7
+  },
+  {
+    "name": "Folk Festival in Altstadt Spandau",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The former Spandau Wine Summer returns to the historic center of the district under the name Spandauer Altstadtfest.",
+    "href": "https://www.berlin.de/en/events/folk-festivals-fairs/8392605-7519779-spandauer-altstadtfest.en.html",
+    "onMonth": 7
+  },
+  {
+    "name": "Berlin lacht!",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The international street theater festival Berlin lacht! (Berlin laughs!) brings extraordinary artists from different nations to Berlin.",
+    "href": "https://www.berlin.de/en/events/3138229-2842498-berlin-lacht.en.html",
+    "onMonth": 7
+  },
+  {
+    "name": "Berlin, Berlin",
+    "date": {
+      "start": "2024-06-07T05:00:00.000Z",
+      "end": "2024-11-10T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "June 07 - November 10, 2024"
+    },
+    "description": "A tribute to Helmut Newton's hometown, \"Berlin, Berlin\" features Newton's iconic and many unknown images of Berlin as well as photographs of his early sources of inspiration.",
+    "href": "https://www.berlin.de/en/exhibitions/8559579-5202331-the-berlin-show.en.html",
+    "onMonth": 7
+  },
+  {
+    "name": "British Shorts Summer Edition",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "In the Summer Edition, the British Shorts Festival presents selected highlights from this year's short film program.",
+    "href": "https://www.berlin.de/en/events/film-festivals/7609791-7812887-british-shorts-summer-edition.en.html",
+    "onMonth": 7
+  },
+  {
+    "name": "Box Office Around the World",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "In the open air, the Humboldt Forum presents films from all over the world on three weekends in summer.",
+    "href": "https://www.berlin.de/en/events/film-festivals/7968939-7812887-box-office-around-the-world.en.html",
+    "onMonth": 7
+  },
+  {
+    "name": "UFA Film Nights",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The UFA Filmnächte (UFA Film Nights) honor the film avant-garde of the 1920s. The films are shown open air in front of a spectacular backdrop on Museum Island and accompanied by live music.",
+    "href": "https://www.berlin.de/en/events/film-festivals/2626340-7812887-ufa-film-nights.en.html",
+    "onMonth": 7
+  },
+  {
+    "name": "NYE Indian Street Food Market",
+    "date": {
+      "originalString": "Date not yet confirmed"
+    },
+    "description": "At the New Year's Eve Indian Food & Flea Market, you can experience the diversity of Indian cuisine while Bollywood music plays in the background.",
+    "href": "https://www.berlin.de/en/events/food-events/8995011-7974318-the-great-indian-food-festival.en.html",
+    "onMonth": 7
+  },
+  {
+    "name": "Pistachio Street Food Festival",
+    "date": {
+      "start": "2025-08-16T05:00:00.000Z",
+      "end": "2025-08-17T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "August 16 and 17, 2025"
+    },
+    "description": "The Pistachio Street Food Festival is dedicated to the green kernels, which can be found in both sweet and sour dishes from all over the world.",
+    "href": "https://www.berlin.de/en/events/food-events/7679451-7974318-pistachio-street-food-festival.en.html",
+    "onMonth": 7
+  },
+  {
+    "name": "German Rum Festival",
+    "date": {
+      "start": "2025-08-30T05:00:00.000Z",
+      "end": "2025-08-31T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "August 30 and 31, 2025"
+    },
+    "description": "The German Rum Festival is one of the largest fairs in the field of rum, rhum and cachaca worldwide.",
+    "href": "https://www.berlin.de/en/events/food-events/2724220-7974318-german-rum-festival.en.html",
+    "onMonth": 7
+  },
+  {
+    "name": "Culture & Entertainment",
+    "date": {},
+    "description": "From musicals and show to theatre plays and concerts: Discover the cultural life and entertainment offers in Berlin.",
+    "href": "https://www.berlin.de/en/culture-entertainment/",
+    "onMonth": 7
+  },
+  {
+    "name": "Musikfest Berlin",
+    "date": {
+      "start": "2025-08-30T05:00:00.000Z",
+      "end": "2025-09-23T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "August 30 - September 23, 2025"
+    },
+    "description": "The Musikfest, which emerged from the traditional Berliner Festwochen, is Berlin's largest festival for orchestral music.",
+    "href": "https://www.berlin.de/en/events/2097261-2842498-musikfest-berlin-music-festival-berlin.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "IFA Berlin - Consumer Electronics Fair",
+    "date": {
+      "start": "2025-09-05T05:00:00.000Z",
+      "end": "2025-09-09T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "September 05 - 09, 2025"
+    },
+    "description": "At the IFA, more than 2000 exhibitors present the latest developments in consumer electronics and home appliances. Visitors can take a look at brand new devices long before they hit the shelves.",
+    "href": "https://www.berlin.de/en/events/2102221-2842498-ifa-berlin-consumer-electronics-fair.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "Berlin Art Week",
+    "date": {
+      "start": "2025-09-10T05:00:00.000Z",
+      "end": "2025-09-14T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "September 10 - 14, 2025"
+    },
+    "description": "The Berlin Art Week is a great opportunity for art enthusiasts to discover and discuss the works of international and local artists exhibited in hundreds of galleries.",
+    "href": "https://www.berlin.de/en/events/2773012-2842498-berlin-art-week.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "Positions Berlin Art Fair",
+    "date": {
+      "start": "2025-09-11T05:00:00.000Z",
+      "end": "2025-09-14T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "September 11 - 14, 2025"
+    },
+    "description": "The Positions Berlin Art Fair takes place in Hangars of the former Tempelhof Airport. Here, new as well as established contemporary works are presented next to works of classical modernism.",
+    "href": "https://www.berlin.de/en/events/4537418-2842498-art-week-positions-berlin-art-fair.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "Open Heritage Day",
+    "date": {
+      "start": "2025-09-13T05:00:00.000Z",
+      "end": "2025-09-14T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "September 13 and 14, 2025"
+    },
+    "description": "At the Open Heritage Day, also known as Open Monument Day, numerous monuments which are usually closed to the public open their doors for visitors.",
+    "href": "https://www.berlin.de/en/events/2860241-2842498-heritage-day.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "Lollapalooza Festival",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The American festival Lollapalooza returns to Berlin in 2025. With music, art, food and much more, it attracts thousands of visitors every year.",
+    "href": "https://www.berlin.de/en/events/3672496-2842498-lollapalooza-festival.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "Citizens' festival in the grounds of Schloss Bellevue",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "Celebrating with the Federal President: In September, the citizens' festival takes place at the official residence of Federal President Steinmeier in Berlin.",
+    "href": "https://www.berlin.de/en/events/3172114-2842498-citizens-festival-at-bellevue-palace.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "International Literature Festival",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "In September, Berlin becomes the capital of literature. Around 200 authors from over 40 countries are expected at the International Literature Festival",
+    "href": "https://www.berlin.de/en/events/2844462-2842498-international-literature-festival-berlin.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "Days of Jewish Culture",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "In 2025, the Days of Jewish Culture will once again offer a feast for the senses and present modern Jewish culture through music, cinema and literature.",
+    "href": "https://www.berlin.de/en/events/2097190-2842498-days-of-jewish-culture.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "Festival of Giant Kites",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "At the Festival of Giant Kites in Berlin, unique kites up to 40 meters long will provide a flying spectacle above Tempelhofer Feld.",
+    "href": "https://www.berlin.de/en/events/2722189-2842498-festival-of-giant-kites.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "Open Day at the Berlin Animal Shelter",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "Visitors of the open day day at the Berlin animal shelter in Falkenberg can look forward to discussion rounds, market stalls, join-in activities and lots more.",
+    "href": "https://www.berlin.de/en/events/4471621-2842498-open-day-animal-shelter-tierheim-berlin.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "Bülow Street Festival",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The Bülowstraße invites you to the neighborhood festival! The program has it all and combines music, art, workshops, city discoveries and more.",
+    "href": "https://www.berlin.de/en/events/6899752-2842498-buelow-street-wknd.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "Open Studios in the Gerichtshöfe Wedding",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "Visitors can wander through the six listed courtyards on their own during the Open Studios.",
+    "href": "https://www.berlin.de/en/events/3120412-2842498-open-studios-gerichtshoefe-wedding.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "Festival at the Mäusebunker",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "For ten days, the area around the Mäusebunker is transformed into a multifaceted festival site where people discuss, play, learn, cook and make things.",
+    "href": "https://www.berlin.de/en/events/9109332-2842498-festival-at-the-maeusebunker.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "Open Day at the Berlin State Opera",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The Staatsoper Unter den Linden invites you to a varied afternoon of dance, music and anecdotes.",
+    "href": "https://www.berlin.de/en/events/9106596-2842498-open-day-at-the-berlin-state-opera.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "Berlin Autumn Carnival",
+    "date": {
+      "start": "2025-09-19T05:00:00.000Z",
+      "end": "2025-10-19T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "September 19 - October 19, 2025"
+    },
+    "description": "High Sky, Anubis and more: Expect lots of fun rides at the Berlin Autumn Carvival on the fairground at Kurt-Schumacher-Damm.",
+    "href": "https://www.berlin.de/en/events/6279065-2842498-berliner-herbst-rummel.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "Railway Festival at the Schöneweide Depot",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The railway festival invites all locomotive fans to get to know the Schöneweide railway depot.",
+    "href": "https://www.berlin.de/en/events/5006532-2842498-railway-festival-at-the-schoeneweide-dep.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "Lake Festival at the Orankesee Lido",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The festival at Orankesee Lake presents an entertaining mix of music, circus arts, acrobatics, magic and street theater.",
+    "href": "https://www.berlin.de/en/events/folk-festivals-fairs/7608000-7519779-lake-festival-orankesee.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "Harvest Festival in Hellersdorf",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The Hellersdorf Harvest Festival welcomes visitors with an entertaining stage program, foods and drinks as well as a colorful lantern parade.",
+    "href": "https://www.berlin.de/en/events/5983438-2842498-harvest-festival-hellersdorf.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "Moabiter Kiezfest",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The Kiez festival in Moabit invites visitors to get to know and celebrate the colorful diversity of the neighborhood around Turmstraße.",
+    "href": "https://www.berlin.de/en/events/7668498-2842498-moabiter-kiezfest.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "Kinofest",
+    "date": {
+      "start": "2025-09-13T05:00:00.000Z",
+      "end": "2025-09-14T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "September 13 and 14, 2025"
+    },
+    "description": "Only five euros per film: The Germany-wide Kinofest is a highlight for cinema lovers.",
+    "href": "https://www.berlin.de/en/events/film-festivals/8434119-7812887-kinofest.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "Festival of Animation",
+    "date": {
+      "start": "2025-09-26T05:00:00.000Z",
+      "end": "2025-09-28T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "September 26 - 28, 2025"
+    },
+    "description": "For three days, the Festival of Animation is all about the fascinating format of animated film. Over 150 films and positions will be shown.",
+    "href": "https://www.berlin.de/en/events/film-festivals/7763163-7812887-festival-of-animation.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "Turkish Film Festival",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "This year's Turkish Film Festival will present a diverse program at Kino Babylon.",
+    "href": "https://www.berlin.de/en/events/film-festivals/7650957-7812887-turkish-film-festival.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "BMW Berlin Marathon",
+    "date": {
+      "start": "2025-09-21T05:00:00.000Z",
+      "end": "2025-09-22T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "September 21 and 22, 2025"
+    },
+    "description": "At the end of September, the German capital hosts one of the biggest running events in the world: the Berlin Marathon.",
+    "href": "https://www.berlin.de/en/events/62716-2842498-berlin-marathon.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "ISTAF - International Stadium Festival",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "World class athletes from various disciplines make the International Stadium Festival (ISTAF) at the Berlin Olympic Stadium one of the world's most popular sporting events.",
+    "href": "https://www.berlin.de/en/events/56112-2842498-istaf-international-stadium-festival.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "Berlinman Triathlon",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "Swim in the Wannsee, cycle on the Havelchaussee and run in the Grunewald forest. In addition to the sprint and middle distance, there is also a mini-marathon.",
+    "href": "https://www.berlin.de/en/sports-leisure/running/5931834-7813334-berlinman-triathlon.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "Gisèle Vienne: This Causes Consciousness to Fracture",
+    "date": {},
+    "description": "Over the past twenty years, the French-Austrian artist, choreographer, and director has created a complex and idiosyncratic body of work that traces the dreams and abysses of adolescence and counterculture.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/gisele-vienne-this-causes-consciousness-to-fracture-125e7d3f-6440-4dfc-9dbc-b4d29b950fc6/",
+    "onMonth": 8
+  },
+  {
+    "name": "Mariechen Danz: Edge Out",
+    "date": {},
+    "description": "In her artistic practice Mariechen Danz explores methods and models of human cognition. The starting point for her artistic research is the fragmented human body.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/mariechen-danz-edge-out-288f99aa-ecad-4bdb-8ff1-9c6b20499c0a/",
+    "onMonth": 8
+  },
+  {
+    "name": "Monet and the Impressionist Cityscape",
+    "date": {},
+    "description": "The Alte Nationalgalerie will be presenting Claude Monet’s three earliest views of Paris, from 1867, which are considered to be the first Impressionist cityscapes.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/monet-and-the-impressionist-cityscape-6d488ca0-1ed1-40b5-b290-fdc6f1b65e15/",
+    "onMonth": 8
+  },
+  {
+    "name": "Berlin Chili Fest",
+    "date": {
+      "start": "2025-05-16T05:00:00.000Z",
+      "end": "2025-05-18T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "May 16 - 18, 2025"
+    },
+    "description": "At the Berlin Chili Fest at Berliner Berg Brauerei everything revolves around the hot pepper and craft beer.",
+    "href": "https://www.berlin.de/en/events/food-events/7617393-7974318-berlin-chili-fest.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "Potato Festival in Dahlem",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "A celebration for potato fans: This year, too, a special festival is dedicated to the multifaceted earth tuber.",
+    "href": "https://www.berlin.de/en/events/food-events/6895468-7974318-potato-festival-dahlem.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "Historical Apple Festival at Britz Palace",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "With historical music, a fruit exhibition, artistic performances and fun activities, the festival at Britz Palace celebrates Germany's most popular garden fruit - the apple.",
+    "href": "https://www.berlin.de/en/events/6314699-2842498-historical-apple-festival-britz-palace.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "Pumpkin and Apple Festival in Britzer Garten",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The Britzer Garten is once again hosting the Pumpkin Festival this year, where giant pumpkins and large straw figures will be on display.",
+    "href": "https://www.berlin.de/en/events/3150956-2842498-pumpkin-festival-britzer-garten.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "Food Festival Berlin",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The Food Festival Berlin, which is taking place for the fourth time this year, is helping to raise the international profile of Berlin's food culture.",
+    "href": "https://www.berlin.de/en/events/food-events/8305830-7974318-tip-berlin-food-festival.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "Berlin Ramen Festival",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "At the Berlin Ramen Festival, everything revolves around the internationally popular noodle soup and other traditional Japanese dishes.",
+    "href": "https://www.berlin.de/en/events/food-events/8457449-7974318-berlin-ramen-festival.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "Green World Tour",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "At the Green World Tour public fair, the focus is on sustainability in all areas of life.",
+    "href": "https://www.berlin.de/en/trade-fairs/5872291-7918797-green-world-tour.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "Tattoo Convention Berlin",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "Fans of body art from all over the world meet at the Tattoo Convention in Berlin. National and international artists of the tattoo scene show their skills with the needle.",
+    "href": "https://www.berlin.de/en/trade-fairs/7753392-7918797-tattoo-convention-berlin.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "InnoTrans",
+    "date": {
+      "start": "2026-09-22T05:00:00.000Z",
+      "end": "2026-09-25T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "September 22 - 25, 2026"
+    },
+    "description": "Technology companies will present their latest products and innovations at the international trade and visitor fair for transport technology.",
+    "href": "https://www.berlin.de/en/trade-fairs/sector/transportation/3250206-7975368-innotrans.en.html",
+    "onMonth": 8
+  },
+  {
+    "name": "Open Mosque Day",
+    "date": {
+      "start": "2025-10-03T05:00:00.000Z",
+      "end": "2025-10-03T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "October 03, 2025"
+    },
+    "description": "Every year on October 03, the Islamic religious communities in Germany organize the nationwide Open Mosque Day.",
+    "href": "https://www.berlin.de/en/events/3205288-2842498-open-mosque-day.en.html",
+    "onMonth": 9
+  },
+  {
+    "name": "Berlin Food Week",
+    "date": {
+      "start": "2025-10-06T05:00:00.000Z",
+      "end": "2025-10-12T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "October 06 - 12, 2025"
+    },
+    "description": "The Berlin Food Week offers professional chefs, home cooks and foodies a platform for enjoyment and exchange.",
+    "href": "https://www.berlin.de/en/events/food-events/3568974-7974318-berlin-food-week.en.html",
+    "onMonth": 9
+  },
+  {
+    "name": "Müggelsee Half Marathon",
+    "date": {
+      "start": "2025-10-19T05:00:00.000Z",
+      "end": "2025-10-19T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "October 19, 2025"
+    },
+    "description": "The Müggelsee Half Marathon leads runners clockwise around the Müggelsee lake in the southeast of Berlin.",
+    "href": "https://www.berlin.de/en/sports-leisure/running/4531722-7813334-mueggelsee-half-marathon.en.html",
+    "onMonth": 9
+  },
+  {
+    "name": "Festival of Lights",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "Once a year, Berlin’s world famous sights and monuments in the city centre become the canvas for spectacular light and video projections at the Festival of Lights.",
+    "href": "https://www.berlin.de/en/events/2097286-2842498-festival-of-lights.en.html",
+    "onMonth": 9
+  },
+  {
+    "name": "Jazz in the Minister Gardens",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "Every autumn, modern jazz soundscapes rise from the historic grounds of the Ministergärten (Minister Gardens) and become a musical experience of a special kind.",
+    "href": "https://www.berlin.de/en/events/2653430-2842498-jazz-in-minister-gardens.en.html",
+    "onMonth": 9
+  },
+  {
+    "name": "Tag der Clubkultur",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The Tag der Clubkultur (Day of Club Culture) takes place annually in October and makes the diversity of Berlin's clubbing and nightlife scene visible.",
+    "href": "https://www.berlin.de/en/events/6296831-2842498-tag-der-clubkultur.en.html",
+    "onMonth": 9
+  },
+  {
+    "name": "Day of Germany Unity in Berlin",
+    "date": {},
+    "description": "On October 03, 2024, Berlin and Germany will celebrate 34 years of reunification. Discover the most important events, exhibitions, activities and other highlights for the Day of German Unity.",
+    "href": "https://www.berlin.de/en/events/specials/october-3/",
+    "onMonth": 9
+  },
+  {
+    "name": "Autumn in Berlin",
+    "date": {},
+    "description": "Autumn walks, relaxed movie nights, kite flying and captivating theater evenings make it easier to say goodbye to the outdoor pool and heat.",
+    "href": "https://www.berlin.de/en/events/autumn/",
+    "onMonth": 9
+  },
+  {
+    "name": "Medieval Juggler Festival at Spandau Citadel",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The Gauklerfest (Juggler Festival) at Spandau Citadel will take place for the seventh time in 2025. Visitors can look forward to a colorful program with medieval flair.",
+    "href": "https://www.berlin.de/en/events/6301230-2842498-juggler-festival-spandau-citadel.en.html",
+    "onMonth": 9
+  },
+  {
+    "name": "Schöneberg Pumpkin Festival",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "On the first weekend of October, a Pumpkin Festival takes place on Akazienstraße and Belziger Straße in Schöneberg.",
+    "href": "https://www.berlin.de/en/events/4531106-2842498-schoeneberg-pumpkin-festival.en.html",
+    "onMonth": 9
+  },
+  {
+    "name": "Autumn Market at Domäne Dahlem",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "Colorful foliage, fresh air and golden light: autumn has arrived in Berlin! The outdoor museum Domäne Dahlem is celebrating the season with market selling fabrics and handmade objects.",
+    "href": "https://www.berlin.de/en/events/7799565-2842498-herbstmarkt-auf-der-domaene-dahlem.en.html",
+    "onMonth": 9
+  },
+  {
+    "name": "Harvest Festival in Spandau",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The Hahneberg Nature Conservation Station organizes a colorful harvest festival at the beginning of October.",
+    "href": "https://www.berlin.de/en/events/6958258-2842498-harvest-festival-in-spandau.en.html",
+    "onMonth": 9
+  },
+  {
+    "name": "Hauptstadtwiesn at Spinner-Brücke",
+    "date": {
+      "start": "2024-09-13T05:00:00.000Z",
+      "end": "2024-11-02T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "September 13 - November 2, 2024"
+    },
+    "description": "With Paulaner beer and a band playing traditional folk music, the Oktoberfest celebration \"Hauptstadtwiesn\" brings Bavarian atmosphere to Berlin.",
+    "href": "https://www.berlin.de/en/events/oktoberfest/4544203-5907795-hauptstadtswiesn-oktoberfest-spinner-bru.en.html",
+    "onMonth": 9
+  },
+  {
+    "name": "Hip Hop: Conscious, Unconscious",
+    "date": {},
+    "description": "The retrospective at Fotografiska shows where the heart of hip-hop beats and traces over 50 years of its history, from its roots in the Bronx in the 1970s to its evolution as a global billion-dollar industry.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/hip-hop-conscious-unconscious-46f1b954-bb8d-4bb6-be39-a3246912db27/",
+    "onMonth": 9
+  },
+  {
+    "name": "Bar Convent Berlin",
+    "date": {
+      "start": "2025-10-06T05:00:00.000Z",
+      "end": "2025-10-08T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "October 6 - 8, 2025"
+    },
+    "description": "At the international trade fair of the bar and beverage industry, exhibitors present new and exciting products and trends from the cocktain and beverage scene.",
+    "href": "https://www.berlin.de/en/trade-fairs/3240710-7918797-bar-convent-berlin.en.html",
+    "onMonth": 9
+  },
+  {
+    "name": "Wedding Bells",
+    "date": {
+      "start": "2025-10-18T05:00:00.000Z",
+      "end": "2025-10-19T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "October 18 - 19, 2025"
+    },
+    "description": "At the Wedding Bells fair, couples will find everything they need to make their personal wedding dream come true.",
+    "href": "https://www.berlin.de/en/trade-fairs/7322417-7918797-wedding-bells.en.html",
+    "onMonth": 9
+  },
+  {
+    "name": "Zebra Poetry Film Festival",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "Since 2002, the Zebra Poetry Film Festival has presented the current state of a dynamic short film genre between poetry, film and new media.",
+    "href": "https://www.berlin.de/en/events/film-festivals/2133953-7812887-zebra-poetry-film-festival.en.html",
+    "onMonth": 9
+  },
+  {
+    "name": "Human Rights Film Festival",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "For ten days, the Human Rights Film Festival presents selected documentaries from around the world.",
+    "href": "https://www.berlin.de/en/events/film-festivals/7766757-7812887-human-rights-film-festival.en.html",
+    "onMonth": 9
+  },
+  {
+    "name": "Kurdish Film Festival",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The Kurdish Film Festival is a permanent fixture on the Berlin events calendar and is taking place for the 15th time this year.",
+    "href": "https://www.berlin.de/en/events/film-festivals/7801209-7812887-kurdish-film-festival.en.html",
+    "onMonth": 9
+  },
+  {
+    "name": "Berlin's Districts",
+    "date": {},
+    "description": "Information on residential areas, infrastructure, events, local authorities and leisure activities.",
+    "href": "https://www.berlin.de/en/districts/",
+    "onMonth": 9
+  },
+  {
+    "name": "Bazaar Berlin",
+    "date": {
+      "start": "2025-11-05T05:00:00.000Z",
+      "end": "2025-11-09T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "November 5-9, 2025"
+    },
+    "description": "Manufacturers and traders from 60 countries present their crafts, designs and natural products at this international sales fair.",
+    "href": "https://www.berlin.de/en/trade-fairs/2102505-7918797-bazaar-berlin.en.html",
+    "onMonth": 10
+  },
+  {
+    "name": "Zeit für Zirkus - Nuit du Cirque",
+    "date": {
+      "start": "2025-11-14T05:00:00.000Z",
+      "end": "2025-11-16T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "November 14 - 16, 2025"
+    },
+    "description": "\"Zeit für Zirkus\" (Time for Circus) is the nationwide format of the European \"Nuit du Cirque\". For three days, everything in Berlin revolves around contemporary circus.",
+    "href": "https://www.berlin.de/en/events/6998453-2842498-zeit-fuer-zirkus.en.html",
+    "onMonth": 10
+  },
+  {
+    "name": "Jazzfest Berlin",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "Integrated into the Berliner Festspiele, the Jazzfest Berlin is the crowning finale of every jazz year. Over four days, there is a varied program for all jazz lovers.",
+    "href": "https://www.berlin.de/en/events/1947196-2842498-jazzfest-berlin.en.html",
+    "onMonth": 10
+  },
+  {
+    "name": "Zeughausmesse",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The Zeughausmesse is one of the leading fairs for applied contemporary art. It provides artists and designers with the opportunity to present and sell their work to design connoisseurs.",
+    "href": "https://www.berlin.de/en/events/2828417-2842498-zeughausmesse-decorative-arts-fair.en.html",
+    "onMonth": 10
+  },
+  {
+    "name": "Día de los Muertos at Holzmarkt",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The Holzmarkt celebrates Día de los Muertos with an altar, cultural program, Mexican delicacies and a fiesta.",
+    "href": "https://www.berlin.de/en/events/8509087-2842498-dia-de-los-muertos-at-holzmarkt.en.html",
+    "onMonth": 10
+  },
+  {
+    "name": "Berlin Science Week",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "With more than 200 events, the Berlin Science Week aims to bring Berlin as a science location into the public spotlight.",
+    "href": "https://www.berlin.de/en/events/5059379-2842498-berlin-science-week.en.html",
+    "onMonth": 10
+  },
+  {
+    "name": "Theater der Dinge",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "At the international festival of contemporary puppet and object theater, artists from all over Europe present a wide range of theater projects in shows, performances and exhibitions.",
+    "href": "https://www.berlin.de/en/events/4586785-2842498-theater-der-dinge-international-festival.en.html",
+    "onMonth": 10
+  },
+  {
+    "name": "Events on November 09",
+    "date": {},
+    "description": "Commemorative events for the proclamation of the German Republic, the Hitler Putsch, Pogrom Night or the fall of the Berlin Wall.",
+    "href": "https://www.berlin.de/en/events/specials/november-9/",
+    "onMonth": 10
+  },
+  {
+    "name": "Christmas Garden Berlin",
+    "date": {
+      "start": "2024-11-20T05:00:00.000Z",
+      "end": "2025-01-12T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "November 20, 2024 - January 12, 2025"
+    },
+    "description": "For Christmas Garden, the Botanical Garden in Berlin is transformed into a glowing fairytale landscape with all kinds of light shows, magic forests and 3D illuminated figures.",
+    "href": "https://www.berlin.de/en/events/4602948-2842498-christmas-garden-berlin.en.html",
+    "onMonth": 10
+  },
+  {
+    "name": "Christmas at the Tierpark",
+    "date": {
+      "start": "2024-11-22T05:00:00.000Z",
+      "end": "2025-01-12T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "November 22, 2024 - January 12, 2025"
+    },
+    "description": "Europe's largest zoo will be bathed in Christmas lights again this year. The historical Friedrichsfelde Palace is at the heart of the luminous Christmas tour.",
+    "href": "https://www.berlin.de/en/events/5909511-2842498-christmas-at-the-tierpark.en.html",
+    "onMonth": 10
+  },
+  {
+    "name": "Lithuanian Cinema Goes Berlin",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "Every year, short and feature films from Lithuania are shown at the film festival in the Sputnik and Acud cinemas. It is the only festival outside Lithuania with a focus on national film productions.",
+    "href": "https://www.berlin.de/en/events/film-festivals/6329824-7812887-lithuanian-cinema-goes-berlin.en.html",
+    "onMonth": 10
+  },
+  {
+    "name": "International Short Film Festival Berlin",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "Every year in autumn, the International Short Film Festival attracts cinephiles from all over the world to Berlin. The festival presents about 400 films from over 120 countries.",
+    "href": "https://www.berlin.de/en/events/film-festivals/2122682-7812887-short-film-festival-berlin.en.html",
+    "onMonth": 10
+  },
+  {
+    "name": "Around the World in 14 Films",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "In 2025, the independent festival \"Around the World in 14 Films\" is going on a cinematic journey across the globe for the 20th time.",
+    "href": "https://www.berlin.de/en/events/film-festivals/2080036-7812887-around-the-world-in-14-days-festival.en.html",
+    "onMonth": 10
+  },
+  {
+    "name": "Andrea Pichl: Values of Economy",
+    "date": {},
+    "description": "For the exhibition, Andrea Pichl has devised an architectural installation dealing with the economic transfer between West and East Germany and the transformation occurring after 1989.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/andrea-pichl-values-of-economy-27fe828a-73c5-41b9-aae1-bb7d138e0b16/",
+    "onMonth": 10
+  },
+  {
+    "name": "After Images",
+    "date": {},
+    "description": "The group exhibition “After Images” at JSF Berlin proposes a recalibration of our relationship to contemporary image culture.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/after-images-f46c4efa-6fdf-4030-9c38-304f12c0b4fa/",
+    "onMonth": 10
+  },
+  {
+    "name": "Games Ground",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "Games Ground is a trade fair for gaming professionals and a festival for the gaming community in equal measure.",
+    "href": "https://www.berlin.de/en/trade-fairs/8467619-7918797-games-ground.en.html",
+    "onMonth": 10
+  },
+  {
+    "name": "AngelWelt Berlin - Fishing Show",
+    "date": {
+      "start": "2025-11-28T05:00:00.000Z",
+      "end": "2025-11-30T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "November 28 - 30, 2025"
+    },
+    "description": "At the AngelWelt public fair, companies from the fishing industry present current products and trends. Sport and recreational anglers can practice fishing techniques.",
+    "href": "https://www.berlin.de/en/trade-fairs/3245533-7918797-angelwelt-berlin.en.html",
+    "onMonth": 10
+  },
+  {
+    "name": "Boat & Fun",
+    "date": {
+      "start": "2025-11-27T05:00:00.000Z",
+      "end": "2025-11-30T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "November 27 - 30, 2025"
+    },
+    "description": "At the boat show for motorboats and sailing yachts, visitors can check out the latest motorboats, sailboats, houseboats, pontoons and diving equipment.",
+    "href": "https://www.berlin.de/en/trade-fairs/1618402-7918797-boot-fun-berlin.en.html",
+    "onMonth": 10
+  },
+  {
+    "name": "LGBTIQA Winterdays and Christmas Avenue",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "At the LGBTQIA Winterdays and the Christmas market on Nollendorfplatz, atmospheric lighting, a varied stage program and high-quality delicacies await visitors.",
+    "href": "https://www.berlin.de/en/christmas-markets/5948422-3230598-christmas-avenue.en.html",
+    "onMonth": 10
+  },
+  {
+    "name": "Medieval Christmas Market at the RAW Compound",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "This Christmas market in Friedrichshain presents itself in all its historical splendour.",
+    "href": "https://www.berlin.de/en/christmas-markets/5983209-3230598-medieval-christmas-market-at-the-raw-com.en.html",
+    "onMonth": 10
+  },
+  {
+    "name": "Christmas Fair on Landsberger Allee",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The \"Lichtenberger Winterzeit\" Christmas fair attracts numerous guests to Lichtenberg with mulled wine and a funfair atmosphere.",
+    "href": "https://www.berlin.de/en/christmas-markets/5741424-3230598-christmas-funfair-on-landsberger-allee.en.html",
+    "onMonth": 10
+  },
+  {
+    "name": "Christmas in Berlin",
+    "date": {},
+    "description": "Christmas markets,Christmas tours, festive illuminations and more: the most important information for the holiday season in the capital.",
+    "href": "https://www.berlin.de/en/events/christmas/",
+    "onMonth": 10
+  },
+  {
+    "name": "New Year's Eve Party at the Brandenburg Gate",
+    "date": {
+      "start": "2025-12-31T05:00:00.000Z",
+      "end": "2025-12-31T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "December 31, 2025"
+    },
+    "description": "Music, stars and entertainment: With a huge open-air party at the Brandenburg Gate, Berlin rings in the new year.",
+    "href": "https://www.berlin.de/en/events/3303144-2842498-new-years-eve-party-brandenburg-gate.en.html",
+    "onMonth": 11
+  },
+  {
+    "name": "Louis Lewandowski Festival",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The Louis Lewandowski Festival is a choir festival dedicated to the music of Jewish composers who emigrated from Germany. It is named after the German-Jewish composer of the same name.",
+    "href": "https://www.berlin.de/en/events/2819212-2842498-louis-lewandowski-festival.en.html",
+    "onMonth": 11
+  },
+  {
+    "name": "Winterzauber in the Gardens of the World",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "During the Advent season, the Gardens of the World shine in Christmas splendor and invite you to the first Winterzauber.",
+    "href": "https://www.berlin.de/en/events/9303309-2842498-winterzauber-in-the-gardens-of-the-world.en.html",
+    "onMonth": 11
+  },
+  {
+    "name": "Berlin New Year's Eve Run",
+    "date": {
+      "start": "2025-12-31T05:00:00.000Z",
+      "end": "2025-12-31T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "December 31, 2025"
+    },
+    "description": "Before the big New Year's Eve party, runners can end the old year in a sporty way at the traditional Berlin New Year's Eve Run organized by the SCC Berlin.",
+    "href": "https://www.berlin.de/en/sports-leisure/running/1022177-7813334-berlin-new-years-eve-run.en.html",
+    "onMonth": 11
+  },
+  {
+    "name": "Events on New Year's Eve",
+    "date": {},
+    "description": "Shows, parties, classical concerts: There are many ways to celebrate the turn of the year in Berlin. Here are the best event tips for New Year's Eve 2024.",
+    "href": "https://www.berlin.de/en/events/new-years-eve/",
+    "onMonth": 11
+  },
+  {
+    "name": "Search for Christmas Markets",
+    "date": {},
+    "description": "Which Christmas market takes place today, tomorrow, next weekend? With the Christmas market search you can find out when over 60 Christmas markets are open in Berlin.",
+    "href": "https://www.berlin.de/en/christmas-markets/search/",
+    "onMonth": 11
+  },
+  {
+    "name": "Winter City Tour across the Spree River",
+    "date": {},
+    "description": "Even in winter, the Spree River is inviting you to take a steamboat trip through the center of Berlin. Aboard the passenger ship, visitors can relax and discover Berlin in winter.",
+    "href": "https://www.berlin.de/en/tourism/rivercruises-boattrips/x/5622522-5455686-winter-city-tour-across-the-spree-river.en.html",
+    "onMonth": 11
+  },
+  {
+    "name": "Christmas lights tour",
+    "date": {},
+    "description": "Enjoy the festive decorations of Berlin on a Christmas city tour.",
+    "href": "https://www.berlin.de/tourismus/stadtrundfahrten/x/9170880-5430289-christmas-lights-tour.en.html",
+    "onMonth": 11
+  },
+  {
+    "name": "Christmas Market Tour",
+    "date": {},
+    "description": "Discover Berlin's most beautiful Christmas markets with a local tour guide and learn about German Christmas traditions and their historical origins.",
+    "href": "https://www.berlin.de/en/tourism/guides/x/9061701-5426434-christmas-market-tour.en.html",
+    "onMonth": 11
+  },
+  {
+    "name": "Doc.Berlin",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The documentary film festival Doc.Berlin invites fans of informative cinema to four days of movies at the Babylon cinema.",
+    "href": "https://www.berlin.de/en/events/film-festivals/7155259-7812887-docberlin.en.html",
+    "onMonth": 11
+  },
+  {
+    "name": "Christmas Film Festival",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "The first festival that is all about Christmas is taking place at the Moviemento cinema in Kreuzberg.",
+    "href": "https://www.berlin.de/en/events/film-festivals/4690721-7812887-christmas-film-festival.en.html",
+    "onMonth": 11
+  },
+  {
+    "name": "Semiha Berksoy: Retrospective",
+    "date": {},
+    "description": "Hamburger Bahnhof is dedicating a major retrospective to the Turkish painter and opera singer Semiha Berksoy (1910 - 2004) in the east wing of the museum.",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/semiha-berksoy-retrospective-4a2e84a4-183c-41b3-bade-1b8b9d954d95/",
+    "onMonth": 11
+  },
+  {
+    "name": "Evil Flowers",
+    "date": {},
+    "description": "Starting with Odilon Redon’s charcoal drawing Fleur du mal in the Sammlung Scharf-Gerstenberg, this exhibition traces a path from early modern art to contemporary works, shedding light on the influence that Charles Baudelaire’s well-known, eponymous collection...",
+    "href": "https://www.berlin.de/en/tickets/exhibitions/evil-flowers-f3fe29cb-544e-4de3-bb70-2e6421d7b5f6/",
+    "onMonth": 11
+  },
+  {
+    "name": "Christmas Market on Gendarmenmarkt",
+    "date": {
+      "start": "2025-11-24T05:00:00.000Z",
+      "end": "2025-12-31T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "November 24 - December 31, 2025"
+    },
+    "description": "Located on one of the most beautiful squares in Berlin, this Christmas Market offers quality decorations, food and entertainment.",
+    "href": "https://www.berlin.de/en/christmas-markets/3235772-3230598-christmas-market-at-gendarmenmarkt.en.html",
+    "onMonth": 11
+  },
+  {
+    "name": "Christmas Market in Alt-Rixdorf",
+    "date": {
+      "start": "2025-12-05T05:00:00.000Z",
+      "end": "2025-12-07T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "December 05 to 07, 2025"
+    },
+    "description": "Cobblestones, warm light from oil lamps and a historical backdrop: The Alt-Rixdorf Christmas market on Richardplatz attracts visitors with its unique ambience and charitable commitment.",
+    "href": "https://www.berlin.de/en/christmas-markets/3240343-3230598-christmas-market-altrixdorf-in-neukoelln.en.html",
+    "onMonth": 11
+  },
+  {
+    "name": "British Christmas Market",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "Under the motto \"A Very British Christmas\", the congregation of St George's Church in Charlottenburg organizes a cozy Christmas market every year.",
+    "href": "https://www.berlin.de/en/christmas-markets/7689300-3230598-british-christmas-market.en.html",
+    "onMonth": 11
+  },
+  {
+    "name": "Raw Wine Berlin",
+    "date": {
+      "originalString": "Date not yet known"
+    },
+    "description": "At this public wine fair at Markthalle Neun in Kreuzberg, organic winemakers from all over the world present their wines.",
+    "href": "https://www.berlin.de/en/trade-fairs/3968362-7918797-raw-wine-berlin.en.html",
+    "onMonth": 11
+  },
+  {
+    "name": "Terraristikbörse Berlin",
+    "date": {
+      "start": null,
+      "end": null,
+      "locale": "en",
+      "originalString": "Febuary 2, 2025"
+    },
+    "description": "At the Terraristikbörse (Terraristics Exchange) Berlin, reptile lovers can purchase lizards, snakes and spiders and gain information about the species-appropriate keeping of the animals.",
+    "href": "https://www.berlin.de/en/trade-fairs/1612580-7918797-terraristik-boerse-berlin.en.html",
+    "onMonth": 11
+  },
+  {
+    "name": "Made in Berlin Job Fair",
+    "date": {
+      "start": "2025-12-03T05:00:00.000Z",
+      "end": "2025-12-03T05:00:00.000Z",
+      "locale": "en",
+      "originalString": "December 03, 2025"
+    },
+    "description": "The job and career fair \"Made in Berlin\" is aimed at university graduates who are looking for an internship or the right career start.",
+    "href": "https://www.berlin.de/en/trade-fairs/3687693-7918797-made-in-berlin-job-fair.en.html",
+    "onMonth": 11
+  }
+]
