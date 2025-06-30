@@ -100,7 +100,7 @@ export function parseGermanDate(date: string): DateRange {
     // Regex for German dates
     const germanSingleDateRegex = /(\d{1,2})\.?\s*([a-zA-Zä]+)\s*(\d{4})/;
     const germanRangeRegex =
-        /(\d{1,2})\.?\s*([a-zA-Zä]+)?\s*(\d{4})?\s*bis\s*(\d{1,2})\.?\s*([a-zA-Zä]+)\s*(\d{4})/;
+        /(\d{1,2})\.?\s*([a-zA-Zä]+)?\s*(\d{4})?\s*(?:bis|und)\s*(\d{1,2})\.?\s*([a-zA-Zä]+)\s*(\d{4})/;
 
     // Check for German range
     if (germanRangeRegex.test(date)) {

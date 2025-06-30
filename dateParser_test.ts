@@ -96,6 +96,7 @@ Deno.test("Parse dates in German", async (t) => {
       "22. November 2024 bis 12. Januar 2025",
       "17. Januar bis 22. März 2025",
       "09. bis 25 Januar 2025",
+      "28. und 29. Juni 2025",
     ];
 
     const correct = [
@@ -116,6 +117,12 @@ Deno.test("Parse dates in German", async (t) => {
         end: new Date("2025-01-25T06:00:00+01:00"),
         locale: "de",
         originalString: "09. bis 25 Januar 2025",
+      },
+      {
+        start: new Date("2025-06-28T06:00:00+01:00"),
+        end: new Date("2025-06-29T06:00:00+01:00"),
+        locale: "de",
+        originalString: "28. und 29. Juni 2025",
       },
     ];
 
